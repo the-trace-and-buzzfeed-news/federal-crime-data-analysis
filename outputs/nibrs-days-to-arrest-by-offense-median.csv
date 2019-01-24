@@ -1,0 +1,5 @@
+top_offense_code,firearm_ind,num_agencies,num_incidents_median,dta_next_day,dta_two_weeks,dta_30_days,dta_later,dta_never
+09A,0,41,44,0.385,0.162,0.026,0.077,0.263
+09A,1,41,133,0.2,0.142,0.036,0.092,0.508
+13A,0,41,5941,0.35,0.044,0.017,0.038,0.531
+13A,1,41,1820,0.189,0.038,0.015,0.034,0.723

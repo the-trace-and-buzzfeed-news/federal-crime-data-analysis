@@ -1,0 +1,5 @@
+top_offense_code,firearm_ind,num_incidents,num_agencies,dta_next_day,dta_two_weeks,dta_30_days,dta_later,dta_never,label
+13A,0,434711,94,0.35,0.039,0.014,0.032,0.565,Aggravated Assault - Other Weapon
+09A,0,3543,93,0.408,0.15,0.033,0.087,0.322,Murder - Other Weapon
+13A,1,176115,94,0.184,0.032,0.011,0.023,0.75,Aggravated Assault - Gun
+09A,1,11591,91,0.18,0.129,0.033,0.082,0.576,Murder - Gun

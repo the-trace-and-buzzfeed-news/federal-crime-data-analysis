@@ -1,0 +1,1395 @@
+variable_num,value,translation
+V1,6,SHR master file
+V2,1,Alabama
+V2,2,Arizona
+V2,3,Arkansas
+V2,4,California
+V2,5,Colorado
+V2,6,Connecticut
+V2,7,Delaware
+V2,8,"Washington, D.C"
+V2,9,Florida
+V2,10,Georgia
+V2,11,Idaho
+V2,12,Illinois
+V2,13,Indiana
+V2,14,Iowa
+V2,15,Kansas
+V2,16,Kentucky
+V2,17,Louisiana
+V2,18,Maine
+V2,19,Maryland
+V2,20,Massachusetts
+V2,21,Michigan
+V2,22,Minnesota
+V2,23,Mississippi
+V2,24,Missouri
+V2,25,Montana
+V2,26,Nebraska
+V2,27,Nevada
+V2,28,New Hampshire
+V2,29,New Jersey
+V2,30,New Mexico
+V2,31,New York
+V2,32,North Carolina
+V2,33,North Dakota
+V2,34,Ohio
+V2,35,Oklahoma
+V2,36,Oregon
+V2,37,Pennsylvania
+V2,38,Rhode Island
+V2,39,South Carolina
+V2,40,South Dakota
+V2,41,Tennessee
+V2,42,Texas
+V2,43,Utah
+V2,44,Vermont
+V2,45,Virginia
+V2,46,Washington
+V2,47,West Virginia
+V2,48,Wisconsin
+V2,49,Wyoming
+V2,50,Alaska
+V2,51,Hawaii
+V2,52,Canal Zone
+V2,53,Puerto Rico
+V2,54,American Samoa
+V2,55,Guam
+V2,62,Virgin Islands
+V4,0,Possessions
+V4,1,"ALL cit 250,000 +"
+V4,1A,"Cit 1,000,000 +"
+V4,1B,"Cit 500,000-999,999"
+V4,1C,"Cit 250,000-499,999"
+V4,2,"Cit 100,000-249,999"
+V4,3,"Cit 50,000-99,999"
+V4,4,"Cit 25,000-49,999"
+V4,5,"Cit 10,000-24,999"
+V4,6,"Cit 2,500-9,999"
+V4,7,"Cit < 2,500"
+V4,8,Non-MSA co.
+V4,8A,"Non-MSA co. 100,000 +"
+V4,8B,"Non-MSA co. 25,000-99,999"
+V4,8C,"Non-MSA co. 10,000-24,999"
+V4,8D,"Non-MSA co. < 10,000"
+V4,8E,Non-MSA St Police
+V4,9,MSA counties
+V4,9A,"MSA co. 100,000 +"
+V4,9B,"MSA co. 25,000-99,999"
+V4,9C,"MSA co. 10,000-24,999"
+V4,9D,"MSA co. < 10,000"
+V4,9E,MSA St Police
+V5,0,Possessions
+V5,1,New England States
+V5,2,Middle Atlantic States
+V5,3,East North Central States
+V5,4,West North Central States
+V5,5,South Atlantic States
+V5,6,East South Central States
+V5,7,West South Central States
+V5,8,Mountain States
+V5,9,Pacific States
+V10,0,Non-suburban
+V10,1,Suburban
+V13,1,January
+V13,2,February
+V13,3,March
+V13,4,April
+V13,5,May
+V13,6,June
+V13,7,July
+V13,8,August
+V13,9,September
+V13,10,October
+V13,11,November
+V13,12,December
+V15,0,Normal update
+V15,1,Adjustment
+V16,A,Murder and non-negligent manslaughter
+V16,B,Manslaughter by negligence
+V18,A,Single victim/single offender
+V18,B,Single victim/unknown offender(s)
+V18,C,Single victim/multiple offenders
+V18,D,Multiple victims/single offender
+V18,E,Multiple victims/multiple offenders
+V18,F,Multiple victims/unknown offender(s)
+V19,00,Unknown
+V19,1,1 year old
+V19,99,99 years old or more
+V19,BB,7 days old to 364 days old
+V19,NB,Birth to 6 days old
+V20,F,Female
+V20,M,Male
+V20,U,Unknown
+V21,A,Asian
+V21,B,Black or African American
+V21,I,American Indian or Alaska Native
+V21,P,Native Hawaiian or Other Pacific Islander
+V21,U,Unknown
+V21,W,White
+V22,H,Hispanic or Latino
+V22,N,Not Hispanic or Latino
+V22,U,Unknown or not reported
+V23,0,Unknown
+V23,1,1 year old
+V23,99,99 years old or more
+V24,F,Female
+V24,M,Male
+V24,U,Unknown
+V25,A,Asian
+V25,B,Black or African American
+V25,I,American Indian or Alaska Native
+V25,P,Native Hawaiian or Other Pacific Islander
+V25,U,Unknown
+V25,W,White
+V26,H,Hispanic or Latino
+V26,N,Not Hispanic or Latino
+V26,U,Unknown
+V27,11,"Firearm, type not stated"
+V27,12,"Handgun - pistol, revolver, etc"
+V27,13,Rifle
+V27,14,Shotgun
+V27,15,Other gun
+V27,20,Knife or cutting instrument
+V27,30,"Blunt object - hammer, club, etc"
+V27,40,"Personal weapons, includes beating"
+V27,50,Poison - does not include gas
+V27,55,Pushed or thrown out window
+V27,60,Explosives
+V27,65,Fire
+V27,70,"Narcotics or drugs, sleeping pills"
+V27,75,Drowning
+V27,80,Strangulation - hanging
+V27,85,Asphyxiation - includes death by gas
+V27,90,Other or type unknown
+V28,AQ,Acquaintance
+V28,BF,Boyfriend
+V28,BR,Brother
+V28,CH,Common-law husband
+V28,CW,Common-law wife
+V28,DA,Daughter
+V28,EE,Employee
+V28,ER,Employer
+V28,FA,Father
+V28,FR,Friend
+V28,GF,Girlfriend
+V28,HO,Homosexual relationship
+V28,HU,Husband
+V28,IL,In-law
+V28,MO,Mother
+V28,NE,Neighbor
+V28,OF,Other family
+V28,OK,Other - known to victim
+V28,SD,Stepdaughter
+V28,SF,Stepfather
+V28,SI,Sister
+V28,SM,Stepmother
+V28,SO,Son
+V28,SS,Stepson
+V28,ST,Stranger
+V28,UN,Relationship not determined
+V28,WI,Wife
+V28,XH,Ex-husband
+V28,XW,Ex-wife
+V29,2,Rape
+V29,3,Robbery
+V29,5,Burglary
+V29,6,Larceny
+V29,7,Motor vehicle theft
+V29,9,Arson
+V29,10,Prostitution and commercialized vice
+V29,17,Other sex offense
+V29,18,Narcotic drug laws
+V29,19,Gambling
+V29,26,Other - not specified
+V29,32,Abortion
+V29,40,Lovers triangle
+V29,41,Child killed by babysitter
+V29,42,Brawl due to influence of alcohol
+V29,43,Brawl due to influence of narcotics
+V29,44,Argument over money or property
+V29,45,Other arguments
+V29,46,Gangland killings
+V29,47,Juvenile gang killings
+V29,48,Institutional killings
+V29,49,Sniper attack
+V29,50,Victim shot in hunting accident
+V29,51,Gun-cleaning death - other than self
+V29,52,Children playing with gun
+V29,53,Other negligent handling of gun
+V29,59,All other manslaughter by negligence
+V29,60,Other
+V29,70,All suspected felony type
+V29,80,Felon killed by private citizen
+V29,81,Felon killed by police
+V29,99,Circumstances undetermined
+V30,A,Felon attacked police officer
+V30,B,Felon attacked fellow police officer
+V30,C,Felon attacked a civilian
+V30,D,Felon attempted flight from a crime
+V30,E,Felon killed in commission of a crime
+V30,F,Felon resisted arrest
+V30,G,Not enough information to determine
+V33,00,Unknown
+V33,1,1 year old
+V33,99,99 years old or more
+V33,BB,7 days old to 364 days old
+V33,NB,Birth to 6 days old
+V34,F,Female
+V34,M,Male
+V34,U,Unknown
+V35,A,Asian
+V35,B,Black or African American
+V35,I,American Indian or Alaska Native
+V35,P,Native Hawaiian or Other Pacific Islander
+V35,U,Unknown
+V35,W,White
+V36,H,Hispanic or Latino
+V36,N,Not Hispanic or Latino
+V36,U,Unknown or not reported
+V37,00,Unknown
+V37,1,1 year old
+V37,99,99 years old or more
+V37,BB,7 days old to 364 days old
+V37,NB,Birth to 6 days old
+V38,F,Female
+V38,M,Male
+V38,U,Unknown
+V39,A,Asian
+V39,B,Black or African American
+V39,I,American Indian or Alaska Native
+V39,P,Native Hawaiian or Other Pacific Islander
+V39,U,Unknown
+V39,W,White
+V40,H,Hispanic or Latino
+V40,N,Not Hispanic or Latino
+V40,U,Unknown or not reported
+V41,00,Unknown
+V41,1,1 year old
+V41,99,99 years old or more
+V41,BB,7 days old to 364 days old
+V41,NB,Birth to 6 days old
+V42,F,Female
+V42,M,Male
+V42,U,Unknown
+V43,A,Asian
+V43,B,Black or African American
+V43,I,American Indian or Alaska Native
+V43,P,Native Hawaiian or Other Pacific Islander
+V43,U,Unknown
+V43,W,White
+V44,H,Hispanic or Latino
+V44,N,Not Hispanic or Latino
+V44,U,Unknown or not reported
+V45,00,Unknown
+V45,1,1 year old
+V45,99,99 years old or more
+V45,BB,7 days old to 364 days old
+V45,NB,Birth to 6 days old
+V46,F,Female
+V46,M,Male
+V46,U,Unknown
+V47,A,Asian
+V47,B,Black or African American
+V47,I,American Indian or Alaska Native
+V47,P,Native Hawaiian or Other Pacific Islander
+V47,U,Unknown
+V47,W,White
+V48,H,Hispanic or Latino
+V48,N,Not Hispanic or Latino
+V48,U,Unknown or not reported
+V49,00,Unknown
+V49,1,1 year old
+V49,99,99 years old or more
+V49,BB,7 days old to 364 days old
+V49,NB,Birth to 6 days old
+V50,F,Female
+V50,M,Male
+V50,U,Unknown
+V51,A,Asian
+V51,B,Black or African American
+V51,I,American Indian or Alaska Native
+V51,P,Native Hawaiian or Other Pacific Islander
+V51,U,Unknown
+V51,W,White
+V52,H,Hispanic or Latino
+V52,N,Not Hispanic or Latino
+V52,U,Unknown or not reported
+V53,00,Unknown
+V53,1,1 year old
+V53,99,99 years old or more
+V53,BB,7 days old to 364 days old
+V53,NB,Birth to 6 days old
+V54,F,Female
+V54,M,Male
+V54,U,Unknown
+V55,A,Asian
+V55,B,Black or African American
+V55,I,American Indian or Alaska Native
+V55,P,Native Hawaiian or Other Pacific Islander
+V55,U,Unknown
+V55,W,White
+V56,H,Hispanic or Latino
+V56,N,Not Hispanic or Latino
+V56,U,Unknown or not reported
+V57,00,Unknown
+V57,1,1 year old
+V57,99,99 years old or more
+V57,BB,7 days old to 364 days old
+V57,NB,Birth to 6 days old
+V58,F,Female
+V58,M,Male
+V58,U,Unknown
+V59,A,Asian
+V59,B,Black or African American
+V59,I,American Indian or Alaska Native
+V59,P,Native Hawaiian or Other Pacific Islander
+V59,U,Unknown
+V59,W,White
+V60,H,Hispanic or Latino
+V60,N,Not Hispanic or Latino
+V60,U,Unknown or not reported
+V61,00,Unknown
+V61,1,1 year old
+V61,99,99 years old or more
+V61,BB,7 days old to 364 days old
+V61,NB,Birth to 6 days old
+V62,F,Female
+V62,M,Male
+V62,U,Unknown
+V63,A,Asian
+V63,B,Black or African American
+V63,I,American Indian or Alaska Native
+V63,P,Native Hawaiian or Other Pacific Islander
+V63,U,Unknown
+V63,W,White
+V64,H,Hispanic or Latino
+V64,N,Not Hispanic or Latino
+V64,U,Unknown or not reported
+V65,00,Unknown
+V65,1,1 year old
+V65,99,99 years old or more
+V65,BB,7 days old to 364 days old
+V65,NB,Birth to 6 days old
+V66,F,Female
+V66,M,Male
+V66,U,Unknown
+V67,A,Asian
+V67,B,Black or African American
+V67,I,American Indian or Alaska Native
+V67,P,Native Hawaiian or Other Pacific Islander
+V67,U,Unknown
+V67,W,White
+V68,H,Hispanic or Latino
+V68,N,Not Hispanic or Latino
+V68,U,Unknown or not reported
+V69,00,Unknown
+V69,1,1 year old
+V69,99,99 years old or more
+V69,BB,7 days old to 364 days old
+V69,NB,Birth to 6 days old
+V70,F,Female
+V70,M,Male
+V70,U,Unknown
+V71,A,Asian
+V71,B,Black or African American
+V71,I,American Indian or Alaska Native
+V71,P,Native Hawaiian or Other Pacific Islander
+V71,U,Unknown
+V71,W,White
+V72,H,Hispanic or Latino
+V72,N,Not Hispanic or Latino
+V72,U,Unknown or not reported
+V73,0,Unknown
+V73,1,1 year old
+V73,99,99 years old or more
+V74,F,Female
+V74,M,Male
+V74,U,Unknown
+V75,A,Asian
+V75,B,Black or African American
+V75,I,American Indian or Alaska Native
+V75,P,Native Hawaiian or Other Pacific Islander
+V75,U,Unknown
+V75,W,White
+V76,H,Hispanic or Latino
+V76,N,Not Hispanic or Latino
+V76,U,Unknown or not reported
+V77,11,"Firearm, type not stated"
+V77,12,"Handgun - pistol, revolver, etc"
+V77,13,Rifle
+V77,14,Shotgun
+V77,15,Other gun
+V77,20,Knife or cutting instrument
+V77,30,"Blunt object - hammer, club, etc"
+V77,40,"Personal weapons, includes beating"
+V77,50,Poison - does not include gas
+V77,55,Pushed or thrown out window
+V77,60,Explosives
+V77,65,Fire
+V77,70,"Narcotics or drugs, sleeping pills"
+V77,75,Drowning
+V77,80,Strangulation - hanging
+V77,85,Asphyxiation - includes death by gas
+V77,90,Other or type unknown
+V78,AQ,Acquaintance
+V78,BF,Boyfriend
+V78,BR,Brother
+V78,CH,Common-law husband
+V78,CW,Common-law wife
+V78,DA,Daughter
+V78,EE,Employee
+V78,ER,Employer
+V78,FA,Father
+V78,FR,Friend
+V78,GF,Girlfriend
+V78,HO,Homosexual relationship
+V78,HU,Husband
+V78,IL,In-law
+V78,MO,Mother
+V78,NE,Neighbor
+V78,OF,Other family
+V78,OK,Other - known to victim
+V78,SD,Stepdaughter
+V78,SF,Stepfather
+V78,SI,Sister
+V78,SM,Stepmother
+V78,SO,Son
+V78,SS,Stepson
+V78,ST,Stranger
+V78,UN,Relationship not determined
+V78,WI,Wife
+V78,XH,Ex-husband
+V78,XW,Ex-wife
+V79,2,Rape
+V79,3,Robbery
+V79,5,Burglary
+V79,6,Larceny
+V79,7,Motor vehicle theft
+V79,9,Arson
+V79,10,Prostitution and commercialized vice
+V79,17,Other sex offense
+V79,18,Narcotic drug laws
+V79,19,Gambling
+V79,26,Other - not specified
+V79,32,Abortion
+V79,40,Lovers triangle
+V79,41,Child killed by babysitter
+V79,42,Brawl due to influence of alcohol
+V79,43,Brawl due to influence of narcotics
+V79,44,Argument over money or property
+V79,45,Other arguments
+V79,46,Gangland killings
+V79,47,Juvenile gang killings
+V79,48,Institutional killings
+V79,49,Sniper attack
+V79,50,Victim shot in hunting accident
+V79,51,Gun-cleaning death - other than self
+V79,52,Children playing with gun
+V79,53,Other negligent handling of gun
+V79,59,All other manslaughter by negligence
+V79,60,Other
+V79,70,All suspected felony type
+V79,80,Felon killed by private citizen
+V79,81,Felon killed by police
+V79,99,Circumstances undetermined
+V80,A,Felon attacked police officer
+V80,B,Felon attacked fellow police officer
+V80,C,Felon attacked a civilian
+V80,D,Felon attempted flight from a crime
+V80,E,Felon killed in commission of a crime
+V80,F,Felon resisted arrest
+V80,G,Not enough information to determine
+V81,0,Unknown
+V81,1,1 year old
+V81,99,99 years old or more
+V82,F,Female
+V82,M,Male
+V82,U,Unknown
+V83,A,Asian
+V83,B,Black or African American
+V83,I,American Indian or Alaska Native
+V83,P,Native Hawaiian or Other Pacific Islander
+V83,U,Unknown
+V83,W,White
+V84,H,Hispanic or Latino
+V84,N,Not Hispanic or Latino
+V84,U,Unknown or not reported
+V85,11,"Firearm, type not stated"
+V85,12,"Handgun - pistol, revolver, etc"
+V85,13,Rifle
+V85,14,Shotgun
+V85,15,Other gun
+V85,20,Knife or cutting instrument
+V85,30,"Blunt object - hammer, club, etc"
+V85,40,"Personal weapons, includes beating"
+V85,50,Poison - does not include gas
+V85,55,Pushed or thrown out window
+V85,60,Explosives
+V85,65,Fire
+V85,70,"Narcotics or drugs, sleeping pills"
+V85,75,Drowning
+V85,80,Strangulation - hanging
+V85,85,Asphyxiation - includes death by gas
+V85,90,Other or type unknown
+V86,AQ,Acquaintance
+V86,BF,Boyfriend
+V86,BR,Brother
+V86,CH,Common-law husband
+V86,CW,Common-law wife
+V86,DA,Daughter
+V86,EE,Employee
+V86,ER,Employer
+V86,FA,Father
+V86,FR,Friend
+V86,GF,Girlfriend
+V86,HO,Homosexual relationship
+V86,HU,Husband
+V86,IL,In-law
+V86,MO,Mother
+V86,NE,Neighbor
+V86,OF,Other family
+V86,OK,Other - known to victim
+V86,SD,Stepdaughter
+V86,SF,Stepfather
+V86,SI,Sister
+V86,SM,Stepmother
+V86,SO,Son
+V86,SS,Stepson
+V86,ST,Stranger
+V86,UN,Relationship not determined
+V86,WI,Wife
+V86,XH,Ex-husband
+V86,XW,Ex-wife
+V87,2,Rape
+V87,3,Robbery
+V87,5,Burglary
+V87,6,Larceny
+V87,7,Motor vehicle theft
+V87,9,Arson
+V87,10,Prostitution and commercialized vice
+V87,17,Other sex offense
+V87,18,Narcotic drug laws
+V87,19,Gambling
+V87,26,Other - not specified
+V87,32,Abortion
+V87,40,Lovers triangle
+V87,41,Child killed by babysitter
+V87,42,Brawl due to influence of alcohol
+V87,43,Brawl due to influence of narcotics
+V87,44,Argument over money or property
+V87,45,Other arguments
+V87,46,Gangland killings
+V87,47,Juvenile gang killings
+V87,48,Institutional killings
+V87,49,Sniper attack
+V87,50,Victim shot in hunting accident
+V87,51,Gun-cleaning death - other than self
+V87,52,Children playing with gun
+V87,53,Other negligent handling of gun
+V87,59,All other manslaughter by negligence
+V87,60,Other
+V87,70,All suspected felony type
+V87,80,Felon killed by private citizen
+V87,81,Felon killed by police
+V87,99,Circumstances undetermined
+V88,A,Felon attacked police officer
+V88,B,Felon attacked fellow police officer
+V88,C,Felon attacked a civilian
+V88,D,Felon attempted flight from a crime
+V88,E,Felon killed in commission of a crime
+V88,F,Felon resisted arrest
+V88,G,Not enough information to determine
+V89,0,Unknown
+V89,1,1 year old
+V89,99,99 years old or more
+V90,F,Female
+V90,M,Male
+V90,U,Unknown
+V91,A,Asian
+V91,B,Black or African American
+V91,I,American Indian or Alaska Native
+V91,P,Native Hawaiian or Other Pacific Islander
+V91,U,Unknown
+V91,W,White
+V92,H,Hispanic or Latino
+V92,N,Not Hispanic or Latino
+V92,U,Unknown or not reported
+V93,11,"Firearm, type not stated"
+V93,12,"Handgun - pistol, revolver, etc"
+V93,13,Rifle
+V93,14,Shotgun
+V93,15,Other gun
+V93,20,Knife or cutting instrument
+V93,30,"Blunt object - hammer, club, etc"
+V93,40,"Personal weapons, includes beating"
+V93,50,Poison - does not include gas
+V93,55,Pushed or thrown out window
+V93,60,Explosives
+V93,65,Fire
+V93,70,"Narcotics or drugs, sleeping pills"
+V93,75,Drowning
+V93,80,Strangulation - hanging
+V93,85,Asphyxiation - includes death by gas
+V93,90,Other or type unknown
+V94,AQ,Acquaintance
+V94,BF,Boyfriend
+V94,BR,Brother
+V94,CH,Common-law husband
+V94,CW,Common-law wife
+V94,DA,Daughter
+V94,EE,Employee
+V94,ER,Employer
+V94,FA,Father
+V94,FR,Friend
+V94,GF,Girlfriend
+V94,HO,Homosexual relationship
+V94,HU,Husband
+V94,IL,In-law
+V94,MO,Mother
+V94,NE,Neighbor
+V94,OF,Other family
+V94,OK,Other - known to victim
+V94,SD,Stepdaughter
+V94,SF,Stepfather
+V94,SI,Sister
+V94,SM,Stepmother
+V94,SO,Son
+V94,SS,Stepson
+V94,ST,Stranger
+V94,UN,Relationship not determined
+V94,WI,Wife
+V94,XH,Ex-husband
+V94,XW,Ex-wife
+V95,2,Rape
+V95,3,Robbery
+V95,5,Burglary
+V95,6,Larceny
+V95,7,Motor vehicle theft
+V95,9,Arson
+V95,10,Prostitution and commercialized vice
+V95,17,Other sex offense
+V95,18,Narcotic drug laws
+V95,19,Gambling
+V95,26,Other - not specified
+V95,32,Abortion
+V95,40,Lovers triangle
+V95,41,Child killed by babysitter
+V95,42,Brawl due to influence of alcohol
+V95,43,Brawl due to influence of narcotics
+V95,44,Argument over money or property
+V95,45,Other arguments
+V95,46,Gangland killings
+V95,47,Juvenile gang killings
+V95,48,Institutional killings
+V95,49,Sniper attack
+V95,50,Victim shot in hunting accident
+V95,51,Gun-cleaning death - other than self
+V95,52,Children playing with gun
+V95,53,Other negligent handling of gun
+V95,59,All other manslaughter by negligence
+V95,60,Other
+V95,70,All suspected felony type
+V95,80,Felon killed by private citizen
+V95,81,Felon killed by police
+V95,99,Circumstances undetermined
+V96,A,Felon attacked police officer
+V96,B,Felon attacked fellow police officer
+V96,C,Felon attacked a civilian
+V96,D,Felon attempted flight from a crime
+V96,E,Felon killed in commission of a crime
+V96,F,Felon resisted arrest
+V96,G,Not enough information to determine
+V97,0,Unknown
+V97,1,1 year old
+V97,99,99 years old or more
+V98,F,Female
+V98,M,Male
+V98,U,Unknown
+V99,A,Asian
+V99,B,Black or African American
+V99,I,American Indian or Alaska Native
+V99,P,Native Hawaiian or Other Pacific Islander
+V99,U,Unknown
+V99,W,White
+V100,H,Hispanic or Latino
+V100,N,Not Hispanic or Latino
+V100,U,Unknown or not reported
+V101,11,"Firearm, type not stated"
+V101,12,"Handgun - pistol, revolver, etc"
+V101,13,Rifle
+V101,14,Shotgun
+V101,15,Other gun
+V101,20,Knife or cutting instrument
+V101,30,"Blunt object - hammer, club, etc"
+V101,40,"Personal weapons, includes beating"
+V101,50,Poison - does not include gas
+V101,55,Pushed or thrown out window
+V101,60,Explosives
+V101,65,Fire
+V101,70,"Narcotics or drugs, sleeping pills"
+V101,75,Drowning
+V101,80,Strangulation - hanging
+V101,85,Asphyxiation - includes death by gas
+V101,90,Other or type unknown
+V102,AQ,Acquaintance
+V102,BF,Boyfriend
+V102,BR,Brother
+V102,CH,Common-law husband
+V102,CW,Common-law wife
+V102,DA,Daughter
+V102,EE,Employee
+V102,ER,Employer
+V102,FA,Father
+V102,FR,Friend
+V102,GF,Girlfriend
+V102,HO,Homosexual relationship
+V102,HU,Husband
+V102,IL,In-law
+V102,MO,Mother
+V102,NE,Neighbor
+V102,OF,Other family
+V102,OK,Other - known to victim
+V102,SD,Stepdaughter
+V102,SF,Stepfather
+V102,SI,Sister
+V102,SM,Stepmother
+V102,SO,Son
+V102,SS,Stepson
+V102,ST,Stranger
+V102,UN,Relationship not determined
+V102,WI,Wife
+V102,XH,Ex-husband
+V102,XW,Ex-wife
+V103,2,Rape
+V103,3,Robbery
+V103,5,Burglary
+V103,6,Larceny
+V103,7,Motor vehicle theft
+V103,9,Arson
+V103,10,Prostitution and commercialized vice
+V103,17,Other sex offense
+V103,18,Narcotic drug laws
+V103,19,Gambling
+V103,26,Other - not specified
+V103,32,Abortion
+V103,40,Lovers triangle
+V103,41,Child killed by babysitter
+V103,42,Brawl due to influence of alcohol
+V103,43,Brawl due to influence of narcotics
+V103,44,Argument over money or property
+V103,45,Other arguments
+V103,46,Gangland killings
+V103,47,Juvenile gang killings
+V103,48,Institutional killings
+V103,49,Sniper attack
+V103,50,Victim shot in hunting accident
+V103,51,Gun-cleaning death - other than self
+V103,52,Children playing with gun
+V103,53,Other negligent handling of gun
+V103,59,All other manslaughter by negligence
+V103,60,Other
+V103,70,All suspected felony type
+V103,80,Felon killed by private citizen
+V103,81,Felon killed by police
+V103,99,Circumstances undetermined
+V104,A,Felon attacked police officer
+V104,B,Felon attacked fellow police officer
+V104,C,Felon attacked a civilian
+V104,D,Felon attempted flight from a crime
+V104,E,Felon killed in commission of a crime
+V104,F,Felon resisted arrest
+V104,G,Not enough information to determine
+V105,0,Unknown
+V105,1,1 year old
+V105,99,99 years old or more
+V106,F,Female
+V106,M,Male
+V106,U,Unknown
+V107,A,Asian
+V107,B,Black or African American
+V107,I,American Indian or Alaska Native
+V107,P,Native Hawaiian or Other Pacific Islander
+V107,U,Unknown
+V107,W,White
+V108,H,Hispanic or Latino
+V108,N,Not Hispanic or Latino
+V108,U,Unknown or not reported
+V109,11,"Firearm, type not stated"
+V109,12,"Handgun - pistol, revolver, etc"
+V109,13,Rifle
+V109,14,Shotgun
+V109,15,Other gun
+V109,20,Knife or cutting instrument
+V109,30,"Blunt object - hammer, club, etc"
+V109,40,"Personal weapons, includes beating"
+V109,50,Poison - does not include gas
+V109,55,Pushed or thrown out window
+V109,60,Explosives
+V109,65,Fire
+V109,70,"Narcotics or drugs, sleeping pills"
+V109,75,Drowning
+V109,80,Strangulation - hanging
+V109,85,Asphyxiation - includes death by gas
+V109,90,Other or type unknown
+V110,AQ,Acquaintance
+V110,BF,Boyfriend
+V110,BR,Brother
+V110,CH,Common-law husband
+V110,CW,Common-law wife
+V110,DA,Daughter
+V110,EE,Employee
+V110,ER,Employer
+V110,FA,Father
+V110,FR,Friend
+V110,GF,Girlfriend
+V110,HO,Homosexual relationship
+V110,HU,Husband
+V110,IL,In-law
+V110,MO,Mother
+V110,NE,Neighbor
+V110,OF,Other family
+V110,OK,Other - known to victim
+V110,SD,Stepdaughter
+V110,SF,Stepfather
+V110,SI,Sister
+V110,SM,Stepmother
+V110,SO,Son
+V110,SS,Stepson
+V110,ST,Stranger
+V110,UN,Relationship not determined
+V110,WI,Wife
+V110,XH,Ex-husband
+V110,XW,Ex-wife
+V111,2,Rape
+V111,3,Robbery
+V111,5,Burglary
+V111,6,Larceny
+V111,7,Motor vehicle theft
+V111,9,Arson
+V111,10,Prostitution and commercialized vice
+V111,17,Other sex offense
+V111,18,Narcotic drug laws
+V111,19,Gambling
+V111,26,Other - not specified
+V111,32,Abortion
+V111,40,Lovers triangle
+V111,41,Child killed by babysitter
+V111,42,Brawl due to influence of alcohol
+V111,43,Brawl due to influence of narcotics
+V111,44,Argument over money or property
+V111,45,Other arguments
+V111,46,Gangland killings
+V111,47,Juvenile gang killings
+V111,48,Institutional killings
+V111,49,Sniper attack
+V111,50,Victim shot in hunting accident
+V111,51,Gun-cleaning death - other than self
+V111,52,Children playing with gun
+V111,53,Other negligent handling of gun
+V111,59,All other manslaughter by negligence
+V111,60,Other
+V111,70,All suspected felony type
+V111,80,Felon killed by private citizen
+V111,81,Felon killed by police
+V111,99,Circumstances undetermined
+V112,A,Felon attacked police officer
+V112,B,Felon attacked fellow police officer
+V112,C,Felon attacked a civilian
+V112,D,Felon attempted flight from a crime
+V112,E,Felon killed in commission of a crime
+V112,F,Felon resisted arrest
+V112,G,Not enough information to determine
+V113,0,Unknown
+V113,1,1 year old
+V113,99,99 years old or more
+V114,F,Female
+V114,M,Male
+V114,U,Unknown
+V115,A,Asian
+V115,B,Black or African American
+V115,I,American Indian or Alaska Native
+V115,P,Native Hawaiian or Other Pacific Islander
+V115,U,Unknown
+V115,W,White
+V116,H,Hispanic or Latino
+V116,N,Not Hispanic or Latino
+V116,U,Unknown or not reported
+V117,11,"Firearm, type not stated"
+V117,12,"Handgun - pistol, revolver, etc"
+V117,13,Rifle
+V117,14,Shotgun
+V117,15,Other gun
+V117,20,Knife or cutting instrument
+V117,30,"Blunt object - hammer, club, etc"
+V117,40,"Personal weapons, includes beating"
+V117,50,Poison - does not include gas
+V117,55,Pushed or thrown out window
+V117,60,Explosives
+V117,65,Fire
+V117,70,"Narcotics or drugs, sleeping pills"
+V117,75,Drowning
+V117,80,Strangulation - hanging
+V117,85,Asphyxiation - includes death by gas
+V117,90,Other or type unknown
+V118,AQ,Acquaintance
+V118,BF,Boyfriend
+V118,BR,Brother
+V118,CH,Common-law husband
+V118,CW,Common-law wife
+V118,DA,Daughter
+V118,EE,Employee
+V118,ER,Employer
+V118,FA,Father
+V118,FR,Friend
+V118,GF,Girlfriend
+V118,HO,Homosexual relationship
+V118,HU,Husband
+V118,IL,In-law
+V118,MO,Mother
+V118,NE,Neighbor
+V118,OF,Other family
+V118,OK,Other - known to victim
+V118,SD,Stepdaughter
+V118,SF,Stepfather
+V118,SI,Sister
+V118,SM,Stepmother
+V118,SO,Son
+V118,SS,Stepson
+V118,ST,Stranger
+V118,UN,Relationship not determined
+V118,WI,Wife
+V118,XH,Ex-husband
+V118,XW,Ex-wife
+V119,2,Rape
+V119,3,Robbery
+V119,5,Burglary
+V119,6,Larceny
+V119,7,Motor vehicle theft
+V119,9,Arson
+V119,10,Prostitution and commercialized vice
+V119,17,Other sex offense
+V119,18,Narcotic drug laws
+V119,19,Gambling
+V119,26,Other - not specified
+V119,32,Abortion
+V119,40,Lovers triangle
+V119,41,Child killed by babysitter
+V119,42,Brawl due to influence of alcohol
+V119,43,Brawl due to influence of narcotics
+V119,44,Argument over money or property
+V119,45,Other arguments
+V119,46,Gangland killings
+V119,47,Juvenile gang killings
+V119,48,Institutional killings
+V119,49,Sniper attack
+V119,50,Victim shot in hunting accident
+V119,51,Gun-cleaning death - other than self
+V119,52,Children playing with gun
+V119,53,Other negligent handling of gun
+V119,59,All other manslaughter by negligence
+V119,60,Other
+V119,70,All suspected felony type
+V119,80,Felon killed by private citizen
+V119,81,Felon killed by police
+V119,99,Circumstances undetermined
+V120,A,Felon attacked police officer
+V120,B,Felon attacked fellow police officer
+V120,C,Felon attacked a civilian
+V120,D,Felon attempted flight from a crime
+V120,E,Felon killed in commission of a crime
+V120,F,Felon resisted arrest
+V120,G,Not enough information to determine
+V121,0,Unknown
+V121,1,1 year old
+V121,99,99 years old or more
+V122,F,Female
+V122,M,Male
+V122,U,Unknown
+V123,A,Asian
+V123,B,Black or African American
+V123,I,American Indian or Alaska Native
+V123,P,Native Hawaiian or Other Pacific Islander
+V123,U,Unknown
+V123,W,White
+V124,H,Hispanic or Latino
+V124,N,Not Hispanic or Latino
+V124,U,Unknown or not reported
+V125,11,"Firearm, type not stated"
+V125,12,"Handgun - pistol, revolver, etc"
+V125,13,Rifle
+V125,14,Shotgun
+V125,15,Other gun
+V125,20,Knife or cutting instrument
+V125,30,"Blunt object - hammer, club, etc"
+V125,40,"Personal weapons, includes beating"
+V125,50,Poison - does not include gas
+V125,55,Pushed or thrown out window
+V125,60,Explosives
+V125,65,Fire
+V125,70,"Narcotics or drugs, sleeping pills"
+V125,75,Drowning
+V125,80,Strangulation - hanging
+V125,85,Asphyxiation - includes death by gas
+V125,90,Other or type unknown
+V126,AQ,Acquaintance
+V126,BF,Boyfriend
+V126,BR,Brother
+V126,CH,Common-law husband
+V126,CW,Common-law wife
+V126,DA,Daughter
+V126,EE,Employee
+V126,ER,Employer
+V126,FA,Father
+V126,FR,Friend
+V126,GF,Girlfriend
+V126,HO,Homosexual relationship
+V126,HU,Husband
+V126,IL,In-law
+V126,MO,Mother
+V126,NE,Neighbor
+V126,OF,Other family
+V126,OK,Other - known to victim
+V126,SD,Stepdaughter
+V126,SF,Stepfather
+V126,SI,Sister
+V126,SM,Stepmother
+V126,SO,Son
+V126,SS,Stepson
+V126,ST,Stranger
+V126,UN,Relationship not determined
+V126,WI,Wife
+V126,XH,Ex-husband
+V126,XW,Ex-wife
+V127,2,Rape
+V127,3,Robbery
+V127,5,Burglary
+V127,6,Larceny
+V127,7,Motor vehicle theft
+V127,9,Arson
+V127,10,Prostitution and commercialized vice
+V127,17,Other sex offense
+V127,18,Narcotic drug laws
+V127,19,Gambling
+V127,26,Other - not specified
+V127,32,Abortion
+V127,40,Lovers triangle
+V127,41,Child killed by babysitter
+V127,42,Brawl due to influence of alcohol
+V127,43,Brawl due to influence of narcotics
+V127,44,Argument over money or property
+V127,45,Other arguments
+V127,46,Gangland killings
+V127,47,Juvenile gang killings
+V127,48,Institutional killings
+V127,49,Sniper attack
+V127,50,Victim shot in hunting accident
+V127,51,Gun-cleaning death - other than self
+V127,52,Children playing with gun
+V127,53,Other negligent handling of gun
+V127,59,All other manslaughter by negligence
+V127,60,Other
+V127,70,All suspected felony type
+V127,80,Felon killed by private citizen
+V127,81,Felon killed by police
+V127,99,Circumstances undetermined
+V128,A,Felon attacked police officer
+V128,B,Felon attacked fellow police officer
+V128,C,Felon attacked a civilian
+V128,D,Felon attempted flight from a crime
+V128,E,Felon killed in commission of a crime
+V128,F,Felon resisted arrest
+V128,G,Not enough information to determine
+V129,0,Unknown
+V129,1,1 year old
+V129,99,99 years old or more
+V130,F,Female
+V130,M,Male
+V130,U,Unknown
+V131,A,Asian
+V131,B,Black or African American
+V131,I,American Indian or Alaska Native
+V131,P,Native Hawaiian or Other Pacific Islander
+V131,U,Unknown
+V131,W,White
+V132,H,Hispanic or Latino
+V132,N,Not Hispanic or Latino
+V132,U,Unknown or not reported
+V133,11,"Firearm, type not stated"
+V133,12,"Handgun - pistol, revolver, etc"
+V133,13,Rifle
+V133,14,Shotgun
+V133,15,Other gun
+V133,20,Knife or cutting instrument
+V133,30,"Blunt object - hammer, club, etc"
+V133,40,"Personal weapons, includes beating"
+V133,50,Poison - does not include gas
+V133,55,Pushed or thrown out window
+V133,60,Explosives
+V133,65,Fire
+V133,70,"Narcotics or drugs, sleeping pills"
+V133,75,Drowning
+V133,80,Strangulation - hanging
+V133,85,Asphyxiation - includes death by gas
+V133,90,Other or type unknown
+V134,AQ,Acquaintance
+V134,BF,Boyfriend
+V134,BR,Brother
+V134,CH,Common-law husband
+V134,CW,Common-law wife
+V134,DA,Daughter
+V134,EE,Employee
+V134,ER,Employer
+V134,FA,Father
+V134,FR,Friend
+V134,GF,Girlfriend
+V134,HO,Homosexual relationship
+V134,HU,Husband
+V134,IL,In-law
+V134,MO,Mother
+V134,NE,Neighbor
+V134,OF,Other family
+V134,OK,Other - known to victim
+V134,SD,Stepdaughter
+V134,SF,Stepfather
+V134,SI,Sister
+V134,SM,Stepmother
+V134,SO,Son
+V134,SS,Stepson
+V134,ST,Stranger
+V134,UN,Relationship not determined
+V134,WI,Wife
+V134,XH,Ex-husband
+V134,XW,Ex-wife
+V135,2,Rape
+V135,3,Robbery
+V135,5,Burglary
+V135,6,Larceny
+V135,7,Motor vehicle theft
+V135,9,Arson
+V135,10,Prostitution and commercialized vice
+V135,17,Other sex offense
+V135,18,Narcotic drug laws
+V135,19,Gambling
+V135,26,Other - not specified
+V135,32,Abortion
+V135,40,Lovers triangle
+V135,41,Child killed by babysitter
+V135,42,Brawl due to influence of alcohol
+V135,43,Brawl due to influence of narcotics
+V135,44,Argument over money or property
+V135,45,Other arguments
+V135,46,Gangland killings
+V135,47,Juvenile gang killings
+V135,48,Institutional killings
+V135,49,Sniper attack
+V135,50,Victim shot in hunting accident
+V135,51,Gun-cleaning death - other than self
+V135,52,Children playing with gun
+V135,53,Other negligent handling of gun
+V135,59,All other manslaughter by negligence
+V135,60,Other
+V135,70,All suspected felony type
+V135,80,Felon killed by private citizen
+V135,81,Felon killed by police
+V135,99,Circumstances undetermined
+V136,A,Felon attacked police officer
+V136,B,Felon attacked fellow police officer
+V136,C,Felon attacked a civilian
+V136,D,Felon attempted flight from a crime
+V136,E,Felon killed in commission of a crime
+V136,F,Felon resisted arrest
+V136,G,Not enough information to determine
+V137,0,Unknown
+V137,1,1 year old
+V137,99,99 years old or more
+V138,F,Female
+V138,M,Male
+V138,U,Unknown
+V139,A,Asian
+V139,B,Black or African American
+V139,I,American Indian or Alaska Native
+V139,P,Native Hawaiian or Other Pacific Islander
+V139,U,Unknown
+V139,W,White
+V140,H,Hispanic or Latino
+V140,N,Not Hispanic or Latino
+V140,U,Unknown or not reported
+V141,11,"Firearm, type not stated"
+V141,12,"Handgun - pistol, revolver, etc"
+V141,13,Rifle
+V141,14,Shotgun
+V141,15,Other gun
+V141,20,Knife or cutting instrument
+V141,30,"Blunt object - hammer, club, etc"
+V141,40,"Personal weapons, includes beating"
+V141,50,Poison - does not include gas
+V141,55,Pushed or thrown out window
+V141,60,Explosives
+V141,65,Fire
+V141,70,"Narcotics or drugs, sleeping pills"
+V141,75,Drowning
+V141,80,Strangulation - hanging
+V141,85,Asphyxiation - includes death by gas
+V141,90,Other or type unknown
+V142,AQ,Acquaintance
+V142,BF,Boyfriend
+V142,BR,Brother
+V142,CH,Common-law husband
+V142,CW,Common-law wife
+V142,DA,Daughter
+V142,EE,Employee
+V142,ER,Employer
+V142,FA,Father
+V142,FR,Friend
+V142,GF,Girlfriend
+V142,HO,Homosexual relationship
+V142,HU,Husband
+V142,IL,In-law
+V142,MO,Mother
+V142,NE,Neighbor
+V142,OF,Other family
+V142,OK,Other - known to victim
+V142,SD,Stepdaughter
+V142,SF,Stepfather
+V142,SI,Sister
+V142,SM,Stepmother
+V142,SO,Son
+V142,SS,Stepson
+V142,ST,Stranger
+V142,UN,Relationship not determined
+V142,WI,Wife
+V142,XH,Ex-husband
+V142,XW,Ex-wife
+V143,2,Rape
+V143,3,Robbery
+V143,5,Burglary
+V143,6,Larceny
+V143,7,Motor vehicle theft
+V143,9,Arson
+V143,10,Prostitution and commercialized vice
+V143,17,Other sex offense
+V143,18,Narcotic drug laws
+V143,19,Gambling
+V143,26,Other - not specified
+V143,32,Abortion
+V143,40,Lovers triangle
+V143,41,Child killed by babysitter
+V143,42,Brawl due to influence of alcohol
+V143,43,Brawl due to influence of narcotics
+V143,44,Argument over money or property
+V143,45,Other arguments
+V143,46,Gangland killings
+V143,47,Juvenile gang killings
+V143,48,Institutional killings
+V143,49,Sniper attack
+V143,50,Victim shot in hunting accident
+V143,51,Gun-cleaning death - other than self
+V143,52,Children playing with gun
+V143,53,Other negligent handling of gun
+V143,59,All other manslaughter by negligence
+V143,60,Other
+V143,70,All suspected felony type
+V143,80,Felon killed by private citizen
+V143,81,Felon killed by police
+V143,99,Circumstances undetermined
+V144,A,Felon attacked police officer
+V144,B,Felon attacked fellow police officer
+V144,C,Felon attacked a civilian
+V144,D,Felon attempted flight from a crime
+V144,E,Felon killed in commission of a crime
+V144,F,Felon resisted arrest
+V144,G,Not enough information to determine
+V145,0,Unknown
+V145,1,1 year old
+V145,99,99 years old or more
+V146,F,Female
+V146,M,Male
+V146,U,Unknown
+V147,A,Asian
+V147,B,Black or African American
+V147,I,American Indian or Alaska Native
+V147,P,Native Hawaiian or Other Pacific Islander
+V147,U,Unknown
+V147,W,White
+V148,H,Hispanic or Latino
+V148,N,Not Hispanic or Latino
+V148,U,Unknown or not reported
+V149,11,"Firearm, type not stated"
+V149,12,"Handgun - pistol, revolver, etc"
+V149,13,Rifle
+V149,14,Shotgun
+V149,15,Other gun
+V149,20,Knife or cutting instrument
+V149,30,"Blunt object - hammer, club, etc"
+V149,40,"Personal weapons, includes beating"
+V149,50,Poison - does not include gas
+V149,55,Pushed or thrown out window
+V149,60,Explosives
+V149,65,Fire
+V149,70,"Narcotics or drugs, sleeping pills"
+V149,75,Drowning
+V149,80,Strangulation - hanging
+V149,85,Asphyxiation - includes death by gas
+V149,90,Other or type unknown
+V150,AQ,Acquaintance
+V150,BF,Boyfriend
+V150,BR,Brother
+V150,CH,Common-law husband
+V150,CW,Common-law wife
+V150,DA,Daughter
+V150,EE,Employee
+V150,ER,Employer
+V150,FA,Father
+V150,FR,Friend
+V150,GF,Girlfriend
+V150,HO,Homosexual relationship
+V150,HU,Husband
+V150,IL,In-law
+V150,MO,Mother
+V150,NE,Neighbor
+V150,OF,Other family
+V150,OK,Other - known to victim
+V150,SD,Stepdaughter
+V150,SF,Stepfather
+V150,SI,Sister
+V150,SM,Stepmother
+V150,SO,Son
+V150,SS,Stepson
+V150,ST,Stranger
+V150,UN,Relationship not determined
+V150,WI,Wife
+V150,XH,Ex-husband
+V150,XW,Ex-wife
+V151,2,Rape
+V151,3,Robbery
+V151,5,Burglary
+V151,6,Larceny
+V151,7,Motor vehicle theft
+V151,9,Arson
+V151,10,Prostitution and commercialized vice
+V151,17,Other sex offense
+V151,18,Narcotic drug laws
+V151,19,Gambling
+V151,26,Other - not specified
+V151,32,Abortion
+V151,40,Lovers triangle
+V151,41,Child killed by babysitter
+V151,42,Brawl due to influence of alcohol
+V151,43,Brawl due to influence of narcotics
+V151,44,Argument over money or property
+V151,45,Other arguments
+V151,46,Gangland killings
+V151,47,Juvenile gang killings
+V151,48,Institutional killings
+V151,49,Sniper attack
+V151,50,Victim shot in hunting accident
+V151,51,Gun-cleaning death - other than self
+V151,52,Children playing with gun
+V151,53,Other negligent handling of gun
+V151,59,All other manslaughter by negligence
+V151,60,Other
+V151,70,All suspected felony type
+V151,80,Felon killed by private citizen
+V151,81,Felon killed by police
+V151,99,Circumstances undetermined

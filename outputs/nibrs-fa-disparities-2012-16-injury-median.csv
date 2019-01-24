@@ -1,0 +1,4 @@
+victim_injury_category,num_agencies,median_arrest_diff,median_clearance_diff
+major,23,0.134,0.152
+minor,18,0.0605,0.07400000000000001
+none,58,0.0345,0.042

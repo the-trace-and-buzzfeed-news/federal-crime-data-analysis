@@ -1,0 +1,4078 @@
+variable_num,value,translation
+BH001,BH,Batch Header
+BH002,01,AL-Alabama
+BH002,02,AZ-Arizona
+BH002,03,AR-Arkansas
+BH002,04,CA-California
+BH002,05,CO-Colorado
+BH002,06,CT-Connecticut
+BH002,07,DE-Delaware
+BH002,08,DC-District of Columbia
+BH002,09,FL-Florida
+BH002,10,GA-Georgia
+BH002,11,ID-Idaho
+BH002,12,IL-Illinois
+BH002,13,IN-Indiana
+BH002,14,IA-Iowa
+BH002,15,KS-Kansas
+BH002,16,KY-Kentucky
+BH002,17,LA-Louisiana
+BH002,18,ME-Maine
+BH002,19,MD-Maryland
+BH002,20,MA-Massachusetts
+BH002,21,MI-Michigan
+BH002,22,MN-Minnesota
+BH002,23,MS-Mississippi
+BH002,24,MO-Missouri
+BH002,25,MT-Montana
+BH002,26,NB-Nebraska
+BH002,27,NV-Nevada
+BH002,28,NH-New Hampshire
+BH002,29,NJ-New Jersey
+BH002,30,NM-New Mexico
+BH002,31,NY-New York
+BH002,32,NC-North Carolina
+BH002,33,ND-North Dakota
+BH002,34,OH-Ohio
+BH002,35,OK-Oklahoma
+BH002,36,OR-Oregon
+BH002,37,PA-Pennsylvania
+BH002,38,RI-Rhode Island
+BH002,39,SC-South Carolina
+BH002,40,SD-South Dakota
+BH002,41,TN-Tennessee
+BH002,42,TX-Texas
+BH002,43,UT-Utah
+BH002,44,VT-Vermont
+BH002,45,VA-Virginia
+BH002,46,WA-Washington
+BH002,47,WV-West Virginia
+BH002,48,WI-Wisconsin
+BH002,49,WY-Wyoming
+BH002,50,AK-Alaska
+BH002,51,HI-Hawaii
+BH002,52,CZ-Canal Zone
+BH002,53,PR-Puerto Rico
+BH002,54,AS-American Samoa
+BH002,55,GM-Guam
+BH002,62,VI-Virgin Islands
+BH009,0,"Possessions and Canal Zone(Puerto Rico, Guam, Canal Zone, Virgin Islands, and American Samoa)"
+BH009,1,"All cities 250,000 or over"
+BH009,1A,"Cities 1,000,000 or over"
+BH009,1B,"Cities from 500,000 thru 999,999"
+BH009,1C,"Cities from 250,000 thru 499,999"
+BH009,2,"Cities from 100,000 thru 249,999"
+BH009,3,"Cities from 50,000 thru 99,999"
+BH009,4,"Cities from 25,000 thru 49,999"
+BH009,5,"Cities from 10,000 thru 24,999"
+BH009,6,"Cities from 2,500 thru 9,999"
+BH009,7,"Cities under 2,500"
+BH009,8,Non-MSA Counties
+BH009,8A,"Non-MSA Counties 100,000 or over"
+BH009,8B,"Non-MSA Counties from 25,000 thru 99,999"
+BH009,8C,"Non-MSA Counties from 10,000 thru 24,999"
+BH009,8D,"Non-MSA Counties under 10,000"
+BH009,8E,Non-MSA State Police
+BH009,9,MSA Counties
+BH009,9A,"MSA Counties 100,000 or over"
+BH009,9B,"MSA Counties from 25,000 thru 99,999"
+BH009,9C,"MSA Counties from 10,000 thru 24,999"
+BH009,9D,"MSA Counties under 10,000"
+BH009,9E,MSA State Police
+BH010,0,Possessions and Canal Zone
+BH010,1,New England
+BH010,2,Middle Atlantic
+BH010,3,East North Central
+BH010,4,West North Central
+BH010,5,South Atlantic
+BH010,6,East South Central
+BH010,7,West South Central
+BH010,8,Mountain
+BH010,9,Pacific
+BH011,0,Possessions and Canal Zone
+BH011,1,North East
+BH011,2,North Central
+BH011,3,South
+BH011,4,West
+BH012,0,Covered-By Another Agency
+BH012,1,City
+BH012,2,County
+BH012,3,University or College
+BH012,4,State Police
+BH012,5,Special Agency
+BH012,6,Other State Agencies
+BH012,7,Tribal Agencies
+BH012,8,Federal Agencies
+BH013,Y,Yes
+BH013,N,No
+BH015,9999,Blanked
+BH017,Blank,Does not yet participate
+BH017,A,Active
+BH039,Blanks,no months reported
+BH039,01,1 or more months reported
+BH039,06,6 or more months reported
+BH039,12,12 months reported
+V1001,01,Administrative Segment
+V1002,01,AL-Alabama
+V1002,02,AZ-Arizona
+V1002,03,AR-Arkansas
+V1002,04,CA-California
+V1002,05,CO-Colorado
+V1002,06,CT-Connecticut
+V1002,07,DE-Delaware
+V1002,08,DC-District of Columbia
+V1002,09,FL-Florida
+V1002,10,GA-Georgia
+V1002,11,ID-Idaho
+V1002,12,IL-Illinois
+V1002,13,IN-Indiana
+V1002,14,IA-Iowa
+V1002,15,KS-Kansas
+V1002,16,KY-Kentucky
+V1002,17,LA-Louisiana
+V1002,18,ME-Maine
+V1002,19,MD-Maryland
+V1002,20,MA-Massachusetts
+V1002,21,MI-Michigan
+V1002,22,MN-Minnesota
+V1002,23,MS-Mississippi
+V1002,24,MO-Missouri
+V1002,25,MT-Montana
+V1002,26,NB-Nebraska
+V1002,27,NV-Nevada
+V1002,28,NH-New Hampshire
+V1002,29,NJ-New Jersey
+V1002,30,NM-New Mexico
+V1002,31,NY-New York
+V1002,32,NC-North Carolina
+V1002,33,ND-North Dakota
+V1002,34,OH-Ohio
+V1002,35,OK-Oklahoma
+V1002,36,OR-Oregon
+V1002,37,PA-Pennsylvania
+V1002,38,RI-Rhode Island
+V1002,39,SC-South Carolina
+V1002,40,SD-South Dakota
+V1002,41,TN-Tennessee
+V1002,42,TX-Texas
+V1002,43,UT-Utah
+V1002,44,VT-Vermont
+V1002,45,VA-Virginia
+V1002,46,WA-Washington
+V1002,47,WV-West Virginia
+V1002,48,WI-Wisconsin
+V1002,49,WY-Wyoming
+V1002,50,AK-Alaska
+V1002,51,HI-Hawaii
+V1002,52,CZ-Canal Zone
+V1002,53,PR-Puerto Rico
+V1002,54,AS-American Samoa
+V1002,55,GM-Guam
+V1002,62,VI-Virgin Islands
+V1006,Blank,Incident date
+V1006,R,Report date
+V1007,Blank,Unknown time
+V1007,00,On or between midnight and 0059
+V1007,01,On or between 0100 and 0159
+V1007,02,On or between 0200 and 0259
+V1007,03,On or between 0300 and 0359
+V1007,04,On or between 0400 and 0459
+V1007,05,On or between 0500 and 0559
+V1007,06,On or between 0600 and 0659
+V1007,07,On or between 0700 and 0759
+V1007,08,On or between 0800 and 0859
+V1007,09,On or between 0900 and 0959
+V1007,10,On or between 1000 and 1059
+V1007,11,On or between 1100 and 1159
+V1007,12,On or between 1200 and 1259
+V1007,13,On or between 1300 and 1359
+V1007,14,On or between 1400 and 1459
+V1007,15,On or between 1500 and 1559
+V1007,16,On or between 1600 and 1659
+V1007,17,On or between 1700 and 1759
+V1007,18,On or between 1800 and 1859
+V1007,19,On or between 1900 and 1959
+V1007,20,On or between 2000 and 2059
+V1007,21,On or between 2100 and 2159
+V1007,22,On or between 2200 and 2259
+V1007,23,On or between 2300 and 2359
+V1013,A,Death of Offender
+V1013,B,Prosecution Declined (for other than lack of probable cause)
+V1013,C,In Custody of Other Jurisdiction (inclues extradition denied)
+V1013,D,Victim Refused to Cooperate
+V1013,E,Juvenile/No Custody
+V1013,N,Not Applicable
+V1016,Y,Yes
+V1016,N,No
+V2001,02,Offense Segment
+V2002,01,AL-Alabama
+V2002,02,AZ-Arizona
+V2002,03,AR-Arkansas
+V2002,04,CA-California
+V2002,05,CO-Colorado
+V2002,06,CT-Connecticut
+V2002,07,DE-Delaware
+V2002,08,DC-District of Columbia
+V2002,09,FL-Florida
+V2002,10,GA-Georgia
+V2002,11,ID-Idaho
+V2002,12,IL-Illinois
+V2002,13,IN-Indiana
+V2002,14,IA-Iowa
+V2002,15,KS-Kansas
+V2002,16,KY-Kentucky
+V2002,17,LA-Louisiana
+V2002,18,ME-Maine
+V2002,19,MD-Maryland
+V2002,20,MA-Massachusetts
+V2002,21,MI-Michigan
+V2002,22,MN-Minnesota
+V2002,23,MS-Mississippi
+V2002,24,MO-Missouri
+V2002,25,MT-Montana
+V2002,26,NB-Nebraska
+V2002,27,NV-Nevada
+V2002,28,NH-New Hampshire
+V2002,29,NJ-New Jersey
+V2002,30,NM-New Mexico
+V2002,31,NY-New York
+V2002,32,NC-North Carolina
+V2002,33,ND-North Dakota
+V2002,34,OH-Ohio
+V2002,35,OK-Oklahoma
+V2002,36,OR-Oregon
+V2002,37,PA-Pennsylvania
+V2002,38,RI-Rhode Island
+V2002,39,SC-South Carolina
+V2002,40,SD-South Dakota
+V2002,41,TN-Tennessee
+V2002,42,TX-Texas
+V2002,43,UT-Utah
+V2002,44,VT-Vermont
+V2002,45,VA-Virginia
+V2002,46,WA-Washington
+V2002,47,WV-West Virginia
+V2002,48,WI-Wisconsin
+V2002,49,WY-Wyoming
+V2002,50,AK-Alaska
+V2002,51,HI-Hawaii
+V2002,52,CZ-Canal Zone
+V2002,53,PR-Puerto Rico
+V2002,54,AS-American Samoa
+V2002,55,GM-Guam
+V2002,62,VI-Virgin Islands
+V2006,200,Arson
+V2006,13A,Aggravated Assault
+V2006,13B,Simple Assault
+V2006,13C,Intimidation
+V2006,510,Bribery
+V2006,220,Burglary/Breaking and Entering
+V2006,250,Counterfeiting/Forgery
+V2006,290,Destruction/Damage/Vandalism of Property
+V2006,35A,Drug/Narcotic Violations
+V2006,35B,Drug Equipment Violations
+V2006,270,Embezzlement
+V2006,210,Extortion/Blackmail
+V2006,26A,False Pretenses/Swindle/Confidence Game
+V2006,26B,Credit Card/Automatic Teller Machine Fraud
+V2006,26C,Impersonation
+V2006,26D,Welfare Fraud
+V2006,26E,Wire Fraud
+V2006,39A,Betting/Wagering
+V2006,39B,Operating/Promoting/Assisting Gambling
+V2006,39C,Gambling Equipment Violations
+V2006,39D,Sports Tampering
+V2006,09A,Murder/Nonnegligent Manslaughter
+V2006,09B,Negligent Manslaughter
+V2006,09C,Justifiable Homicide
+V2006,64A,Human Trafficking - Commercial Sex Acts
+V2006,64B,Human Trafficking - Involuntary Servitude
+V2006,100,Kidnaping/Abduction
+V2006,23A,Pocket-picking
+V2006,23B,Purse-snatching
+V2006,23C,Shoplifting
+V2006,23D,Theft From Building
+V2006,23E,Theft From Coin-Operated Machine or Device
+V2006,23F,Theft From Motor Vehicle
+V2006,23G,Theft of Motor Vehicle Parts/Accessories
+V2006,23H,All Other Larceny
+V2006,240,Motor Vehicle Theft
+V2006,370,Pornography/Obscene Material
+V2006,40A,Prostitution
+V2006,40B,Assisting or Promoting Prostitution
+V2006,40C,Purchasing Prostitution
+V2006,120,Robbery
+V2006,11A,Rape
+V2006,11B,Sodomy
+V2006,11C,Sexual Assault With An Object
+V2006,11D,Fondling (Indecent Liberties/Child Molesting)
+V2006,36A,Incest
+V2006,36B,Statutory Rape
+V2006,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V2006,520,Weapon Law Violations
+V2007,A,Attempted
+V2007,C,Completed
+V2008,A,Alcohol
+V2008,C,Computer Equipment
+V2008,D,Drugs/Narcotics
+V2008,N,Not Applicable
+V2009,A,Alcohol
+V2009,C,Computer Equipment
+V2009,D,Drugs/Narcotics
+V2009,N,Not Applicable
+V2010,A,Alcohol
+V2010,C,Computer Equipment
+V2010,D,Drugs/Narcotics
+V2010,N,Not Applicable
+V2011,01,Air/Bus/Train Terminal
+V2011,02,Bank/Savings and Loan
+V2011,03,Bar/Nightclub
+V2011,04,Church/Synagogue/Temple/Mosque
+V2011,05,Commercial/Office Building
+V2011,06,Construction Site
+V2011,07,Convenience Store
+V2011,08,Department/Discount Store
+V2011,09,Drug Store/Dr.'s Office/Hospital
+V2011,10,Field/Woods
+V2011,11,Government/Public Building
+V2011,12,Grocery/Supermarket
+V2011,13,Highway/Road/Alley/Street/Sidewalk
+V2011,14,Hotel/Motel/Etc.
+V2011,15,Jail/Prison/Penitentiary/Corrections Facility
+V2011,16,Lake/Waterway/Beach
+V2011,17,Liquor Store
+V2011,18,Parking/Drop Lot/Garage
+V2011,19,Rental Storage Facility
+V2011,20,Residence/Home
+V2011,21,Restaurant
+V2011,22,School/College
+V2011,23,Service/Gas Station
+V2011,24,"Specialty Store (TV, Fur, Etc.)"
+V2011,25,Other/Unknown
+V2011,37,Abandoned/condemned structure
+V2011,38,Amusement park
+V2011,39,Arena/stadium/fairgrounds/coliseum
+V2011,40,ATM separate from bank
+V2011,41,Auto dealership new/used
+V2011,42,Camp/campground
+V2011,44,Daycare facility
+V2011,45,Dock/wharf/freight/modal terminal
+V2011,46,Farm facility
+V2011,47,Gambling facility/casino/race track
+V2011,48,Industrial site
+V2011,49,Military installation
+V2011,50,Park/playground
+V2011,51,Rest area
+V2011,52,School--college/university
+V2011,53,School--elementary/secondary
+V2011,54,Shelter--mission/homeless
+V2011,55,Shopping mall
+V2011,56,Tribal lands
+V2011,57,Community center
+V2013,F,Force
+V2013,N,No Force
+V2014,B,Buying/Receiving
+V2014,C,Cultivating/Manufacturing/Publishing
+V2014,D,Distributing/Selling
+V2014,E,Exploiting Children
+V2014,I,"Intentional Abuse and Torture (tormenting, mutilating, maiming, poisoning, or abandonment)"
+V2014,J,Juvenile Gang Involvement
+V2014,G,Other Gang
+V2014,N,None/Unknown Gang Involvement
+V2014,O,Operating/Promoting/Assisting
+V2014,P,Possessing/Concealing
+V2014,T,Transporting/Transmitting/Importing
+V2014,U,Using/Consuming
+V2015,B,Buying/Receiving
+V2015,C,Cultivating/Manufacturing/Publishing
+V2015,D,Distributing/Selling
+V2015,E,Exploiting Children
+V2015,I,"Intentional Abuse and Torture (tormenting, mutilating, maiming, poisoning, or abandonment)"
+V2015,J,Juvenile Gang Involvement
+V2015,G,Other Gang
+V2015,N,None/Unknown Gang Involvement
+V2015,O,Operating/Promoting/Assisting
+V2015,P,Possessing/Concealing
+V2015,T,Transporting/Transmitting/Importing
+V2015,U,Using/Consuming
+V2016,B,Buying/Receiving
+V2016,C,Cultivating/Manufacturing/Publishing
+V2016,D,Distributing/Selling
+V2016,E,Exploiting Children
+V2016,I,"Intentional Abuse and Torture (tormenting, mutilating, maiming, poisoning, or abandonment)"
+V2016,J,Juvenile Gang Involvement
+V2016,G,Other Gang
+V2016,N,None/Unknown Gang Involvement
+V2016,O,Operating/Promoting/Assisting
+V2016,P,Possessing/Concealing
+V2016,T,Transporting/Transmitting/Importing
+V2016,U,Using/Consuming
+V2017,11,Firearm (type not stated)
+V2017,11A,"Firearm (type not stated), automatic"
+V2017,12,Handgun
+V2017,12A,"Handgun, automatic"
+V2017,13,Rifle
+V2017,13A,"Rifle, automatic"
+V2017,14,Shotgun
+V2017,14A,"Shotgun, automatic"
+V2017,15,Other Firearm
+V2017,15A,"Other Firearm, automatic"
+V2017,20,"Knife/Cutting Instrument (ice pick, screwdriver, ax, etc.)"
+V2017,30,"Blunt Object (club, hammer, etc.)"
+V2017,35,Motor Vehicle
+V2017,40,"Personal Weapons (hands, feet, teeth, etc.)"
+V2017,50,Poison (include gas as in code 85 asphyxiation)
+V2017,60,Explosives
+V2017,65,Fire/Incendiary Device
+V2017,70,Drugs/Narcotics/Sleeping Pills
+V2017,85,"Asphyxiation (by drowning, strangulation, suffocation, gas, etc.)"
+V2017,90,Other
+V2017,95,Unknown
+V2017,99,None
+V2018,11,Firearm (type not stated)
+V2018,12,Handgun
+V2018,13,Rifle
+V2018,14,Shotgun
+V2018,15,Other Firearm
+V2018,20,"Knife/Cutting Instrument (ice pick, screwdriver, ax, etc.)"
+V2018,30,"Blunt Object (club, hammer, etc.)"
+V2018,35,Motor Vehicle
+V2018,40,"Personal Weapons (hands, feet, teeth, etc.)"
+V2018,50,Poison (include gas as in code 85 asphyxiation)
+V2018,60,Explosives
+V2018,65,Fire/Incendiary Device
+V2018,70,Drugs/Narcotics/Sleeping Pills
+V2018,85,"Asphyxiation (by drowning, strangulation, suffocation, gas, etc.)"
+V2018,90,Other
+V2018,95,Unknown
+V2018,99,None
+V2019,11,Firearm (type not stated)
+V2019,11A,"Firearm (type not stated), automatic"
+V2019,12,Handgun
+V2019,12A,"Handgun, automatic"
+V2019,13,Rifle
+V2019,13A,"Rifle, automatic"
+V2019,14,Shotgun
+V2019,14A,"Shotgun, automatic"
+V2019,15,Other Firearm
+V2019,15A,"Other Firearm, automatic"
+V2019,20,"Knife/Cutting Instrument (ice pick, screwdriver, ax, etc.)"
+V2019,30,"Blunt Object (club, hammer, etc.)"
+V2019,35,Motor Vehicle
+V2019,40,"Personal Weapons (hands, feet, teeth, etc.)"
+V2019,50,Poison (include gas as in code 85 asphyxiation)
+V2019,60,Explosives
+V2019,65,Fire/Incendiary Device
+V2019,70,Drugs/Narcotics/Sleeping Pills
+V2019,85,"Asphyxiation (by drowning, strangulation, suffocation, gas, etc.)"
+V2019,90,Other
+V2019,95,Unknown
+V2019,99,None
+V2020,11,Anti-White
+V2020,12,Anti-Black or African American
+V2020,13,Anti-American Indian or Alaska Native
+V2020,14,Anti-Asian
+V2020,15,Anti-Multi-Racial Group
+V2020,16,Anti-Native Hawaiian or Other Pacific Islander
+V2020,21,Anti-Jewish
+V2020,22,Anti-Catholic
+V2020,23,Anti-Protestant
+V2020,24,Anti-Islamic (Muslim)
+V2020,25,Anti-Other Religion
+V2020,26,Anti-Multi-Religious Group
+V2020,27,Anti-Atheism/Agnosticism
+V2020,28,Anti-Mormon
+V2020,82,Anti-Other Christian
+V2020,84,Anti-Hindu
+V2020,85,Anti-Sikh
+V2020,32,Anti-Hispanic or Latino
+V2020,33,Anti-Not Hispanic or Latino
+V2020,41,Anti-Gay
+V2020,42,Anti-Lesbian
+V2020,43,"Anti-Lesbian, Gay, Bixexual, or Trangender, Mixed Group (LGBT)"
+V2020,44,Anti-Heterosexual
+V2020,45,Anti-Bisexual
+V2020,51,Anti-Physical Disability
+V2020,52,Anti-Mental Disability
+V2020,61,Anti-Male
+V2020,62,Anti-Female
+V2020,71,Anti-Transgender
+V2020,72,Anti-Gender Non-Conforming
+V2020,88,None
+V2020,99,Unknown
+V2020B,11,Anti-White
+V2020B,12,Anti-Black or African American
+V2020B,13,Anti-American Indian or Alaska Native
+V2020B,14,Anti-Asian
+V2020B,15,Anti-Multi-Racial Group
+V2020B,16,Anti-Native Hawaiian or Other Pacific Islander
+V2020B,21,Anti-Jewish
+V2020B,22,Anti-Catholic
+V2020B,23,Anti-Protestant
+V2020B,24,Anti-Islamic (Muslim)
+V2020B,25,Anti-Other Religion
+V2020B,26,Anti-Multi-Religious Group
+V2020B,27,Anti-Atheism/Agnosticism
+V2020B,32,Anti-Hispanic or Latino
+V2020B,33,Anti-Not Hispanic or Latino
+V2020B,41,Anti-Gay
+V2020B,42,Anti-Lesbian
+V2020B,43,"Anti-Lesbian, Gay, Bixexual, or Trangender, Mixed Group (LGBT)"
+V2020B,44,Anti-Heterosexual
+V2020B,45,Anti-Bisexual
+V2020B,51,Anti-Physical Disability
+V2020B,52,Anti-Mental Disability
+V2020B,61,Anti-Male
+V2020B,62,Anti-Female
+V2020B,71,Anti-Transgender
+V2020B,72,Anti-Gender Non-Conforming
+V2020B,88,None
+V2020B,99,Unknown
+V2020C,11,Anti-White
+V2020C,12,Anti-Black or African American
+V2020C,13,Anti-American Indian or Alaska Native
+V2020C,14,Anti-Asian
+V2020C,15,Anti-Multi-Racial Group
+V2020C,16,Anti-Native Hawaiian or Other Pacific Islander
+V2020C,21,Anti-Jewish
+V2020C,22,Anti-Catholic
+V2020C,23,Anti-Protestant
+V2020C,24,Anti-Islamic (Muslim)
+V2020C,25,Anti-Other Religion
+V2020C,26,Anti-Multi-Religious Group
+V2020C,27,Anti-Atheism/Agnosticism
+V2020C,32,Anti-Hispanic or Latino
+V2020C,33,Anti-Not Hispanic or Latino
+V2020C,41,Anti-Gay
+V2020C,42,Anti-Lesbian
+V2020C,43,"Anti-Lesbian, Gay, Bixexual, or Trangender, Mixed Group (LGBT)"
+V2020C,44,Anti-Heterosexual
+V2020C,45,Anti-Bisexual
+V2020C,51,Anti-Physical Disability
+V2020C,52,Anti-Mental Disability
+V2020C,61,Anti-Male
+V2020C,62,Anti-Female
+V2020C,71,Anti-Transgender
+V2020C,72,Anti-Gender Non-Conforming
+V2020C,88,None
+V2020C,99,Unknown
+V2020D,11,Anti-White
+V2020D,12,Anti-Black or African American
+V2020D,13,Anti-American Indian or Alaska Native
+V2020D,14,Anti-Asian
+V2020D,15,Anti-Multi-Racial Group
+V2020D,16,Anti-Native Hawaiian or Other Pacific Islander
+V2020D,21,Anti-Jewish
+V2020D,22,Anti-Catholic
+V2020D,23,Anti-Protestant
+V2020D,24,Anti-Islamic (Muslim)
+V2020D,25,Anti-Other Religion
+V2020D,26,Anti-Multi-Religious Group
+V2020D,27,Anti-Atheism/Agnosticism
+V2020D,32,Anti-Hispanic or Latino
+V2020D,33,Anti-Not Hispanic or Latino
+V2020D,41,Anti-Gay
+V2020D,42,Anti-Lesbian
+V2020D,43,"Anti-Lesbian, Gay, Bixexual, or Trangender, Mixed Group (LGBT)"
+V2020D,44,Anti-Heterosexual
+V2020D,45,Anti-Bisexual
+V2020D,51,Anti-Physical Disability
+V2020D,52,Anti-Mental Disability
+V2020D,61,Anti-Male
+V2020D,62,Anti-Female
+V2020D,71,Anti-Transgender
+V2020D,72,Anti-Gender Non-Conforming
+V2020D,88,None
+V2020D,99,Unknown
+V2020E,11,Anti-White
+V2020E,12,Anti-Black or African American
+V2020E,13,Anti-American Indian or Alaska Native
+V2020E,14,Anti-Asian
+V2020E,15,Anti-Multi-Racial Group
+V2020E,16,Anti-Native Hawaiian or Other Pacific Islander
+V2020E,21,Anti-Jewish
+V2020E,22,Anti-Catholic
+V2020E,23,Anti-Protestant
+V2020E,24,Anti-Islamic (Muslim)
+V2020E,25,Anti-Other Religion
+V2020E,26,Anti-Multi-Religious Group
+V2020E,27,Anti-Atheism/Agnosticism
+V2020E,32,Anti-Hispanic or Latino
+V2020E,33,Anti-Not Hispanic or Latino
+V2020E,41,Anti-Gay
+V2020E,42,Anti-Lesbian
+V2020E,43,"Anti-Lesbian, Gay, Bixexual, or Trangender, Mixed Group (LGBT)"
+V2020E,44,Anti-Heterosexual
+V2020E,45,Anti-Bisexual
+V2020E,51,Anti-Physical Disability
+V2020E,52,Anti-Mental Disability
+V2020E,61,Anti-Male
+V2020E,62,Anti-Female
+V2020E,71,Anti-Transgender
+V2020E,72,Anti-Gender Non-Conforming
+V2020E,88,None
+V2020E,99,Unknown
+V3001,03,Property Segment
+V3002,01,AL-Alabama
+V3002,02,AZ-Arizona
+V3002,03,AR-Arkansas
+V3002,04,CA-California
+V3002,05,CO-Colorado
+V3002,06,CT-Connecticut
+V3002,07,DE-Delaware
+V3002,08,DC-District of Columbia
+V3002,09,FL-Florida
+V3002,10,GA-Georgia
+V3002,11,ID-Idaho
+V3002,12,IL-Illinois
+V3002,13,IN-Indiana
+V3002,14,IA-Iowa
+V3002,15,KS-Kansas
+V3002,16,KY-Kentucky
+V3002,17,LA-Louisiana
+V3002,18,ME-Maine
+V3002,19,MD-Maryland
+V3002,20,MA-Massachusetts
+V3002,21,MI-Michigan
+V3002,22,MN-Minnesota
+V3002,23,MS-Mississippi
+V3002,24,MO-Missouri
+V3002,25,MT-Montana
+V3002,26,NB-Nebraska
+V3002,27,NV-Nevada
+V3002,28,NH-New Hampshire
+V3002,29,NJ-New Jersey
+V3002,30,NM-New Mexico
+V3002,31,NY-New York
+V3002,32,NC-North Carolina
+V3002,33,ND-North Dakota
+V3002,34,OH-Ohio
+V3002,35,OK-Oklahoma
+V3002,36,OR-Oregon
+V3002,37,PA-Pennsylvania
+V3002,38,RI-Rhode Island
+V3002,39,SC-South Carolina
+V3002,40,SD-South Dakota
+V3002,41,TN-Tennessee
+V3002,42,TX-Texas
+V3002,43,UT-Utah
+V3002,44,VT-Vermont
+V3002,45,VA-Virginia
+V3002,46,WA-Washington
+V3002,47,WV-West Virginia
+V3002,48,WI-Wisconsin
+V3002,49,WY-Wyoming
+V3002,50,AK-Alaska
+V3002,51,HI-Hawaii
+V3002,52,CZ-Canal Zone
+V3002,53,PR-Puerto Rico
+V3002,54,AS-American Samoa
+V3002,55,GM-Guam
+V3002,62,VI-Virgin Islands
+V3006,1,None
+V3006,2,Burned
+V3006,3,Counterfeited/Forged
+V3006,4,Destroyed/Damaged/Vandalized
+V3006,5,Recovered
+V3006,6,Seized
+V3006,7,"Stolen/Etc. (includes bribed, defrauded, embezzled, extorted, ransomed, robbed, etc.)"
+V3006,8,Unknown
+V3007,01,Aircraft
+V3007,02,Alcohol
+V3007,03,Automobiles
+V3007,04,Bicycles
+V3007,05,Buses
+V3007,06,Clothes/Furs
+V3007,07,Computer Hardware/Software
+V3007,08,Consumable Goods
+V3007,09,Credit/Debit Cards
+V3007,10,Drugs/Narcotics
+V3007,11,Drug/Narcotic Equip.
+V3007,12,Farm Equipment
+V3007,13,Firearms
+V3007,14,Gambling Equipment
+V3007,15,Heavy Construction/Industrial Equipment
+V3007,16,Household Goods
+V3007,17,Jewelry/Precious Metals/Gems
+V3007,18,Livestock
+V3007,19,Merchandise
+V3007,20,Money
+V3007,21,Negotiable Instruments
+V3007,22,Nonnegotiable Instruments
+V3007,23,Office-Type Equipment
+V3007,24,Other Motor Vehicles
+V3007,25,Purses/Handbags/Wallets
+V3007,26,Radios/TVs/VCRs/DVD Players
+V3007,27,Recordings-Audio/Visual
+V3007,28,Recreational Vehicles
+V3007,29,Structures-Single Occupancy Dwellings
+V3007,30,Structures-Other Dwellings
+V3007,31,Structures - Commercial/Business
+V3007,32,Structures - Industrial/Manufacturing
+V3007,33,Structures - Public/Community
+V3007,34,Structures-Storage
+V3007,35,Structures-Other
+V3007,36,Tools-Power/Hand
+V3007,37,Trucks
+V3007,38,Vehicle Parts/Accessories
+V3007,39,Watercraft
+V3007,41,Aircraft parts/accessories
+V3007,42,Artistic supplies/accessories
+V3007,43,Building materials
+V3007,44,Camping/hunting/fishing equipment/supplies
+V3007,45,Chemicals
+V3007,46,Collections/collectibles
+V3007,47,Crops
+V3007,48,Documents/personal or business
+V3007,49,Explosives
+V3007,59,Firearm accessories
+V3007,64,Fuel
+V3007,65,Identity documents
+V3007,66,Identity--intangible
+V3007,67,Law enforcement equipment
+V3007,68,Lawn/yard/garden equipment
+V3007,69,Logging equipment
+V3007,70,Medical/medical lab equipment
+V3007,71,"Metals, non-precious"
+V3007,72,Musical instruments
+V3007,73,Pets
+V3007,74,Photographic/optical equipment
+V3007,75,Portable electronic communications
+V3007,76,Recreational/sports equipment
+V3007,77,Other
+V3007,78,Trailers
+V3007,79,Watercraft equipment/parts/accessories
+V3007,80,Weapons - other
+V3007,88,Pending Inventory (of Property)
+V3007,99,Special Category
+V3012,A,Crack Cocaine
+V3012,B,"Cocaine (all forms except ""Crack"")"
+V3012,C,Hashish
+V3012,D,Heroin
+V3012,E,Marijuana
+V3012,F,Morphine
+V3012,G,Opium
+V3012,H,Other Narcotics: Codeine; Demerol; Dihydromorphinone or Dilaudid; Hydrocodone or Percodan; Methadone; etc.
+V3012,I,LSD
+V3012,J,PCP
+V3012,K,"Other Hallucinogens: BMDA (""White Acid""); DMT; MDA; MDMA; Mescaline or Peyote; Psilocybin; STP; etc."
+V3012,L,Amphetamines/Methamphetamines
+V3012,M,"Other Stimulants: Adipex, Fastine, and Ionamin (Derivatives of Phentermine); Benzedrine; Didrex; Methylphenidate or
+Ritalin; Phenmetrazine or Preludin; Tenuate; etc."
+V3012,N,Barbiturates
+V3012,O,Other Depressants: Glutethimide or Doriden; Methaqualone or Quaalude; Pentazocine or Talwin; etc.
+V3012,P,"Other Drugs: Antidepressants (Elavil, Triavil, Tofranil, etc.); Aromatic Hydrocarbons; Propoxyphene or Darvon; Tranquilizers
+(Chlordiazepoxide or Librium, Diazepam or Valium, etc.); etc."
+V3012,U,Unknown Type Drug
+V3012,X,Over 3 Drug Types
+V3015,GM,Gram
+V3015,KG,Kilogram
+V3015,OZ,Ounce
+V3015,LB,Pound
+V3015,ML,Milliliter
+V3015,LT,Liter
+V3015,FO,Fluid Ounce
+V3015,GL,Gallon
+V3015,DU,"Dosage Unit/Items, (Pills, etc.)"
+V3015,NP,Number of Plants
+V3015,XX,Not Reported
+V3016,A,"""Crack"" Cocaine"
+V3016,B,"Cocaine (all forms except ""Crack"")"
+V3016,C,Hashish
+V3016,D,Heroin
+V3016,E,Marijuana
+V3016,F,Morphine
+V3016,G,Opium
+V3016,H,Other Narcotics: Codeine; Demerol; Dihydromorphinone or Dilaudid; Hydrocodone or Percodan; Methadone; etc. etc.
+V3016,I,LSD
+V3016,J,PCP
+V3016,K,"Other Hallucinogens: BMDA (""White Acid""); DMT; MDA; MDMA; Mescaline or Peyote; Psilocybin; STP; etc."
+V3016,L,Amphetamines/Methamphetamines
+V3016,M,"Other Stimulants: Adipex, Fastine, and Ionamin (Derivatives of Phentermine); Benzedrine; Didrex; Methylphenidate or
+Ritalin; Phenmetrazine or Preludin; Tenuate; etc."
+V3016,N,Barbiturates
+V3016,O,Other Depressants: Glutethimide or Doriden; Methaqualone or Quaalude; Pentazocine or Talwin; etc.
+V3016,P,"Other Drugs: Antidepressants (Elavil, Triavil, Tofranil, etc.); Aromatic Hydrocarbons; Propoxyphene or Darvon; Tranquilizers
+(Chlordiazepoxide or Librium, Diazepam or Valium, etc.); etc."
+V3016,U,Unknown Type Drug
+V3016,X,Over 3 Drug Types
+V3019,GM,Gram
+V3019,KG,Kilogram
+V3019,OZ,Ounce
+V3019,LB,Pound
+V3019,ML,Milliliter
+V3019,LT,Liter
+V3019,FO,Fluid Ounce
+V3019,GL,Gallon
+V3019,DU,"Dosage Unit/Items, (Pills, etc.)"
+V3019,NP,Number of Plants
+V3019,XX,Not Reported
+V3020,A,"""Crack"" Cocaine"
+V3020,B,"Cocaine (all forms except ""Crack"")"
+V3020,C,Hashish
+V3020,D,Heroin
+V3020,E,Marijuana
+V3020,F,Morphine
+V3020,G,Opium
+V3020,H,Other Narcotics: Codeine; Demerol; Dihydromorphinone or Dilaudid; Hydrocodone or Percodan; Methadone; etc. etc.
+V3020,I,LSD
+V3020,J,PCP
+V3020,K,"Other Hallucinogens: BMDA (""White Acid""); DMT; MDA; MDMA; Mescaline or Peyote; Psilocybin; STP; etc."
+V3020,L,Amphetamines/Methamphetamines
+V3020,M,"Other Stimulants: Adipex, Fastine, and Ionamin (Derivatives of Phentermine); Benzedrine; Didrex; Methylphenidate or
+Ritalin; Phenmetrazine or Preludin; Tenuate; etc."
+V3020,N,Barbiturates
+V3020,O,Other Depressants: Glutethimide or Doriden; Methaqualone or Quaalude; Pentazocine or Talwin; etc.
+V3020,P,"Other Drugs: Antidepressants (Elavil, Triavil, Tofranil, etc.); Aromatic Hydrocarbons; Propoxyphene or Darvon; Tranquilizers
+(Chlordiazepoxide or Librium, Diazepam or Valium, etc.); etc."
+V3020,U,Unknown Type Drug
+V3020,X,Over 3 Drug Types
+V3023,GM,Gram
+V3023,KG,Kilogram
+V3023,OZ,Ounce
+V3023,LB,Pound
+V3023,ML,Milliliter
+V3023,LT,Liter
+V3023,FO,Fluid Ounce
+V3023,GL,Gallon
+V3023,DU,"Dosage Unit/Items, (Pills, etc.)"
+V3023,NP,Number of Plants
+V3023,XX,Not Reported
+V4001,04,Victim Segment
+V4002,01,AL-Alabama
+V4002,02,AZ-Arizona
+V4002,03,AR-Arkansas
+V4002,04,CA-California
+V4002,05,CO-Colorado
+V4002,06,CT-Connecticut
+V4002,07,DE-Delaware
+V4002,08,DC-District of Columbia
+V4002,09,FL-Florida
+V4002,10,GA-Georgia
+V4002,11,ID-Idaho
+V4002,12,IL-Illinois
+V4002,13,IN-Indiana
+V4002,14,IA-Iowa
+V4002,15,KS-Kansas
+V4002,16,KY-Kentucky
+V4002,17,LA-Louisiana
+V4002,18,ME-Maine
+V4002,19,MD-Maryland
+V4002,20,MA-Massachusetts
+V4002,21,MI-Michigan
+V4002,22,MN-Minnesota
+V4002,23,MS-Mississippi
+V4002,24,MO-Missouri
+V4002,25,MT-Montana
+V4002,26,NB-Nebraska
+V4002,27,NV-Nevada
+V4002,28,NH-New Hampshire
+V4002,29,NJ-New Jersey
+V4002,30,NM-New Mexico
+V4002,31,NY-New York
+V4002,32,NC-North Carolina
+V4002,33,ND-North Dakota
+V4002,34,OH-Ohio
+V4002,35,OK-Oklahoma
+V4002,36,OR-Oregon
+V4002,37,PA-Pennsylvania
+V4002,38,RI-Rhode Island
+V4002,39,SC-South Carolina
+V4002,40,SD-South Dakota
+V4002,41,TN-Tennessee
+V4002,42,TX-Texas
+V4002,43,UT-Utah
+V4002,44,VT-Vermont
+V4002,45,VA-Virginia
+V4002,46,WA-Washington
+V4002,47,WV-West Virginia
+V4002,48,WI-Wisconsin
+V4002,49,WY-Wyoming
+V4002,50,AK-Alaska
+V4002,51,HI-Hawaii
+V4002,52,CZ-Canal Zone
+V4002,53,PR-Puerto Rico
+V4002,54,AS-American Samoa
+V4002,55,GM-Guam
+V4002,62,VI-Virgin Islands
+V4007,200,Arson
+V4007,13A,Aggravated Assault
+V4007,13B,Simple Assault
+V4007,13C,Intimidation
+V4007,510,Bribery
+V4007,220,Burglary/Breaking and Entering
+V4007,250,Counterfeiting/Forgery
+V4007,290,Destruction/Damage/Vandalism of Property
+V4007,35A,Drug/Narcotic Violations
+V4007,35B,Drug Equipment Violations
+V4007,270,Embezzlement
+V4007,210,Extortion/Blackmail
+V4007,26A,False Pretenses/Swindle/Confidence Game
+V4007,26B,Credit Card/Automatic Teller Machine Fraud
+V4007,26C,Impersonation
+V4007,26D,Welfare Fraud
+V4007,26E,Wire Fraud
+V4007,39A,Betting/Wagering
+V4007,39B,Operating/Promoting/Assisting Gambling
+V4007,39C,Gambling Equipment Violations
+V4007,39D,Sports Tampering
+V4007,09A,Murder/Nonnegligent Manslaughter
+V4007,09B,Negligent Manslaughter
+V4007,09C,Justifiable Homicide
+V4007,64A,Human Trafficking - Commercial Sex Acts
+V4007,64B,Human Trafficking - Involuntary Servitude
+V4007,100,Kidnaping/Abduction
+V4007,23A,Pocket-picking
+V4007,23B,Purse-snatching
+V4007,23C,Shoplifting
+V4007,23D,Theft From Building
+V4007,23E,Theft From Coin-Operated Machine or Device
+V4007,23F,Theft From Motor Vehicle
+V4007,23G,Theft of Motor Vehicle Parts/Accessories
+V4007,23H,All Other Larceny
+V4007,240,Motor Vehicle Theft
+V4007,370,Pornography/Obscene Material
+V4007,40A,Prostitution
+V4007,40B,Assisting or Promoting Prostitution
+V4007,40C,Purchasing Prostitution
+V4007,120,Robbery
+V4007,11A,Rape
+V4007,11B,Sodomy
+V4007,11C,Sexual Assault With An Object
+V4007,11D,Fondling (Indecent Liberties/Child Molesting)
+V4007,36A,Incest
+V4007,36B,Statutory Rape
+V4007,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4007,520,Weapon Law Violations
+V4008,200,Arson
+V4008,13A,Aggravated Assault
+V4008,13B,Simple Assault
+V4008,13C,Intimidation
+V4008,510,Bribery
+V4008,220,Burglary/Breaking and Entering
+V4008,250,Counterfeiting/Forgery
+V4008,290,Destruction/Damage/Vandalism of Property
+V4008,35A,Drug/Narcotic Violations
+V4008,35B,Drug Equipment Violations
+V4008,270,Embezzlement
+V4008,210,Extortion/Blackmail
+V4008,26A,False Pretenses/Swindle/Confidence Game
+V4008,26B,Credit Card/Automatic Teller Machine Fraud
+V4008,26C,Impersonation
+V4008,26D,Welfare Fraud
+V4008,26E,Wire Fraud
+V4008,39A,Betting/Wagering
+V4008,39B,Operating/Promoting/Assisting Gambling
+V4008,39C,Gambling Equipment Violations
+V4008,39D,Sports Tampering
+V4008,09A,Murder/Nonnegligent Manslaughter
+V4008,09B,Negligent Manslaughter
+V4008,09C,Justifiable Homicide
+V4008,64A,Human Trafficking - Commercial Sex Acts
+V4008,64B,Human Trafficking - Involuntary Servitude
+V4008,100,Kidnaping/Abduction
+V4008,23A,Pocket-picking
+V4008,23B,Purse-snatching
+V4008,23C,Shoplifting
+V4008,23D,Theft From Building
+V4008,23E,Theft From Coin-Operated Machine or Device
+V4008,23F,Theft From Motor Vehicle
+V4008,23G,Theft of Motor Vehicle Parts/Accessories
+V4008,23H,All Other Larceny
+V4008,240,Motor Vehicle Theft
+V4008,370,Pornography/Obscene Material
+V4008,40A,Prostitution
+V4008,40B,Assisting or Promoting Prostitution
+V4008,40C,Purchasing Prostitution
+V4008,120,Robbery
+V4008,11A,Rape
+V4008,11B,Sodomy
+V4008,11C,Sexual Assault With An Object
+V4008,11D,Fondling (Indecent Liberties/Child Molesting)
+V4008,36A,Incest
+V4008,36B,Statutory Rape
+V4008,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4008,520,Weapon Law Violations
+V4009,200,Arson
+V4009,13A,Aggravated Assault
+V4009,13B,Simple Assault
+V4009,13C,Intimidation
+V4009,510,Bribery
+V4009,220,Burglary/Breaking and Entering
+V4009,250,Counterfeiting/Forgery
+V4009,290,Destruction/Damage/Vandalism of Property
+V4009,35A,Drug/Narcotic Violations
+V4009,35B,Drug Equipment Violations
+V4009,270,Embezzlement
+V4009,210,Extortion/Blackmail
+V4009,26A,False Pretenses/Swindle/Confidence Game
+V4009,26B,Credit Card/Automatic Teller Machine Fraud
+V4009,26C,Impersonation
+V4009,26D,Welfare Fraud
+V4009,26E,Wire Fraud
+V4009,39A,Betting/Wagering
+V4009,39B,Operating/Promoting/Assisting Gambling
+V4009,39C,Gambling Equipment Violations
+V4009,39D,Sports Tampering
+V4009,09A,Murder/Nonnegligent Manslaughter
+V4009,09B,Negligent Manslaughter
+V4009,09C,Justifiable Homicide
+V4009,64A,Human Trafficking - Commercial Sex Acts
+V4009,64B,Human Trafficking - Involuntary Servitude
+V4009,100,Kidnaping/Abduction
+V4009,23A,Pocket-picking
+V4009,23B,Purse-snatching
+V4009,23C,Shoplifting
+V4009,23D,Theft From Building
+V4009,23E,Theft From Coin-Operated Machine or Device
+V4009,23F,Theft From Motor Vehicle
+V4009,23G,Theft of Motor Vehicle Parts/Accessories
+V4009,23H,All Other Larceny
+V4009,240,Motor Vehicle Theft
+V4009,370,Pornography/Obscene Material
+V4009,40A,Prostitution
+V4009,40B,Assisting or Promoting Prostitution
+V4009,40C,Purchasing Prostitution
+V4009,120,Robbery
+V4009,11A,Rape
+V4009,11B,Sodomy
+V4009,11C,Sexual Assault With An Object
+V4009,11D,Fondling (Indecent Liberties/Child Molesting)
+V4009,36A,Incest
+V4009,36B,Statutory Rape
+V4009,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4009,520,Weapon Law Violations
+V4010,200,Arson
+V4010,13A,Aggravated Assault
+V4010,13B,Simple Assault
+V4010,13C,Intimidation
+V4010,510,Bribery
+V4010,220,Burglary/Breaking and Entering
+V4010,250,Counterfeiting/Forgery
+V4010,290,Destruction/Damage/Vandalism of Property
+V4010,35A,Drug/Narcotic Violations
+V4010,35B,Drug Equipment Violations
+V4010,270,Embezzlement
+V4010,210,Extortion/Blackmail
+V4010,26A,False Pretenses/Swindle/Confidence Game
+V4010,26B,Credit Card/Automatic Teller Machine Fraud
+V4010,26C,Impersonation
+V4010,26D,Welfare Fraud
+V4010,26E,Wire Fraud
+V4010,39A,Betting/Wagering
+V4010,39B,Operating/Promoting/Assisting Gambling
+V4010,39C,Gambling Equipment Violations
+V4010,39D,Sports Tampering
+V4010,09A,Murder/Nonnegligent Manslaughter
+V4010,09B,Negligent Manslaughter
+V4010,09C,Justifiable Homicide
+V4010,64A,Human Trafficking - Commercial Sex Acts
+V4010,64B,Human Trafficking - Involuntary Servitude
+V4010,100,Kidnaping/Abduction
+V4010,23A,Pocket-picking
+V4010,23B,Purse-snatching
+V4010,23C,Shoplifting
+V4010,23D,Theft From Building
+V4010,23E,Theft From Coin-Operated Machine or Device
+V4010,23F,Theft From Motor Vehicle
+V4010,23G,Theft of Motor Vehicle Parts/Accessories
+V4010,23H,All Other Larceny
+V4010,240,Motor Vehicle Theft
+V4010,370,Pornography/Obscene Material
+V4010,40A,Prostitution
+V4010,40B,Assisting or Promoting Prostitution
+V4010,40C,Purchasing Prostitution
+V4010,120,Robbery
+V4010,11A,Rape
+V4010,11B,Sodomy
+V4010,11C,Sexual Assault With An Object
+V4010,11D,Fondling (Indecent Liberties/Child Molesting)
+V4010,36A,Incest
+V4010,36B,Statutory Rape
+V4010,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4010,520,Weapon Law Violations
+V4011,200,Arson
+V4011,13A,Aggravated Assault
+V4011,13B,Simple Assault
+V4011,13C,Intimidation
+V4011,510,Bribery
+V4011,220,Burglary/Breaking and Entering
+V4011,250,Counterfeiting/Forgery
+V4011,290,Destruction/Damage/Vandalism of Property
+V4011,35A,Drug/Narcotic Violations
+V4011,35B,Drug Equipment Violations
+V4011,270,Embezzlement
+V4011,210,Extortion/Blackmail
+V4011,26A,False Pretenses/Swindle/Confidence Game
+V4011,26B,Credit Card/Automatic Teller Machine Fraud
+V4011,26C,Impersonation
+V4011,26D,Welfare Fraud
+V4011,26E,Wire Fraud
+V4011,39A,Betting/Wagering
+V4011,39B,Operating/Promoting/Assisting Gambling
+V4011,39C,Gambling Equipment Violations
+V4011,39D,Sports Tampering
+V4011,09A,Murder/Nonnegligent Manslaughter
+V4011,09B,Negligent Manslaughter
+V4011,09C,Justifiable Homicide
+V4011,64A,Human Trafficking - Commercial Sex Acts
+V4011,64B,Human Trafficking - Involuntary Servitude
+V4011,100,Kidnaping/Abduction
+V4011,23A,Pocket-picking
+V4011,23B,Purse-snatching
+V4011,23C,Shoplifting
+V4011,23D,Theft From Building
+V4011,23E,Theft From Coin-Operated Machine or Device
+V4011,23F,Theft From Motor Vehicle
+V4011,23G,Theft of Motor Vehicle Parts/Accessories
+V4011,23H,All Other Larceny
+V4011,240,Motor Vehicle Theft
+V4011,370,Pornography/Obscene Material
+V4011,40A,Prostitution
+V4011,40B,Assisting or Promoting Prostitution
+V4011,40C,Purchasing Prostitution
+V4011,120,Robbery
+V4011,11A,Rape
+V4011,11B,Sodomy
+V4011,11C,Sexual Assault With An Object
+V4011,11D,Fondling (Indecent Liberties/Child Molesting)
+V4011,36A,Incest
+V4011,36B,Statutory Rape
+V4011,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4011,520,Weapon Law Violations
+V4012,200,Arson
+V4012,13A,Aggravated Assault
+V4012,13B,Simple Assault
+V4012,13C,Intimidation
+V4012,510,Bribery
+V4012,220,Burglary/Breaking and Entering
+V4012,250,Counterfeiting/Forgery
+V4012,290,Destruction/Damage/Vandalism of Property
+V4012,35A,Drug/Narcotic Violations
+V4012,35B,Drug Equipment Violations
+V4012,270,Embezzlement
+V4012,210,Extortion/Blackmail
+V4012,26A,False Pretenses/Swindle/Confidence Game
+V4012,26B,Credit Card/Automatic Teller Machine Fraud
+V4012,26C,Impersonation
+V4012,26D,Welfare Fraud
+V4012,26E,Wire Fraud
+V4012,39A,Betting/Wagering
+V4012,39B,Operating/Promoting/Assisting Gambling
+V4012,39C,Gambling Equipment Violations
+V4012,39D,Sports Tampering
+V4012,09A,Murder/Nonnegligent Manslaughter
+V4012,09B,Negligent Manslaughter
+V4012,09C,Justifiable Homicide
+V4012,64A,Human Trafficking - Commercial Sex Acts
+V4012,64B,Human Trafficking - Involuntary Servitude
+V4012,100,Kidnaping/Abduction
+V4012,23A,Pocket-picking
+V4012,23B,Purse-snatching
+V4012,23C,Shoplifting
+V4012,23D,Theft From Building
+V4012,23E,Theft From Coin-Operated Machine or Device
+V4012,23F,Theft From Motor Vehicle
+V4012,23G,Theft of Motor Vehicle Parts/Accessories
+V4012,23H,All Other Larceny
+V4012,240,Motor Vehicle Theft
+V4012,370,Pornography/Obscene Material
+V4012,40A,Prostitution
+V4012,40B,Assisting or Promoting Prostitution
+V4012,40C,Purchasing Prostitution
+V4012,120,Robbery
+V4012,11A,Rape
+V4012,11B,Sodomy
+V4012,11C,Sexual Assault With An Object
+V4012,11D,Fondling (Indecent Liberties/Child Molesting)
+V4012,36A,Incest
+V4012,36B,Statutory Rape
+V4012,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4012,520,Weapon Law Violations
+V4013,200,Arson
+V4013,13A,Aggravated Assault
+V4013,13B,Simple Assault
+V4013,13C,Intimidation
+V4013,510,Bribery
+V4013,220,Burglary/Breaking and Entering
+V4013,250,Counterfeiting/Forgery
+V4013,290,Destruction/Damage/Vandalism of Property
+V4013,35A,Drug/Narcotic Violations
+V4013,35B,Drug Equipment Violations
+V4013,270,Embezzlement
+V4013,210,Extortion/Blackmail
+V4013,26A,False Pretenses/Swindle/Confidence Game
+V4013,26B,Credit Card/Automatic Teller Machine Fraud
+V4013,26C,Impersonation
+V4013,26D,Welfare Fraud
+V4013,26E,Wire Fraud
+V4013,39A,Betting/Wagering
+V4013,39B,Operating/Promoting/Assisting Gambling
+V4013,39C,Gambling Equipment Violations
+V4013,39D,Sports Tampering
+V4013,09A,Murder/Nonnegligent Manslaughter
+V4013,09B,Negligent Manslaughter
+V4013,09C,Justifiable Homicide
+V4013,64A,Human Trafficking - Commercial Sex Acts
+V4013,64B,Human Trafficking - Involuntary Servitude
+V4013,100,Kidnaping/Abduction
+V4013,23A,Pocket-picking
+V4013,23B,Purse-snatching
+V4013,23C,Shoplifting
+V4013,23D,Theft From Building
+V4013,23E,Theft From Coin-Operated Machine or Device
+V4013,23F,Theft From Motor Vehicle
+V4013,23G,Theft of Motor Vehicle Parts/Accessories
+V4013,23H,All Other Larceny
+V4013,240,Motor Vehicle Theft
+V4013,370,Pornography/Obscene Material
+V4013,40A,Prostitution
+V4013,40B,Assisting or Promoting Prostitution
+V4013,40C,Purchasing Prostitution
+V4013,120,Robbery
+V4013,11A,Rape
+V4013,11B,Sodomy
+V4013,11C,Sexual Assault With An Object
+V4013,11D,Fondling (Indecent Liberties/Child Molesting)
+V4013,36A,Incest
+V4013,36B,Statutory Rape
+V4013,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4013,520,Weapon Law Violations
+V4014,200,Arson
+V4014,13A,Aggravated Assault
+V4014,13B,Simple Assault
+V4014,13C,Intimidation
+V4014,510,Bribery
+V4014,220,Burglary/Breaking and Entering
+V4014,250,Counterfeiting/Forgery
+V4014,290,Destruction/Damage/Vandalism of Property
+V4014,35A,Drug/Narcotic Violations
+V4014,35B,Drug Equipment Violations
+V4014,270,Embezzlement
+V4014,210,Extortion/Blackmail
+V4014,26A,False Pretenses/Swindle/Confidence Game
+V4014,26B,Credit Card/Automatic Teller Machine Fraud
+V4014,26C,Impersonation
+V4014,26D,Welfare Fraud
+V4014,26E,Wire Fraud
+V4014,39A,Betting/Wagering
+V4014,39B,Operating/Promoting/Assisting Gambling
+V4014,39C,Gambling Equipment Violations
+V4014,39D,Sports Tampering
+V4014,09A,Murder/Nonnegligent Manslaughter
+V4014,09B,Negligent Manslaughter
+V4014,09C,Justifiable Homicide
+V4014,64A,Human Trafficking - Commercial Sex Acts
+V4014,64B,Human Trafficking - Involuntary Servitude
+V4014,100,Kidnaping/Abduction
+V4014,23A,Pocket-picking
+V4014,23B,Purse-snatching
+V4014,23C,Shoplifting
+V4014,23D,Theft From Building
+V4014,23E,Theft From Coin-Operated Machine or Device
+V4014,23F,Theft From Motor Vehicle
+V4014,23G,Theft of Motor Vehicle Parts/Accessories
+V4014,23H,All Other Larceny
+V4014,240,Motor Vehicle Theft
+V4014,370,Pornography/Obscene Material
+V4014,40A,Prostitution
+V4014,40B,Assisting or Promoting Prostitution
+V4014,40C,Purchasing Prostitution
+V4014,120,Robbery
+V4014,11A,Rape
+V4014,11B,Sodomy
+V4014,11C,Sexual Assault With An Object
+V4014,11D,Fondling (Indecent Liberties/Child Molesting)
+V4014,36A,Incest
+V4014,36B,Statutory Rape
+V4014,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4014,520,Weapon Law Violations
+V4015,200,Arson
+V4015,13A,Aggravated Assault
+V4015,13B,Simple Assault
+V4015,13C,Intimidation
+V4015,510,Bribery
+V4015,220,Burglary/Breaking and Entering
+V4015,250,Counterfeiting/Forgery
+V4015,290,Destruction/Damage/Vandalism of Property
+V4015,35A,Drug/Narcotic Violations
+V4015,35B,Drug Equipment Violations
+V4015,270,Embezzlement
+V4015,210,Extortion/Blackmail
+V4015,26A,False Pretenses/Swindle/Confidence Game
+V4015,26B,Credit Card/Automatic Teller Machine Fraud
+V4015,26C,Impersonation
+V4015,26D,Welfare Fraud
+V4015,26E,Wire Fraud
+V4015,39A,Betting/Wagering
+V4015,39B,Operating/Promoting/Assisting Gambling
+V4015,39C,Gambling Equipment Violations
+V4015,39D,Sports Tampering
+V4015,09A,Murder/Nonnegligent Manslaughter
+V4015,09B,Negligent Manslaughter
+V4015,09C,Justifiable Homicide
+V4015,64A,Human Trafficking - Commercial Sex Acts
+V4015,64B,Human Trafficking - Involuntary Servitude
+V4015,100,Kidnaping/Abduction
+V4015,23A,Pocket-picking
+V4015,23B,Purse-snatching
+V4015,23C,Shoplifting
+V4015,23D,Theft From Building
+V4015,23E,Theft From Coin-Operated Machine or Device
+V4015,23F,Theft From Motor Vehicle
+V4015,23G,Theft of Motor Vehicle Parts/Accessories
+V4015,23H,All Other Larceny
+V4015,240,Motor Vehicle Theft
+V4015,370,Pornography/Obscene Material
+V4015,40A,Prostitution
+V4015,40B,Assisting or Promoting Prostitution
+V4015,40C,Purchasing Prostitution
+V4015,120,Robbery
+V4015,11A,Rape
+V4015,11B,Sodomy
+V4015,11C,Sexual Assault With An Object
+V4015,11D,Fondling (Indecent Liberties/Child Molesting)
+V4015,36A,Incest
+V4015,36B,Statutory Rape
+V4015,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4015,520,Weapon Law Violations
+V4016,200,Arson
+V4016,13A,Aggravated Assault
+V4016,13B,Simple Assault
+V4016,13C,Intimidation
+V4016,510,Bribery
+V4016,220,Burglary/Breaking and Entering
+V4016,250,Counterfeiting/Forgery
+V4016,290,Destruction/Damage/Vandalism of Property
+V4016,35A,Drug/Narcotic Violations
+V4016,35B,Drug Equipment Violations
+V4016,270,Embezzlement
+V4016,210,Extortion/Blackmail
+V4016,26A,False Pretenses/Swindle/Confidence Game
+V4016,26B,Credit Card/Automatic Teller Machine Fraud
+V4016,26C,Impersonation
+V4016,26D,Welfare Fraud
+V4016,26E,Wire Fraud
+V4016,39A,Betting/Wagering
+V4016,39B,Operating/Promoting/Assisting Gambling
+V4016,39C,Gambling Equipment Violations
+V4016,39D,Sports Tampering
+V4016,09A,Murder/Nonnegligent Manslaughter
+V4016,09B,Negligent Manslaughter
+V4016,09C,Justifiable Homicide
+V4016,64A,Human Trafficking - Commercial Sex Acts
+V4016,64B,Human Trafficking - Involuntary Servitude
+V4016,100,Kidnaping/Abduction
+V4016,23A,Pocket-picking
+V4016,23B,Purse-snatching
+V4016,23C,Shoplifting
+V4016,23D,Theft From Building
+V4016,23E,Theft From Coin-Operated Machine or Device
+V4016,23F,Theft From Motor Vehicle
+V4016,23G,Theft of Motor Vehicle Parts/Accessories
+V4016,23H,All Other Larceny
+V4016,240,Motor Vehicle Theft
+V4016,370,Pornography/Obscene Material
+V4016,40A,Prostitution
+V4016,40B,Assisting or Promoting Prostitution
+V4016,40C,Purchasing Prostitution
+V4016,120,Robbery
+V4016,11A,Rape
+V4016,11B,Sodomy
+V4016,11C,Sexual Assault With An Object
+V4016,11D,Fondling (Indecent Liberties/Child Molesting)
+V4016,36A,Incest
+V4016,36B,Statutory Rape
+V4016,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V4016,520,Weapon Law Violations
+V4017,I,Individual
+V4017,B,Business
+V4017,F,Financial Institution
+V4017,G,Government
+V4017,L,Law Enforcement Officer
+V4017,R,Religious Organization
+V4017,S,Society/Public
+V4017,O,Other
+V4017,U,Unknown
+V4017A,1,"Respond disturbance call (Family quarrels, person with firearm, etc.)"
+V4017A,2,Burglaries in progress or pursuing burglary suspects
+V4017A,3,Robberies in progress or pursuing robbery suspects
+V4017A,4,Attempting other arrests
+V4017A,5,"Civil disorder (Riot, mass disobedience)"
+V4017A,6,"Handling, transporting, custody of prisoners"
+V4017A,7,Investigating suspicious persons or circumstances
+V4017A,8,Ambush-no warning
+V4017A,9,Mentally deranged assailant
+V4017A,10,Traffic pursuits and stops
+V4017A,11,All other
+V4017B,F,Two-officer vehicle
+V4017B,G,One-officer vehicle (alone)
+V4017B,H,One-officer vehicle (assisted)
+V4017B,I,Detective or special assignment (alone)
+V4017B,J,Detective or special assignment (assisted)
+V4017B,K,Other (alone)
+V4017B,L,Other (assisted)
+V4018,NN,Under 24 Hours (neonate)
+V4018,NB,1-6 Days Old
+V4018,BB,7-364 Days Old
+V4018,00,Unknown
+V4018,99,Over 98 Years Old
+V4019,M,Male
+V4019,F,Female
+V4019,U,Unknown
+V4020,W,White
+V4020,B,Black or African American
+V4020,I,American Indian or Alaska Native
+V4020,A,Asian
+V4020,P,Native Hawaiian or Other Pacific Islander
+V4020,U,Unknown
+V4021,H,Hispanic or Latino Origin
+V4021,N,Not of Hispanic or Latino Origin
+V4021,U,Unknown
+V4022,R,Resident
+V4022,N,Nonresident
+V4022,U,Unknown
+V4023,01,Argument
+V4023,02,Assault on Law Enforcement Officer(s)
+V4023,03,Drug Dealing
+V4023,04,Gangland
+V4023,05,Juvenile Gang
+V4023,06,Lovers' Quarrel
+V4023,07,Mercy Killing (Not applicable to Aggravated Assault)
+V4023,08,Other Felony Involved
+V4023,09,Other Circumstances
+V4023,10,Unknown Circumstances
+V4023,30,Child Playing With Weapon
+V4023,31,Gun-Cleaning Accident
+V4023,32,Hunting Accident
+V4023,33,Other Negligent Weapon Handling
+V4023,34,Other Negligent Killings
+V4023,20,Criminal Killed by Private Citizen
+V4023,21,Criminal Killed by Police Officer
+V4024,01,Argument
+V4024,02,Assault on Law Enforcement Officer(s)
+V4024,03,Drug Dealing
+V4024,04,Gangland
+V4024,05,Juvenile Gang
+V4024,06,Lovers' Quarrel
+V4024,07,Mercy Killing (Not applicable to Aggravated Assault)
+V4024,08,Other Felony Involved
+V4024,09,Other Circumstances
+V4024,10,Unknown Circumstances
+V4024,30,Child Playing With Weapon
+V4024,31,Gun-Cleaning Accident
+V4024,32,Hunting Accident
+V4024,33,Other Negligent Weapon Handling
+V4024,34,Other Negligent Killings
+V4024,20,Criminal Killed by Private Citizen
+V4024,21,Criminal Killed by Police Officer
+V4025,A,Criminal Attacked Police Officer and That Officer Killed Criminal
+V4025,B,Criminal Attacked Fellow Police Officer and Criminal Killed by Another Police Officer
+V4025,C,Criminal Attacked a Civilian
+V4025,D,Criminal Attempted Flight From a Crime
+V4025,E,Criminal Killed In Commission of a Crime
+V4025,F,Criminal Resisted Arrest
+V4025,G,Unable to Determine/Not Enough Information
+V4026,N,None
+V4026,M,Apparent Minor Injury
+V4026,B,Apparent Broken Bones
+V4026,O,Other Major Injury
+V4026,I,Possible Internal Injury
+V4026,T,Loss of Teeth
+V4026,L,Severe Laceration
+V4026,U,Unconsciousness
+V4027,N,None
+V4027,M,Apparent Minor Injury
+V4027,B,Apparent Broken Bones
+V4027,O,Other Major Injury
+V4027,I,Possible Internal Injury
+V4027,T,Loss of Teeth
+V4027,L,Severe Laceration
+V4027,U,Unconsciousness
+V4028,N,None
+V4028,M,Apparent Minor Injury
+V4028,B,Apparent Broken Bones
+V4028,O,Other Major Injury
+V4028,I,Possible Internal Injury
+V4028,T,Loss of Teeth
+V4028,L,Severe Laceration
+V4028,U,Unconsciousness
+V4029,N,None
+V4029,M,Apparent Minor Injury
+V4029,B,Apparent Broken Bones
+V4029,O,Other Major Injury
+V4029,I,Possible Internal Injury
+V4029,T,Loss of Teeth
+V4029,L,Severe Laceration
+V4029,U,Unconsciousness
+V4030,N,None
+V4030,M,Apparent Minor Injury
+V4030,B,Apparent Broken Bones
+V4030,O,Other Major Injury
+V4030,I,Possible Internal Injury
+V4030,T,Loss of Teeth
+V4030,L,Severe Laceration
+V4030,U,Unconsciousness
+V4032,SE,Victim was Spouse
+V4032,CS,Victim was Common-Law Spouse
+V4032,PA,Victim was Parent
+V4032,SB,Victim was Sibling
+V4032,CH,Victim was Child
+V4032,GP,Victim was Grandparent
+V4032,GC,Victim was Grandchild
+V4032,IL,Victim was In-Law
+V4032,SP,Victim was Stepparent
+V4032,SC,Victim was Stepchild
+V4032,SS,Victim was Stepsibling
+V4032,OF,Victim was Other Family Member
+V4032,VO,Victim was Offender
+V4032,AQ,Victim was Acquaintance
+V4032,FR,Victim was Friend
+V4032,NE,Victim was Neighbor
+V4032,BE,Victim was Babysittee (the baby)
+V4032,BG,Victim was Boyfriend/Girlfriend
+V4032,CF,Victim was Child of Boyfriend/Girlfriend
+V4032,HR,Homosexual Relationship
+V4032,XS,Victim was Ex-Spouse
+V4032,EE,Victim was Employee
+V4032,ER,Victim was Employer
+V4032,OK,Victim was Otherwise Known
+V4032,RU,Relationship Unknown
+V4032,ST,Victim was Stranger
+V4034,SE,Victim was Spouse
+V4034,CS,Victim was Common-Law Spouse
+V4034,PA,Victim was Parent
+V4034,SB,Victim was Sibling
+V4034,CH,Victim was Child
+V4034,GP,Victim was Grandparent
+V4034,GC,Victim was Grandchild
+V4034,IL,Victim was In-Law
+V4034,SP,Victim was Stepparent
+V4034,SC,Victim was Stepchild
+V4034,SS,Victim was Stepsibling
+V4034,OF,Victim was Other Family Member
+V4034,VO,Victim was Offender
+V4034,AQ,Victim was Acquaintance
+V4034,FR,Victim was Friend
+V4034,NE,Victim was Neighbor
+V4034,BE,Victim was Babysittee (the baby)
+V4034,BG,Victim was Boyfriend/Girlfriend
+V4034,CF,Victim was Child of Boyfriend/Girlfriend
+V4034,HR,Homosexual Relationship
+V4034,XS,Victim was Ex-Spouse
+V4034,EE,Victim was Employee
+V4034,ER,Victim was Employer
+V4034,OK,Victim was Otherwise Known
+V4034,RU,Relationship Unknown
+V4034,ST,Victim was Stranger
+V4036,SE,Victim was Spouse
+V4036,CS,Victim was Common-Law Spouse
+V4036,PA,Victim was Parent
+V4036,SB,Victim was Sibling
+V4036,CH,Victim was Child
+V4036,GP,Victim was Grandparent
+V4036,GC,Victim was Grandchild
+V4036,IL,Victim was In-Law
+V4036,SP,Victim was Stepparent
+V4036,SC,Victim was Stepchild
+V4036,SS,Victim was Stepsibling
+V4036,OF,Victim was Other Family Member
+V4036,VO,Victim was Offender
+V4036,AQ,Victim was Acquaintance
+V4036,FR,Victim was Friend
+V4036,NE,Victim was Neighbor
+V4036,BE,Victim was Babysittee (the baby)
+V4036,BG,Victim was Boyfriend/Girlfriend
+V4036,CF,Victim was Child of Boyfriend/Girlfriend
+V4036,HR,Homosexual Relationship
+V4036,XS,Victim was Ex-Spouse
+V4036,EE,Victim was Employee
+V4036,ER,Victim was Employer
+V4036,OK,Victim was Otherwise Known
+V4036,RU,Relationship Unknown
+V4036,ST,Victim was Stranger
+V4038,SE,Victim was Spouse
+V4038,CS,Victim was Common-Law Spouse
+V4038,PA,Victim was Parent
+V4038,SB,Victim was Sibling
+V4038,CH,Victim was Child
+V4038,GP,Victim was Grandparent
+V4038,GC,Victim was Grandchild
+V4038,IL,Victim was In-Law
+V4038,SP,Victim was Stepparent
+V4038,SC,Victim was Stepchild
+V4038,SS,Victim was Stepsibling
+V4038,OF,Victim was Other Family Member
+V4038,VO,Victim was Offender
+V4038,AQ,Victim was Acquaintance
+V4038,FR,Victim was Friend
+V4038,NE,Victim was Neighbor
+V4038,BE,Victim was Babysittee (the baby)
+V4038,BG,Victim was Boyfriend/Girlfriend
+V4038,CF,Victim was Child of Boyfriend/Girlfriend
+V4038,HR,Homosexual Relationship
+V4038,XS,Victim was Ex-Spouse
+V4038,EE,Victim was Employee
+V4038,ER,Victim was Employer
+V4038,OK,Victim was Otherwise Known
+V4038,RU,Relationship Unknown
+V4038,ST,Victim was Stranger
+V4040,SE,Victim was Spouse
+V4040,CS,Victim was Common-Law Spouse
+V4040,PA,Victim was Parent
+V4040,SB,Victim was Sibling
+V4040,CH,Victim was Child
+V4040,GP,Victim was Grandparent
+V4040,GC,Victim was Grandchild
+V4040,IL,Victim was In-Law
+V4040,SP,Victim was Stepparent
+V4040,SC,Victim was Stepchild
+V4040,SS,Victim was Stepsibling
+V4040,OF,Victim was Other Family Member
+V4040,VO,Victim was Offender
+V4040,AQ,Victim was Acquaintance
+V4040,FR,Victim was Friend
+V4040,NE,Victim was Neighbor
+V4040,BE,Victim was Babysittee (the baby)
+V4040,BG,Victim was Boyfriend/Girlfriend
+V4040,CF,Victim was Child of Boyfriend/Girlfriend
+V4040,HR,Homosexual Relationship
+V4040,XS,Victim was Ex-Spouse
+V4040,EE,Victim was Employee
+V4040,ER,Victim was Employer
+V4040,OK,Victim was Otherwise Known
+V4040,RU,Relationship Unknown
+V4040,ST,Victim was Stranger
+V4042,SE,Victim was Spouse
+V4042,CS,Victim was Common-Law Spouse
+V4042,PA,Victim was Parent
+V4042,SB,Victim was Sibling
+V4042,CH,Victim was Child
+V4042,GP,Victim was Grandparent
+V4042,GC,Victim was Grandchild
+V4042,IL,Victim was In-Law
+V4042,SP,Victim was Stepparent
+V4042,SC,Victim was Stepchild
+V4042,SS,Victim was Stepsibling
+V4042,OF,Victim was Other Family Member
+V4042,VO,Victim was Offender
+V4042,AQ,Victim was Acquaintance
+V4042,FR,Victim was Friend
+V4042,NE,Victim was Neighbor
+V4042,BE,Victim was Babysittee (the baby)
+V4042,BG,Victim was Boyfriend/Girlfriend
+V4042,CF,Victim was Child of Boyfriend/Girlfriend
+V4042,HR,Homosexual Relationship
+V4042,XS,Victim was Ex-Spouse
+V4042,EE,Victim was Employee
+V4042,ER,Victim was Employer
+V4042,OK,Victim was Otherwise Known
+V4042,RU,Relationship Unknown
+V4042,ST,Victim was Stranger
+V4044,SE,Victim was Spouse
+V4044,CS,Victim was Common-Law Spouse
+V4044,PA,Victim was Parent
+V4044,SB,Victim was Sibling
+V4044,CH,Victim was Child
+V4044,GP,Victim was Grandparent
+V4044,GC,Victim was Grandchild
+V4044,IL,Victim was In-Law
+V4044,SP,Victim was Stepparent
+V4044,SC,Victim was Stepchild
+V4044,SS,Victim was Stepsibling
+V4044,OF,Victim was Other Family Member
+V4044,VO,Victim was Offender
+V4044,AQ,Victim was Acquaintance
+V4044,FR,Victim was Friend
+V4044,NE,Victim was Neighbor
+V4044,BE,Victim was Babysittee (the baby)
+V4044,BG,Victim was Boyfriend/Girlfriend
+V4044,CF,Victim was Child of Boyfriend/Girlfriend
+V4044,HR,Homosexual Relationship
+V4044,XS,Victim was Ex-Spouse
+V4044,EE,Victim was Employee
+V4044,ER,Victim was Employer
+V4044,OK,Victim was Otherwise Known
+V4044,RU,Relationship Unknown
+V4044,ST,Victim was Stranger
+V4046,SE,Victim was Spouse
+V4046,CS,Victim was Common-Law Spouse
+V4046,PA,Victim was Parent
+V4046,SB,Victim was Sibling
+V4046,CH,Victim was Child
+V4046,GP,Victim was Grandparent
+V4046,GC,Victim was Grandchild
+V4046,IL,Victim was In-Law
+V4046,SP,Victim was Stepparent
+V4046,SC,Victim was Stepchild
+V4046,SS,Victim was Stepsibling
+V4046,OF,Victim was Other Family Member
+V4046,VO,Victim was Offender
+V4046,AQ,Victim was Acquaintance
+V4046,FR,Victim was Friend
+V4046,NE,Victim was Neighbor
+V4046,BE,Victim was Babysittee (the baby)
+V4046,BG,Victim was Boyfriend/Girlfriend
+V4046,CF,Victim was Child of Boyfriend/Girlfriend
+V4046,HR,Homosexual Relationship
+V4046,XS,Victim was Ex-Spouse
+V4046,EE,Victim was Employee
+V4046,ER,Victim was Employer
+V4046,OK,Victim was Otherwise Known
+V4046,RU,Relationship Unknown
+V4046,ST,Victim was Stranger
+V4048,SE,Victim was Spouse
+V4048,CS,Victim was Common-Law Spouse
+V4048,PA,Victim was Parent
+V4048,SB,Victim was Sibling
+V4048,CH,Victim was Child
+V4048,GP,Victim was Grandparent
+V4048,GC,Victim was Grandchild
+V4048,IL,Victim was In-Law
+V4048,SP,Victim was Stepparent
+V4048,SC,Victim was Stepchild
+V4048,SS,Victim was Stepsibling
+V4048,OF,Victim was Other Family Member
+V4048,VO,Victim was Offender
+V4048,AQ,Victim was Acquaintance
+V4048,FR,Victim was Friend
+V4048,NE,Victim was Neighbor
+V4048,BE,Victim was Babysittee (the baby)
+V4048,BG,Victim was Boyfriend/Girlfriend
+V4048,CF,Victim was Child of Boyfriend/Girlfriend
+V4048,HR,Homosexual Relationship
+V4048,XS,Victim was Ex-Spouse
+V4048,EE,Victim was Employee
+V4048,ER,Victim was Employer
+V4048,OK,Victim was Otherwise Known
+V4048,RU,Relationship Unknown
+V4048,ST,Victim was Stranger
+V4050,SE,Victim was Spouse
+V4050,CS,Victim was Common-Law Spouse
+V4050,PA,Victim was Parent
+V4050,SB,Victim was Sibling
+V4050,CH,Victim was Child
+V4050,GP,Victim was Grandparent
+V4050,GC,Victim was Grandchild
+V4050,IL,Victim was In-Law
+V4050,SP,Victim was Stepparent
+V4050,SC,Victim was Stepchild
+V4050,SS,Victim was Stepsibling
+V4050,OF,Victim was Other Family Member
+V4050,VO,Victim was Offender
+V4050,AQ,Victim was Acquaintance
+V4050,FR,Victim was Friend
+V4050,NE,Victim was Neighbor
+V4050,BE,Victim was Babysittee (the baby)
+V4050,BG,Victim was Boyfriend/Girlfriend
+V4050,CF,Victim was Child of Boyfriend/Girlfriend
+V4050,HR,Homosexual Relationship
+V4050,XS,Victim was Ex-Spouse
+V4050,EE,Victim was Employee
+V4050,ER,Victim was Employer
+V4050,OK,Victim was Otherwise Known
+V4050,RU,Relationship Unknown
+V4050,ST,Victim was Stranger
+V5001,05,Offender Segment
+V5002,01,AL-Alabama
+V5002,02,AZ-Arizona
+V5002,03,AR-Arkansas
+V5002,04,CA-California
+V5002,05,CO-Colorado
+V5002,06,CT-Connecticut
+V5002,07,DE-Delaware
+V5002,08,DC-District of Columbia
+V5002,09,FL-Florida
+V5002,10,GA-Georgia
+V5002,11,ID-Idaho
+V5002,12,IL-Illinois
+V5002,13,IN-Indiana
+V5002,14,IA-Iowa
+V5002,15,KS-Kansas
+V5002,16,KY-Kentucky
+V5002,17,LA-Louisiana
+V5002,18,ME-Maine
+V5002,19,MD-Maryland
+V5002,20,MA-Massachusetts
+V5002,21,MI-Michigan
+V5002,22,MN-Minnesota
+V5002,23,MS-Mississippi
+V5002,24,MO-Missouri
+V5002,25,MT-Montana
+V5002,26,NB-Nebraska
+V5002,27,NV-Nevada
+V5002,28,NH-New Hampshire
+V5002,29,NJ-New Jersey
+V5002,30,NM-New Mexico
+V5002,31,NY-New York
+V5002,32,NC-North Carolina
+V5002,33,ND-North Dakota
+V5002,34,OH-Ohio
+V5002,35,OK-Oklahoma
+V5002,36,OR-Oregon
+V5002,37,PA-Pennsylvania
+V5002,38,RI-Rhode Island
+V5002,39,SC-South Carolina
+V5002,40,SD-South Dakota
+V5002,41,TN-Tennessee
+V5002,42,TX-Texas
+V5002,43,UT-Utah
+V5002,44,VT-Vermont
+V5002,45,VA-Virginia
+V5002,46,WA-Washington
+V5002,47,WV-West Virginia
+V5002,48,WI-Wisconsin
+V5002,49,WY-Wyoming
+V5002,50,AK-Alaska
+V5002,51,HI-Hawaii
+V5002,52,CZ-Canal Zone
+V5002,53,PR-Puerto Rico
+V5002,54,AS-American Samoa
+V5002,55,GM-Guam
+V5002,62,VI-Virgin Islands
+V5006,00,Unknown N Offenders
+V5007,00,Unknown
+V5007,99,Over 98 Years Old
+V5008,M,Male
+V5008,F,Female
+V5008,U,Unknown
+V5009,W,White
+V5009,B,Black or African American
+V5009,I,American Indian or Alaska Native
+V5009,A,Asian
+V5009,P,Native Hawaiian or Other Pacific Islander
+V5009,U,Unknown
+V5011,H,Hispanic or Latino Origin
+V5011,N,Not of Hispanic or Latino Origin
+V5011,U,Unknown
+V6001,06,Arrestee Segment
+V6002,01,AL-Alabama
+V6002,02,AZ-Arizona
+V6002,03,AR-Arkansas
+V6002,04,CA-California
+V6002,05,CO-Colorado
+V6002,06,CT-Connecticut
+V6002,07,DE-Delaware
+V6002,08,DC-District of Columbia
+V6002,09,FL-Florida
+V6002,10,GA-Georgia
+V6002,11,ID-Idaho
+V6002,12,IL-Illinois
+V6002,13,IN-Indiana
+V6002,14,IA-Iowa
+V6002,15,KS-Kansas
+V6002,16,KY-Kentucky
+V6002,17,LA-Louisiana
+V6002,18,ME-Maine
+V6002,19,MD-Maryland
+V6002,20,MA-Massachusetts
+V6002,21,MI-Michigan
+V6002,22,MN-Minnesota
+V6002,23,MS-Mississippi
+V6002,24,MO-Missouri
+V6002,25,MT-Montana
+V6002,26,NB-Nebraska
+V6002,27,NV-Nevada
+V6002,28,NH-New Hampshire
+V6002,29,NJ-New Jersey
+V6002,30,NM-New Mexico
+V6002,31,NY-New York
+V6002,32,NC-North Carolina
+V6002,33,ND-North Dakota
+V6002,34,OH-Ohio
+V6002,35,OK-Oklahoma
+V6002,36,OR-Oregon
+V6002,37,PA-Pennsylvania
+V6002,38,RI-Rhode Island
+V6002,39,SC-South Carolina
+V6002,40,SD-South Dakota
+V6002,41,TN-Tennessee
+V6002,42,TX-Texas
+V6002,43,UT-Utah
+V6002,44,VT-Vermont
+V6002,45,VA-Virginia
+V6002,46,WA-Washington
+V6002,47,WV-West Virginia
+V6002,48,WI-Wisconsin
+V6002,49,WY-Wyoming
+V6002,50,AK-Alaska
+V6002,51,HI-Hawaii
+V6002,52,CZ-Canal Zone
+V6002,53,PR-Puerto Rico
+V6002,54,AS-American Samoa
+V6002,55,GM-Guam
+V6002,62,VI-Virgin Islands
+V6009,O,On-View Arrest (taken into custody without a warrant or previous incident report)
+V6009,S,Summoned/Cited (not taken into custody)
+V6009,T,Taken Into Custody (based on warrant and/or previous incident report)
+V6010,M,Multiple
+V6010,C,Count Arrestee
+V6010,N,Not Applicable
+V6011,200,Arson
+V6011,13A,Aggravated Assault
+V6011,13B,Simple Assault
+V6011,13C,Intimidation
+V6011,510,Bribery
+V6011,220,Burglary/Breaking and Entering
+V6011,250,Counterfeiting/Forgery
+V6011,290,Destruction/Damage/Vandalism of Property
+V6011,35A,Drug/Narcotic Violations
+V6011,35B,Drug Equipment Violations
+V6011,270,Embezzlement
+V6011,210,Extortion/Blackmail
+V6011,26A,False Pretenses/Swindle/Confidence Game
+V6011,26B,Credit Card/Automatic Teller Machine Fraud
+V6011,26C,Impersonation
+V6011,26D,Welfare Fraud
+V6011,26E,Wire Fraud
+V6011,39A,Betting/Wagering
+V6011,39B,Operating/Promoting/Assisting Gambling
+V6011,39C,Gambling Equipment Violations
+V6011,39D,Sports Tampering
+V6011,09A,Murder/Nonnegligent Manslaughter
+V6011,09B,Negligent Manslaughter
+V6011,09C,Justifiable Homicide
+V6011,64A,Human Trafficking - Commercial Sex Acts
+V6011,64B,Human Trafficking - Involuntary Servitude
+V6011,100,Kidnaping/Abduction
+V6011,23A,Pocket-picking
+V6011,23B,Purse-snatching
+V6011,23C,Shoplifting
+V6011,23D,Theft From Building
+V6011,23E,Theft From Coin-Operated Machine or Device
+V6011,23F,Theft From Motor Vehicle Theft
+V6011,23G,Theft of Motor Vehicle Parts/Accessories
+V6011,23H,All Other Larceny
+V6011,240,Motor Vehicle Theft
+V6011,370,Pornography/Obscene Material
+V6011,40A,Prostitution
+V6011,40B,Assisting or Promoting Prostitution
+V6011,40C,Purchasing Prostitution
+V6011,120,Robbery
+V6011,11A,Rape
+V6011,11B,Sodomy
+V6011,11C,Sexual Assault With An Object
+V6011,11D,Fondling (Indecent Liberties/Child Molesting)
+V6011,36A,Incest
+V6011,36B,Statutory Rape
+V6011,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+V6011,520,Weapon Law Violations
+V6011,90A,Bad Checks
+V6011,90B,Curfew/Loitering/Vagrancy Violations
+V6011,90C,Disorderly Conduct
+V6011,90D,Driving Under the Influence
+V6011,90E,Drunkenness
+V6011,90F,"Family Offenses, Nonviolent"
+V6011,90G,Liquor Law Violations
+V6011,90H,Peeping Tom
+V6011,90I,Runaway
+V6011,90J,Trespass of Real Property
+V6011,90Z,All Other Offenses
+V6012,01,Unarmed
+V6012,11,Firearm (type not stated)
+V6012,11A,"Firearm (type not stated), automatic"
+V6012,12,Handgun
+V6012,12A,"Handgun, automatic"
+V6012,13,Rifle
+V6012,13A,"Rifle, automatic"
+V6012,14,Shotgun
+V6012,14A,"Shotgun, automatic"
+V6012,15,Other Firearm
+V6012,15A,"Other Firearm, automatic"
+V6012,16,"Lethal Cutting Instrument (e.g., switchblade knife, etc.)"
+V6012,17,Club/Blackjack/Brass Knuckles
+V6013,01,Unarmed
+V6013,11,Firearm (type not stated)
+V6013,11A,"Firearm (type not stated), automatic"
+V6013,12,Handgun
+V6013,12A,"Handgun, automatic"
+V6013,13,Rifle
+V6013,13A,"Rifle, automatic"
+V6013,14,Shotgun
+V6013,14A,"Shotgun, automatic"
+V6013,15,Other Firearm
+V6013,15A,"Other Firearm, automatic"
+V6013,16,"Lethal Cutting Instrument (e.g., switchblade knife, etc.)"
+V6013,17,Club/Blackjack/Brass Knuckles
+V6014,00,Unknown
+V6014,99,Over 98 Years Old
+V6015,M,Male
+V6015,F,Female
+V6016,W,White
+V6016,B,Black or African American
+V6016,I,American Indian or Alaska Native
+V6016,A,Asian
+V6016,A,Native Hawaiian or Other Pacific Islander
+V6016,U,Unknown
+V6017,H,Hispanic or Latino Origin
+V6017,N,Not of Hispanic or Latino Origin
+V6017,U,Unknown
+V6018,R,Resident
+V6018,N,Nonresident
+V6018,U,Unknown
+V6019,H,"Handled Within Department (e.g., released to parents, released with warning, etc.)"
+V6019,R,"Referred to Other Authorities (e.g., turned over to juvenile court, probation department, welfare agency, other police agency,
+criminal or adult court, etc.)"
+V7001,07,Group B Arrest Report Segment
+V7002,01,AL-Alabama
+V7002,02,AZ-Arizona
+V7002,03,AR-Arkansas
+V7002,04,CA-California
+V7002,05,CO-Colorado
+V7002,06,CT-Connecticut
+V7002,07,DE-Delaware
+V7002,08,DC-District of Columbia
+V7002,09,FL-Florida
+V7002,10,GA-Georgia
+V7002,11,ID-Idaho
+V7002,12,IL-Illinois
+V7002,13,IN-Indiana
+V7002,14,IA-Iowa
+V7002,15,KS-Kansas
+V7002,16,KY-Kentucky
+V7002,17,LA-Louisiana
+V7002,18,ME-Maine
+V7002,19,MD-Maryland
+V7002,20,MA-Massachusetts
+V7002,21,MI-Michigan
+V7002,22,MN-Minnesota
+V7002,23,MS-Mississippi
+V7002,24,MO-Missouri
+V7002,25,MT-Montana
+V7002,26,NB-Nebraska
+V7002,27,NV-Nevada
+V7002,28,NH-New Hampshire
+V7002,29,NJ-New Jersey
+V7002,30,NM-New Mexico
+V7002,31,NY-New York
+V7002,32,NC-North Carolina
+V7002,33,ND-North Dakota
+V7002,34,OH-Ohio
+V7002,35,OK-Oklahoma
+V7002,36,OR-Oregon
+V7002,37,PA-Pennsylvania
+V7002,38,RI-Rhode Island
+V7002,39,SC-South Carolina
+V7002,40,SD-South Dakota
+V7002,41,TN-Tennessee
+V7002,42,TX-Texas
+V7002,43,UT-Utah
+V7002,44,VT-Vermont
+V7002,45,VA-Virginia
+V7002,46,WA-Washington
+V7002,47,WV-West Virginia
+V7002,48,WI-Wisconsin
+V7002,49,WY-Wyoming
+V7002,50,AK-Alaska
+V7002,51,HI-Hawaii
+V7002,52,CZ-Canal Zone
+V7002,53,PR-Puerto Rico
+V7002,54,AS-American Samoa
+V7002,55,GM-Guam
+V7002,62,VI-Virgin Islands
+V7008,O,On-View Arrest (taken into custody without a warrant or previous incident report)
+V7008,S,Summoned/Cited (not taken into custody)
+V7008,T,Taken Into Custody (based on warrant and/or previous incident report)
+V7009,90A,Bad Checks
+V7009,90B,Curfew/Loitering/Vagrancy Violations
+V7009,90C,Disorderly Conduct
+V7009,90D,Driving Under the Influence
+V7009,90E,Drunkenness
+V7009,90F,"Family Offenses, Nonviolent"
+V7009,90G,Liquor Law Violations
+V7009,90H,Peeping Tom
+V7009,90I,Runaway
+V7009,90J,Trespass of Real Property
+V7009,90Z,All Other Offenses
+V7010,01,Unarmed
+V7010,11,Firearm (type not stated)
+V7010,11A,"Firearm (type not stated), automatic"
+V7010,12,Handgun
+V7010,12A,"Handgun, automatic"
+V7010,13,Rifle
+V7010,13A,"Rifle, automatic"
+V7010,14,Shotgun
+V7010,14A,"Shotgun, automatic"
+V7010,15,Other Firearm
+V7010,15A,"Other Firearm, automatic"
+V7010,16,"Lethal Cutting Instrument (e.g., switchblade knife, etc.)"
+V7010,17,Club/Blackjack/Brass Knuckles
+V7011,01,Unarmed
+V7011,11,Firearm (type not stated)
+V7011,11A,"Firearm (type not stated), automatic"
+V7011,12,Handgun
+V7011,12A,"Handgun, automatic"
+V7011,13,Rifle
+V7011,13A,"Rifle, automatic"
+V7011,14,Shotgun
+V7011,14A,"Shotgun, automatic"
+V7011,15,Other Firearm
+V7011,15A,"Other Firearm, automatic"
+V7011,16,"Lethal Cutting Instrument (e.g., switchblade knife, etc.)"
+V7011,17,Club/Blackjack/Brass Knuckles
+V7012,00,Unknown
+V7012,99,Over 98 Years Old
+V7013,M,Male
+V7013,F,Female
+V7014,W,White
+V7014,B,Black or African American
+V7014,I,American Indian or Alaska Native
+V7014,A,Asian
+V7014,P,Native Hawaiian or Other Pacific Islander
+V7014,U,Unknown
+V7015,H,Hispanic or Latino Origin
+V7015,N,Not of Hispanic or Latino Origin
+V7015,U,Unknown
+V7016,R,Resident
+V7016,N,Nonresident
+V7016,U,Unknown
+V7017,H,"Handled Within Department (e.g., released to parents, released with warning, etc.)"
+V7017,R,"Referred to Other Authorities (e.g., turned over to juvenile court, probation department, welfare agency, other police agency,
+criminal or adult court, etc.)"
+W1001,01,Administrative Segment
+W1002,01,AL-Alabama
+W1002,02,AZ-Arizona
+W1002,03,AR-Arkansas
+W1002,04,CA-California
+W1002,05,CO-Colorado
+W1002,06,CT-Connecticut
+W1002,07,DE-Delaware
+W1002,08,DC-District of Columbia
+W1002,09,FL-Florida
+W1002,10,GA-Georgia
+W1002,11,ID-Idaho
+W1002,12,IL-Illinois
+W1002,13,IN-Indiana
+W1002,14,IA-Iowa
+W1002,15,KS-Kansas
+W1002,16,KY-Kentucky
+W1002,17,LA-Louisiana
+W1002,18,ME-Maine
+W1002,19,MD-Maryland
+W1002,20,MA-Massachusetts
+W1002,21,MI-Michigan
+W1002,22,MN-Minnesota
+W1002,23,MS-Mississippi
+W1002,24,MO-Missouri
+W1002,25,MT-Montana
+W1002,26,NB-Nebraska
+W1002,27,NV-Nevada
+W1002,28,NH-New Hampshire
+W1002,29,NJ-New Jersey
+W1002,30,NM-New Mexico
+W1002,31,NY-New York
+W1002,32,NC-North Carolina
+W1002,33,ND-North Dakota
+W1002,34,OH-Ohio
+W1002,35,OK-Oklahoma
+W1002,36,OR-Oregon
+W1002,37,PA-Pennsylvania
+W1002,38,RI-Rhode Island
+W1002,39,SC-South Carolina
+W1002,40,SD-South Dakota
+W1002,41,TN-Tennessee
+W1002,42,TX-Texas
+W1002,43,UT-Utah
+W1002,44,VT-Vermont
+W1002,45,VA-Virginia
+W1002,46,WA-Washington
+W1002,47,WV-West Virginia
+W1002,48,WI-Wisconsin
+W1002,49,WY-Wyoming
+W1002,50,AK-Alaska
+W1002,51,HI-Hawaii
+W1002,52,CZ-Canal Zone
+W1002,53,PR-Puerto Rico
+W1002,54,AS-American Samoa
+W1002,55,GM-Guam
+W1002,62,VI-Virgin Islands
+W1006,Blank,Incident date
+W1006,R,Report date
+W1007,Blank,Unknown time
+W1007,00,On or between midnight and 0059
+W1007,01,On or between 0100 and 0159
+W1007,02,On or between 0200 and 0259
+W1007,03,On or between 0300 and 0359
+W1007,04,On or between 0400 and 0459
+W1007,05,On or between 0500 and 0559
+W1007,06,On or between 0600 and 0659
+W1007,07,On or between 0700 and 0759
+W1007,08,On or between 0800 and 0859
+W1007,09,On or between 0900 and 0959
+W1007,10,On or between 1000 and 1059
+W1007,11,On or between 1100 and 1159
+W1007,12,On or between 1200 and 1259
+W1007,13,On or between 1300 and 1359
+W1007,14,On or between 1400 and 1459
+W1007,15,On or between 1500 and 1559
+W1007,16,On or between 1600 and 1659
+W1007,17,On or between 1700 and 1759
+W1007,18,On or between 1800 and 1859
+W1007,19,On or between 1900 and 1959
+W1007,20,On or between 2000 and 2059
+W1007,21,On or between 2100 and 2159
+W1007,22,On or between 2200 and 2259
+W1007,23,On or between 2300 and 2359
+W1013,A,Death of Offender
+W1013,B,Prosecution Declined (for other than lack of probable cause)
+W1013,C,In Custody of Other Jurisdiction (inclues extradition denied)
+W1013,D,Victim Refused to Cooperate
+W1013,E,Juvenile/No Custody
+W1013,N,Not Applicable
+W1015,200,Arson
+W1015,13A,Aggravated Assault
+W1015,13B,Simple Assault
+W1015,13C,Intimidation
+W1015,510,Bribery
+W1015,220,Burglary/Breaking and Entering
+W1015,250,Counterfeiting/Forgery
+W1015,290,Destruction/Damage/Vandalism of Property
+W1015,35A,Drug/Narcotic Violations
+W1015,35B,Drug Equipment Violations
+W1015,270,Embezzlement
+W1015,210,Extortion/Blackmail
+W1015,26A,False Pretenses/Swindle/Confidence Game
+W1015,26B,Credit Card/Automatic Teller Machine Fraud
+W1015,26C,Impersonation
+W1015,26D,Welfare Fraud
+W1015,26E,Wire Fraud
+W1015,39A,Betting/Wagering
+W1015,39B,Operating/Promoting/Assisting Gambling
+W1015,39C,Gambling Equipment Violations
+W1015,39D,Sports Tampering
+W1015,09A,Murder/Nonnegligent Manslaughter
+W1015,09B,Negligent Manslaughter
+W1015,09C,Justifiable Homicide
+W1015,64A,Human Trafficking - Commercial Sex Acts
+W1015,64B,Human Trafficking - Involuntary Servitude
+W1015,100,Kidnaping/Abduction
+W1015,23A,Pocket-picking
+W1015,23B,Purse-snatching
+W1015,23C,Shoplifting
+W1015,23D,Theft From Building
+W1015,23E,Theft From Coin-Operated Machine or Device
+W1015,23F,Theft From Motor Vehicle
+W1015,23G,Theft of Motor Vehicle Parts/Accessories
+W1015,23H,All Other Larceny
+W1015,240,Motor Vehicle Theft
+W1015,370,Pornography/Obscene Material
+W1015,40A,Prostitution
+W1015,40B,Assisting or Promoting Prostitution
+W1015,40C,Purchasing Prostitution
+W1015,120,Robbery
+W1015,11A,Rape
+W1015,11B,Sodomy
+W1015,11C,Sexual Assault With An Object
+W1015,11D,Fondling (Indecent Liberties/Child Molesting)
+W1015,36A,Incest
+W1015,36B,Statutory Rape
+W1015,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1015,520,Weapon Law Violations
+W1016,200,Arson
+W1016,13A,Aggravated Assault
+W1016,13B,Simple Assault
+W1016,13C,Intimidation
+W1016,510,Bribery
+W1016,220,Burglary/Breaking and Entering
+W1016,250,Counterfeiting/Forgery
+W1016,290,Destruction/Damage/Vandalism of Property
+W1016,35A,Drug/Narcotic Violations
+W1016,35B,Drug Equipment Violations
+W1016,270,Embezzlement
+W1016,210,Extortion/Blackmail
+W1016,26A,False Pretenses/Swindle/Confidence Game
+W1016,26B,Credit Card/Automatic Teller Machine Fraud
+W1016,26C,Impersonation
+W1016,26D,Welfare Fraud
+W1016,26E,Wire Fraud
+W1016,39A,Betting/Wagering
+W1016,39B,Operating/Promoting/Assisting Gambling
+W1016,39C,Gambling Equipment Violations
+W1016,39D,Sports Tampering
+W1016,09A,Murder/Nonnegligent Manslaughter
+W1016,09B,Negligent Manslaughter
+W1016,09C,Justifiable Homicide
+W1016,64A,Human Trafficking - Commercial Sex Acts
+W1016,64B,Human Trafficking - Involuntary Servitude
+W1016,100,Kidnaping/Abduction
+W1016,23A,Pocket-picking
+W1016,23B,Purse-snatching
+W1016,23C,Shoplifting
+W1016,23D,Theft From Building
+W1016,23E,Theft From Coin-Operated Machine or Device
+W1016,23F,Theft From Motor Vehicle
+W1016,23G,Theft of Motor Vehicle Parts/Accessories
+W1016,23H,All Other Larceny
+W1016,240,Motor Vehicle Theft
+W1016,370,Pornography/Obscene Material
+W1016,40A,Prostitution
+W1016,40B,Assisting or Promoting Prostitution
+W1016,40C,Purchasing Prostitution
+W1016,120,Robbery
+W1016,11A,Rape
+W1016,11B,Sodomy
+W1016,11C,Sexual Assault With An Object
+W1016,11D,Fondling (Indecent Liberties/Child Molesting)
+W1016,36A,Incest
+W1016,36B,Statutory Rape
+W1016,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1016,520,Weapon Law Violations
+W1017,200,Arson
+W1017,13A,Aggravated Assault
+W1017,13B,Simple Assault
+W1017,13C,Intimidation
+W1017,510,Bribery
+W1017,220,Burglary/Breaking and Entering
+W1017,250,Counterfeiting/Forgery
+W1017,290,Destruction/Damage/Vandalism of Property
+W1017,35A,Drug/Narcotic Violations
+W1017,35B,Drug Equipment Violations
+W1017,270,Embezzlement
+W1017,210,Extortion/Blackmail
+W1017,26A,False Pretenses/Swindle/Confidence Game
+W1017,26B,Credit Card/Automatic Teller Machine Fraud
+W1017,26C,Impersonation
+W1017,26D,Welfare Fraud
+W1017,26E,Wire Fraud
+W1017,39A,Betting/Wagering
+W1017,39B,Operating/Promoting/Assisting Gambling
+W1017,39C,Gambling Equipment Violations
+W1017,39D,Sports Tampering
+W1017,09A,Murder/Nonnegligent Manslaughter
+W1017,09B,Negligent Manslaughter
+W1017,09C,Justifiable Homicide
+W1017,64A,Human Trafficking - Commercial Sex Acts
+W1017,64B,Human Trafficking - Involuntary Servitude
+W1017,100,Kidnaping/Abduction
+W1017,23A,Pocket-picking
+W1017,23B,Purse-snatching
+W1017,23C,Shoplifting
+W1017,23D,Theft From Building
+W1017,23E,Theft From Coin-Operated Machine or Device
+W1017,23F,Theft From Motor Vehicle
+W1017,23G,Theft of Motor Vehicle Parts/Accessories
+W1017,23H,All Other Larceny
+W1017,240,Motor Vehicle Theft
+W1017,370,Pornography/Obscene Material
+W1017,40A,Prostitution
+W1017,40B,Assisting or Promoting Prostitution
+W1017,40C,Purchasing Prostitution
+W1017,120,Robbery
+W1017,11A,Rape
+W1017,11B,Sodomy
+W1017,11C,Sexual Assault With An Object
+W1017,11D,Fondling (Indecent Liberties/Child Molesting)
+W1017,36A,Incest
+W1017,36B,Statutory Rape
+W1017,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1017,520,Weapon Law Violations
+W1018,200,Arson
+W1018,13A,Aggravated Assault
+W1018,13B,Simple Assault
+W1018,13C,Intimidation
+W1018,510,Bribery
+W1018,220,Burglary/Breaking and Entering
+W1018,250,Counterfeiting/Forgery
+W1018,290,Destruction/Damage/Vandalism of Property
+W1018,35A,Drug/Narcotic Violations
+W1018,35B,Drug Equipment Violations
+W1018,270,Embezzlement
+W1018,210,Extortion/Blackmail
+W1018,26A,False Pretenses/Swindle/Confidence Game
+W1018,26B,Credit Card/Automatic Teller Machine Fraud
+W1018,26C,Impersonation
+W1018,26D,Welfare Fraud
+W1018,26E,Wire Fraud
+W1018,39A,Betting/Wagering
+W1018,39B,Operating/Promoting/Assisting Gambling
+W1018,39C,Gambling Equipment Violations
+W1018,39D,Sports Tampering
+W1018,09A,Murder/Nonnegligent Manslaughter
+W1018,09B,Negligent Manslaughter
+W1018,09C,Justifiable Homicide
+W1018,64A,Human Trafficking - Commercial Sex Acts
+W1018,64B,Human Trafficking - Involuntary Servitude
+W1018,100,Kidnaping/Abduction
+W1018,23A,Pocket-picking
+W1018,23B,Purse-snatching
+W1018,23C,Shoplifting
+W1018,23D,Theft From Building
+W1018,23E,Theft From Coin-Operated Machine or Device
+W1018,23F,Theft From Motor Vehicle
+W1018,23G,Theft of Motor Vehicle Parts/Accessories
+W1018,23H,All Other Larceny
+W1018,240,Motor Vehicle Theft
+W1018,370,Pornography/Obscene Material
+W1018,40A,Prostitution
+W1018,40B,Assisting or Promoting Prostitution
+W1018,40C,Purchasing Prostitution
+W1018,120,Robbery
+W1018,11A,Rape
+W1018,11B,Sodomy
+W1018,11C,Sexual Assault With An Object
+W1018,11D,Fondling (Indecent Liberties/Child Molesting)
+W1018,36A,Incest
+W1018,36B,Statutory Rape
+W1018,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1018,520,Weapon Law Violations
+W1019,200,Arson
+W1019,13A,Aggravated Assault
+W1019,13B,Simple Assault
+W1019,13C,Intimidation
+W1019,510,Bribery
+W1019,220,Burglary/Breaking and Entering
+W1019,250,Counterfeiting/Forgery
+W1019,290,Destruction/Damage/Vandalism of Property
+W1019,35A,Drug/Narcotic Violations
+W1019,35B,Drug Equipment Violations
+W1019,270,Embezzlement
+W1019,210,Extortion/Blackmail
+W1019,26A,False Pretenses/Swindle/Confidence Game
+W1019,26B,Credit Card/Automatic Teller Machine Fraud
+W1019,26C,Impersonation
+W1019,26D,Welfare Fraud
+W1019,26E,Wire Fraud
+W1019,39A,Betting/Wagering
+W1019,39B,Operating/Promoting/Assisting Gambling
+W1019,39C,Gambling Equipment Violations
+W1019,39D,Sports Tampering
+W1019,09A,Murder/Nonnegligent Manslaughter
+W1019,09B,Negligent Manslaughter
+W1019,09C,Justifiable Homicide
+W1019,64A,Human Trafficking - Commercial Sex Acts
+W1019,64B,Human Trafficking - Involuntary Servitude
+W1019,100,Kidnaping/Abduction
+W1019,23A,Pocket-picking
+W1019,23B,Purse-snatching
+W1019,23C,Shoplifting
+W1019,23D,Theft From Building
+W1019,23E,Theft From Coin-Operated Machine or Device
+W1019,23F,Theft From Motor Vehicle
+W1019,23G,Theft of Motor Vehicle Parts/Accessories
+W1019,23H,All Other Larceny
+W1019,240,Motor Vehicle Theft
+W1019,370,Pornography/Obscene Material
+W1019,40A,Prostitution
+W1019,40B,Assisting or Promoting Prostitution
+W1019,40C,Purchasing Prostitution
+W1019,120,Robbery
+W1019,11A,Rape
+W1019,11B,Sodomy
+W1019,11C,Sexual Assault With An Object
+W1019,11D,Fondling (Indecent Liberties/Child Molesting)
+W1019,36A,Incest
+W1019,36B,Statutory Rape
+W1019,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1019,520,Weapon Law Violations
+W1020,200,Arson
+W1020,13A,Aggravated Assault
+W1020,13B,Simple Assault
+W1020,13C,Intimidation
+W1020,510,Bribery
+W1020,220,Burglary/Breaking and Entering
+W1020,250,Counterfeiting/Forgery
+W1020,290,Destruction/Damage/Vandalism of Property
+W1020,35A,Drug/Narcotic Violations
+W1020,35B,Drug Equipment Violations
+W1020,270,Embezzlement
+W1020,210,Extortion/Blackmail
+W1020,26A,False Pretenses/Swindle/Confidence Game
+W1020,26B,Credit Card/Automatic Teller Machine Fraud
+W1020,26C,Impersonation
+W1020,26D,Welfare Fraud
+W1020,26E,Wire Fraud
+W1020,39A,Betting/Wagering
+W1020,39B,Operating/Promoting/Assisting Gambling
+W1020,39C,Gambling Equipment Violations
+W1020,39D,Sports Tampering
+W1020,09A,Murder/Nonnegligent Manslaughter
+W1020,09B,Negligent Manslaughter
+W1020,09C,Justifiable Homicide
+W1020,64A,Human Trafficking - Commercial Sex Acts
+W1020,64B,Human Trafficking - Involuntary Servitude
+W1020,100,Kidnaping/Abduction
+W1020,23A,Pocket-picking
+W1020,23B,Purse-snatching
+W1020,23C,Shoplifting
+W1020,23D,Theft From Building
+W1020,23E,Theft From Coin-Operated Machine or Device
+W1020,23F,Theft From Motor Vehicle
+W1020,23G,Theft of Motor Vehicle Parts/Accessories
+W1020,23H,All Other Larceny
+W1020,240,Motor Vehicle Theft
+W1020,370,Pornography/Obscene Material
+W1020,40A,Prostitution
+W1020,40B,Assisting or Promoting Prostitution
+W1020,40C,Purchasing Prostitution
+W1020,120,Robbery
+W1020,11A,Rape
+W1020,11B,Sodomy
+W1020,11C,Sexual Assault With An Object
+W1020,11D,Fondling (Indecent Liberties/Child Molesting)
+W1020,36A,Incest
+W1020,36B,Statutory Rape
+W1020,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1020,520,Weapon Law Violations
+W1021,200,Arson
+W1021,13A,Aggravated Assault
+W1021,13B,Simple Assault
+W1021,13C,Intimidation
+W1021,510,Bribery
+W1021,220,Burglary/Breaking and Entering
+W1021,250,Counterfeiting/Forgery
+W1021,290,Destruction/Damage/Vandalism of Property
+W1021,35A,Drug/Narcotic Violations
+W1021,35B,Drug Equipment Violations
+W1021,270,Embezzlement
+W1021,210,Extortion/Blackmail
+W1021,26A,False Pretenses/Swindle/Confidence Game
+W1021,26B,Credit Card/Automatic Teller Machine Fraud
+W1021,26C,Impersonation
+W1021,26D,Welfare Fraud
+W1021,26E,Wire Fraud
+W1021,39A,Betting/Wagering
+W1021,39B,Operating/Promoting/Assisting Gambling
+W1021,39C,Gambling Equipment Violations
+W1021,39D,Sports Tampering
+W1021,09A,Murder/Nonnegligent Manslaughter
+W1021,09B,Negligent Manslaughter
+W1021,09C,Justifiable Homicide
+W1021,64A,Human Trafficking - Commercial Sex Acts
+W1021,64B,Human Trafficking - Involuntary Servitude
+W1021,100,Kidnaping/Abduction
+W1021,23A,Pocket-picking
+W1021,23B,Purse-snatching
+W1021,23C,Shoplifting
+W1021,23D,Theft From Building
+W1021,23E,Theft From Coin-Operated Machine or Device
+W1021,23F,Theft From Motor Vehicle
+W1021,23G,Theft of Motor Vehicle Parts/Accessories
+W1021,23H,All Other Larceny
+W1021,240,Motor Vehicle Theft
+W1021,370,Pornography/Obscene Material
+W1021,40A,Prostitution
+W1021,40B,Assisting or Promoting Prostitution
+W1021,40C,Purchasing Prostitution
+W1021,120,Robbery
+W1021,11A,Rape
+W1021,11B,Sodomy
+W1021,11C,Sexual Assault With An Object
+W1021,11D,Fondling (Indecent Liberties/Child Molesting)
+W1021,36A,Incest
+W1021,36B,Statutory Rape
+W1021,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1021,520,Weapon Law Violations
+W1022,200,Arson
+W1022,13A,Aggravated Assault
+W1022,13B,Simple Assault
+W1022,13C,Intimidation
+W1022,510,Bribery
+W1022,220,Burglary/Breaking and Entering
+W1022,250,Counterfeiting/Forgery
+W1022,290,Destruction/Damage/Vandalism of Property
+W1022,35A,Drug/Narcotic Violations
+W1022,35B,Drug Equipment Violations
+W1022,270,Embezzlement
+W1022,210,Extortion/Blackmail
+W1022,26A,False Pretenses/Swindle/Confidence Game
+W1022,26B,Credit Card/Automatic Teller Machine Fraud
+W1022,26C,Impersonation
+W1022,26D,Welfare Fraud
+W1022,26E,Wire Fraud
+W1022,39A,Betting/Wagering
+W1022,39B,Operating/Promoting/Assisting Gambling
+W1022,39C,Gambling Equipment Violations
+W1022,39D,Sports Tampering
+W1022,09A,Murder/Nonnegligent Manslaughter
+W1022,09B,Negligent Manslaughter
+W1022,09C,Justifiable Homicide
+W1022,64A,Human Trafficking - Commercial Sex Acts
+W1022,64B,Human Trafficking - Involuntary Servitude
+W1022,100,Kidnaping/Abduction
+W1022,23A,Pocket-picking
+W1022,23B,Purse-snatching
+W1022,23C,Shoplifting
+W1022,23D,Theft From Building
+W1022,23E,Theft From Coin-Operated Machine or Device
+W1022,23F,Theft From Motor Vehicle
+W1022,23G,Theft of Motor Vehicle Parts/Accessories
+W1022,23H,All Other Larceny
+W1022,240,Motor Vehicle Theft
+W1022,370,Pornography/Obscene Material
+W1022,40A,Prostitution
+W1022,40B,Assisting or Promoting Prostitution
+W1022,40C,Purchasing Prostitution
+W1022,120,Robbery
+W1022,11A,Rape
+W1022,11B,Sodomy
+W1022,11C,Sexual Assault With An Object
+W1022,11D,Fondling (Indecent Liberties/Child Molesting)
+W1022,36A,Incest
+W1022,36B,Statutory Rape
+W1022,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1022,520,Weapon Law Violations
+W1023,200,Arson
+W1023,13A,Aggravated Assault
+W1023,13B,Simple Assault
+W1023,13C,Intimidation
+W1023,510,Bribery
+W1023,220,Burglary/Breaking and Entering
+W1023,250,Counterfeiting/Forgery
+W1023,290,Destruction/Damage/Vandalism of Property
+W1023,35A,Drug/Narcotic Violations
+W1023,35B,Drug Equipment Violations
+W1023,270,Embezzlement
+W1023,210,Extortion/Blackmail
+W1023,26A,False Pretenses/Swindle/Confidence Game
+W1023,26B,Credit Card/Automatic Teller Machine Fraud
+W1023,26C,Impersonation
+W1023,26D,Welfare Fraud
+W1023,26E,Wire Fraud
+W1023,39A,Betting/Wagering
+W1023,39B,Operating/Promoting/Assisting Gambling
+W1023,39C,Gambling Equipment Violations
+W1023,39D,Sports Tampering
+W1023,09A,Murder/Nonnegligent Manslaughter
+W1023,09B,Negligent Manslaughter
+W1023,09C,Justifiable Homicide
+W1023,64A,Human Trafficking - Commercial Sex Acts
+W1023,64B,Human Trafficking - Involuntary Servitude
+W1023,100,Kidnaping/Abduction
+W1023,23A,Pocket-picking
+W1023,23B,Purse-snatching
+W1023,23C,Shoplifting
+W1023,23D,Theft From Building
+W1023,23E,Theft From Coin-Operated Machine or Device
+W1023,23F,Theft From Motor Vehicle
+W1023,23G,Theft of Motor Vehicle Parts/Accessories
+W1023,23H,All Other Larceny
+W1023,240,Motor Vehicle Theft
+W1023,370,Pornography/Obscene Material
+W1023,40A,Prostitution
+W1023,40B,Assisting or Promoting Prostitution
+W1023,40C,Purchasing Prostitution
+W1023,120,Robbery
+W1023,11A,Rape
+W1023,11B,Sodomy
+W1023,11C,Sexual Assault With An Object
+W1023,11D,Fondling (Indecent Liberties/Child Molesting)
+W1023,36A,Incest
+W1023,36B,Statutory Rape
+W1023,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1023,520,Weapon Law Violations
+W1024,200,Arson
+W1024,13A,Aggravated Assault
+W1024,13B,Simple Assault
+W1024,13C,Intimidation
+W1024,510,Bribery
+W1024,220,Burglary/Breaking and Entering
+W1024,250,Counterfeiting/Forgery
+W1024,290,Destruction/Damage/Vandalism of Property
+W1024,35A,Drug/Narcotic Violations
+W1024,35B,Drug Equipment Violations
+W1024,270,Embezzlement
+W1024,210,Extortion/Blackmail
+W1024,26A,False Pretenses/Swindle/Confidence Game
+W1024,26B,Credit Card/Automatic Teller Machine Fraud
+W1024,26C,Impersonation
+W1024,26D,Welfare Fraud
+W1024,26E,Wire Fraud
+W1024,39A,Betting/Wagering
+W1024,39B,Operating/Promoting/Assisting Gambling
+W1024,39C,Gambling Equipment Violations
+W1024,39D,Sports Tampering
+W1024,09A,Murder/Nonnegligent Manslaughter
+W1024,09B,Negligent Manslaughter
+W1024,09C,Justifiable Homicide
+W1024,64A,Human Trafficking - Commercial Sex Acts
+W1024,64B,Human Trafficking - Involuntary Servitude
+W1024,100,Kidnaping/Abduction
+W1024,23A,Pocket-picking
+W1024,23B,Purse-snatching
+W1024,23C,Shoplifting
+W1024,23D,Theft From Building
+W1024,23E,Theft From Coin-Operated Machine or Device
+W1024,23F,Theft From Motor Vehicle
+W1024,23G,Theft of Motor Vehicle Parts/Accessories
+W1024,23H,All Other Larceny
+W1024,240,Motor Vehicle Theft
+W1024,370,Pornography/Obscene Material
+W1024,40A,Prostitution
+W1024,40B,Assisting or Promoting Prostitution
+W1024,40C,Purchasing Prostitution
+W1024,120,Robbery
+W1024,11A,Rape
+W1024,11B,Sodomy
+W1024,11C,Sexual Assault With An Object
+W1024,11D,Fondling (Indecent Liberties/Child Molesting)
+W1024,36A,Incest
+W1024,36B,Statutory Rape
+W1024,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W1024,520,Weapon Law Violations
+W1026,Y,Yes
+W1026,N,No
+W3001,03,Property segment
+W3002,01,AL-Alabama
+W3002,02,AZ-Arizona
+W3002,03,AR-Arkansas
+W3002,04,CA-California
+W3002,05,CO-Colorado
+W3002,06,CT-Connecticut
+W3002,07,DE-Delaware
+W3002,08,DC-District of Columbia
+W3002,09,FL-Florida
+W3002,10,GA-Georgia
+W3002,11,ID-Idaho
+W3002,12,IL-Illinois
+W3002,13,IN-Indiana
+W3002,14,IA-Iowa
+W3002,15,KS-Kansas
+W3002,16,KY-Kentucky
+W3002,17,LA-Louisiana
+W3002,18,ME-Maine
+W3002,19,MD-Maryland
+W3002,20,MA-Massachusetts
+W3002,21,MI-Michigan
+W3002,22,MN-Minnesota
+W3002,23,MS-Mississippi
+W3002,24,MO-Missouri
+W3002,25,MT-Montana
+W3002,26,NB-Nebraska
+W3002,27,NV-Nevada
+W3002,28,NH-New Hampshire
+W3002,29,NJ-New Jersey
+W3002,30,NM-New Mexico
+W3002,31,NY-New York
+W3002,32,NC-North Carolina
+W3002,33,ND-North Dakota
+W3002,34,OH-Ohio
+W3002,35,OK-Oklahoma
+W3002,36,OR-Oregon
+W3002,37,PA-Pennsylvania
+W3002,38,RI-Rhode Island
+W3002,39,SC-South Carolina
+W3002,40,SD-South Dakota
+W3002,41,TN-Tennessee
+W3002,42,TX-Texas
+W3002,43,UT-Utah
+W3002,44,VT-Vermont
+W3002,45,VA-Virginia
+W3002,46,WA-Washington
+W3002,47,WV-West Virginia
+W3002,48,WI-Wisconsin
+W3002,49,WY-Wyoming
+W3002,50,AK-Alaska
+W3002,51,HI-Hawaii
+W3002,52,CZ-Canal Zone
+W3002,53,PR-Puerto Rico
+W3002,54,AS-American Samoa
+W3002,55,GM-Guam
+W3002,62,VI-Virgin Islands
+W3006,1,None
+W3006,2,Burned
+W3006,3,Counterfeited/Forged
+W3006,4,Destroyed/Damaged/Vandalized
+W3006,5,Recovered
+W3006,6,Seized
+W3006,7,"Stolen/Etc. (includes bribed, defrauded, embezzled, extorted, ransomed, robbed, etc.)"
+W3006,8,Unknown
+W3007,01,Aircraft
+W3007,02,Alcohol
+W3007,03,Automobiles
+W3007,04,Bicycles
+W3007,05,Buses
+W3007,06,Clothes/Furs
+W3007,07,Computer Hardware/Software
+W3007,08,Consumable Goods
+W3007,09,Credit/Debit Cards
+W3007,10,Drugs/Narcotics
+W3007,11,Drug/Narcotic Equip.
+W3007,12,Farm Equipment
+W3007,13,Firearms
+W3007,14,Gambling Equipment
+W3007,15,Heavy Construction/Industrial Equipment
+W3007,16,Household Goods
+W3007,17,Jewelry/Precious Metals
+W3007,18,Livestock
+W3007,19,Merchandise
+W3007,20,Money
+W3007,21,Negotiable Instruments
+W3007,22,Nonnegotiable Instruments
+W3007,23,Office-Type Equipment
+W3007,24,Other Motor Vehicles
+W3007,25,Purses/Handbags/Wallets
+W3007,26,Radios/TVs/VCRs
+W3007,27,Recordings-Audio/Visual
+W3007,28,Recreational Vehicles
+W3007,29,Structures-Single Occupancy Dwellings
+W3007,30,Structures-Other Dwellings
+W3007,31,Structures - Commercial/Business
+W3007,32,Structures - Industrial/Manufacturing
+W3007,33,Structures Public/Community
+W3007,34,Structures-Storage
+W3007,35,Structures-Other
+W3007,36,Tools-Power/Hand
+W3007,37,Trucks
+W3007,38,Vehicle Parts/Accessories
+W3007,39,Watercraft
+W3007,41,Aircraft parts/accessories
+W3007,42,Artistic supplies/accessories
+W3007,43,Building materials
+W3007,44,Camping/hunting/fishing equipment/supplies
+W3007,45,Chemicals
+W3007,46,Collections/collectibles
+W3007,47,Crops
+W3007,48,Documents/personal or business
+W3007,49,Explosives
+W3007,59,Firearm accessories
+W3007,64,Fuel
+W3007,65,Identity documents
+W3007,66,Identity--intangible
+W3007,67,Law enforcement equipment
+W3007,68,Lawn/yard/garden equipment
+W3007,69,Logging equipment
+W3007,70,Medical/medical lab equipment
+W3007,71,"Metals, non-precious"
+W3007,72,Musical instruments
+W3007,73,Pets
+W3007,74,Photographic/optical equipment
+W3007,75,Portable electronic communications
+W3007,76,Recreational/sports equipment
+W3007,77,Other
+W3007,78,Trailers
+W3007,79,Watercraft equipment/parts/accessories
+W3007,80,Weapons - other
+W3007,88,Pending Inventory (of Property)
+W3007,99,Special Category
+W3012,A,Crack Cocaine
+W3012,B,Cocaine (all forms except Crack)
+W3012,C,Hashish
+W3012,D,Heroin
+W3012,E,Marijuana
+W3012,F,Morphine
+W3012,G,Opium
+W3012,H,Other Narcotics: Codeine; Demerol; Dihydromorphinone or Dilaudid; Hydrocodone or Percodan; Methadone; etc.
+W3012,I,LSD
+W3012,J,PCP
+W3012,K,"Other Hallucinogens: BMDA (""White Acid""); DMT; MDA; MDMA; Mescaline or Peyote; Psilocybin; STP; etc."
+W3012,L,Amphetamines/Methamphetamines
+W3012,M,"Other Stimulants: Adipex, Fastine, and Ionamin (Derivatives of Phentermine); Benzedrine; Didrex; Methylphenidate or
+Ritalin; Phenmetrazine or Preludin; Tenuate; etc."
+W3012,N,Barbiturates
+W3012,O,Other Depressants: Glutethimide or Doriden; Methaqualone or Quaalude; Pentazocine or Talwin; etc.
+W3012,P,"Other Drugs: Antidepressants (Elavil, Triavil, Tofranil, etc.); Aromatic Hydrocarbons; Propoxyphene or Darvon; Tranquilizers
+(Chlordiazepoxide or Librium, Diazepam or Valium, etc.)"
+W3012,U,Unknown Type Drug
+W3012,X,Over 3 Drug Types
+W3015,GM,Gram
+W3015,KG,Kilogram
+W3015,OZ,Ounce
+W3015,LB,Pound
+W3015,ML,Milliliter
+W3015,LT,Liter
+W3015,FO,Fluid Ounce
+W3015,GL,Gallon
+W3015,DU,"Dosage Unit/Items, (Pills, etc.)"
+W3015,NP,Number of Plants
+W3015,XX,Not Reported
+W3016,A,"Crack"" Cocaine"
+W3016,B,"Cocaine (all forms except ""Crack"")"
+W3016,C,Hashish
+W3016,D,Heroin
+W3016,E,Marijuana
+W3016,F,Morphine
+W3016,G,Opium
+W3016,H,Other Narcotics: Codeine; Demerol; Dihydromorphinone or Dilaudid; Hydrocodone or Percodan; Methadone; etc. etc.
+W3016,I,LSD
+W3016,J,PCP
+W3016,K,"Other Hallucinogens: BMDA (""White Acid""); DMT; MDA; MDMA; Mescaline or Peyote; Psilocybin; STP; etc."
+W3016,L,Amphetamines/Methamphetamines
+W3016,M,"Other Stimulants: Adipex, Fastine, and Ionamin (Derivatives of Phentermine); Benzedrine; Didrex; Methylphenidate or
+Ritalin; Phenmetrazine or Preludin; Tenuate; etc."
+W3016,N,Barbiturates
+W3016,O,Other Depressants: Glutethimide or Doriden; Methaqualone or Quaalude; Pentazocine or Talwin; etc.
+W3016,P,"Other Drugs: Antidepressants (Elavil, Triavil, Tofranil, etc.); Aromatic Hydrocarbons; Propoxyphene or Darvon; Tranquilizers
+(Chlordiazepoxide or Librium, Diazepam or Valium, etc.); etc."
+W3016,U,Unknown Type Drug
+W3016,X,Over 3 Drug Types
+W3019,GM,Gram
+W3019,KG,Kilogram
+W3019,OZ,Ounce
+W3019,LB,Pound
+W3019,ML,Milliliter
+W3019,LT,Liter
+W3019,FO,Fluid Ounce
+W3019,GL,Gallon
+W3019,DU,"Dosage Unit/Items, (Pills, etc.)"
+W3019,NP,Number of Plants
+W3019,XX,Not Reported
+W3020,A,"Crack"" Cocaine"
+W3020,B,"Cocaine (all forms except ""Crack"")"
+W3020,C,Hashish
+W3020,D,Heroin
+W3020,E,Marijuana
+W3020,F,Morphine
+W3020,G,Opium
+W3020,H,Other Narcotics: Codeine; Demerol; Dihydromorphinone or Dilaudid; Hydrocodone or Percodan; Methadone; etc. etc.
+W3020,I,LSD
+W3020,J,PCP
+W3020,K,"Other Hallucinogens: BMDA (""White Acid""); DMT; MDA; MDMA; Mescaline or Peyote; Psilocybin; STP; etc."
+W3020,L,Amphetamines/Methamphetamines
+W3020,M,"Other Stimulants: Adipex, Fastine, and Ionamin (Derivatives of Phentermine); Benzedrine; Didrex; Methylphenidate or
+Ritalin; Phenmetrazine or Preludin; Tenuate; etc."
+W3020,N,Barbiturates
+W3020,O,Other Depressants: Glutethimide or Doriden; Methaqualone or Quaalude; Pentazocine or Talwin; etc.
+W3020,P,"Other Drugs: Antidepressants (Elavil, Triavil, Tofranil, etc.); Aromatic Hydrocarbons; Propoxyphene or Darvon; Tranquilizers
+(Chlordiazepoxide or Librium, Diazepam or Valium, etc.); etc."
+W3020,U,Unknown Type Drug
+W3020,X,Over 3 Drug Types
+W3023,GM,Gram
+W3023,KG,Kilogram
+W3023,OZ,Ounce
+W3023,LB,Pound
+W3023,ML,Milliliter
+W3023,LT,Liter
+W3023,FO,Fluid Ounce
+W3023,GL,Gallon
+W3023,DU,"Dosage Unit/Items, (Pills, etc.)"
+W3023,NP,Number of Plants
+W3023,XX,Not Reported
+W3024,200,Arson
+W3024,13A,Aggravated Assault
+W3024,13B,Simple Assault
+W3024,13C,Intimidation
+W3024,510,Bribery
+W3024,220,Burglary/Breaking and Entering
+W3024,250,Counterfeiting/Forgery
+W3024,290,Destruction/Damage/Vandalism of Property
+W3024,35A,Drug/Narcotic Violations
+W3024,35B,Drug Equipment Violations
+W3024,270,Embezzlement
+W3024,210,Extortion/Blackmail
+W3024,26A,False Pretenses/Swindle/Confidence Game
+W3024,26B,Credit Card/Automatic Teller Machine Fraud
+W3024,26C,Impersonation
+W3024,26D,Welfare Fraud
+W3024,26E,Wire Fraud
+W3024,39A,Betting/Wagering
+W3024,39B,Operating/Promoting/Assisting Gambling
+W3024,39C,Gambling Equipment Violations
+W3024,39D,Sports Tampering
+W3024,09A,Murder/Nonnegligent Manslaughter
+W3024,09B,Negligent Manslaughter
+W3024,09C,Justifiable Homicide
+W3024,64A,Human Trafficking - Commercial Sex Acts
+W3024,64B,Human Trafficking - Involuntary Servitude
+W3024,100,Kidnaping/Abduction
+W3024,23A,Pocket-picking
+W3024,23B,Purse-snatching
+W3024,23C,Shoplifting
+W3024,23D,Theft From Building
+W3024,23E,Theft From Coin-Operated Machine or Device
+W3024,23F,Theft From Motor Vehicle
+W3024,23G,Theft of Motor Vehicle Parts/Accessories
+W3024,23H,All Other Larceny
+W3024,240,Motor Vehicle Theft
+W3024,370,Pornography/Obscene Material
+W3024,40A,Prostitution
+W3024,40B,Assisting or Promoting Prostitution
+W3024,40C,Purchasing Prostitution
+W3024,120,Robbery
+W3024,11A,Rape
+W3024,11B,Sodomy
+W3024,11C,Sexual Assault With An Object
+W3024,11D,Fondling (Indecent Liberties/Child Molesting)
+W3024,36A,Incest
+W3024,36B,Statutory Rape
+W3024,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3024,520,Weapon Law Violations
+W3025,200,Arson
+W3025,13A,Aggravated Assault
+W3025,13B,Simple Assault
+W3025,13C,Intimidation
+W3025,510,Bribery
+W3025,220,Burglary/Breaking and Entering
+W3025,250,Counterfeiting/Forgery
+W3025,290,Destruction/Damage/Vandalism of Property
+W3025,35A,Drug/Narcotic Violations
+W3025,35B,Drug Equipment Violations
+W3025,270,Embezzlement
+W3025,210,Extortion/Blackmail
+W3025,26A,False Pretenses/Swindle/Confidence Game
+W3025,26B,Credit Card/Automatic Teller Machine Fraud
+W3025,26C,Impersonation
+W3025,26D,Welfare Fraud
+W3025,26E,Wire Fraud
+W3025,39A,Betting/Wagering
+W3025,39B,Operating/Promoting/Assisting Gambling
+W3025,39C,Gambling Equipment Violations
+W3025,39D,Sports Tampering
+W3025,09A,Murder/Nonnegligent Manslaughter
+W3025,09B,Negligent Manslaughter
+W3025,09C,Justifiable Homicide
+W3025,64A,Human Trafficking - Commercial Sex Acts
+W3025,64B,Human Trafficking - Involuntary Servitude
+W3025,100,Kidnaping/Abduction
+W3025,23A,Pocket-picking
+W3025,23B,Purse-snatching
+W3025,23C,Shoplifting
+W3025,23D,Theft From Building
+W3025,23E,Theft From Coin-Operated Machine or Device
+W3025,23F,Theft From Motor Vehicle
+W3025,23G,Theft of Motor Vehicle Parts/Accessories
+W3025,23H,All Other Larceny
+W3025,240,Motor Vehicle Theft
+W3025,370,Pornography/Obscene Material
+W3025,40A,Prostitution
+W3025,40B,Assisting or Promoting Prostitution
+W3025,40C,Purchasing Prostitution
+W3025,120,Robbery
+W3025,11A,Rape
+W3025,11B,Sodomy
+W3025,11C,Sexual Assault With An Object
+W3025,11D,Fondling (Indecent Liberties/Child Molesting)
+W3025,36A,Incest
+W3025,36B,Statutory Rape
+W3025,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3025,520,Weapon Law Violations
+W3026,200,Arson
+W3026,13A,Aggravated Assault
+W3026,13B,Simple Assault
+W3026,13C,Intimidation
+W3026,510,Bribery
+W3026,220,Burglary/Breaking and Entering
+W3026,250,Counterfeiting/Forgery
+W3026,290,Destruction/Damage/Vandalism of Property
+W3026,35A,Drug/Narcotic Violations
+W3026,35B,Drug Equipment Violations
+W3026,270,Embezzlement
+W3026,210,Extortion/Blackmail
+W3026,26A,False Pretenses/Swindle/Confidence Game
+W3026,26B,Credit Card/Automatic Teller Machine Fraud
+W3026,26C,Impersonation
+W3026,26D,Welfare Fraud
+W3026,26E,Wire Fraud
+W3026,39A,Betting/Wagering
+W3026,39B,Operating/Promoting/Assisting Gambling
+W3026,39C,Gambling Equipment Violations
+W3026,39D,Sports Tampering
+W3026,09A,Murder/Nonnegligent Manslaughter
+W3026,09B,Negligent Manslaughter
+W3026,09C,Justifiable Homicide
+W3026,64A,Human Trafficking - Commercial Sex Acts
+W3026,64B,Human Trafficking - Involuntary Servitude
+W3026,100,Kidnaping/Abduction
+W3026,23A,Pocket-picking
+W3026,23B,Purse-snatching
+W3026,23C,Shoplifting
+W3026,23D,Theft From Building
+W3026,23E,Theft From Coin-Operated Machine or Device
+W3026,23F,Theft From Motor Vehicle
+W3026,23G,Theft of Motor Vehicle Parts/Accessories
+W3026,23H,All Other Larceny
+W3026,240,Motor Vehicle Theft
+W3026,370,Pornography/Obscene Material
+W3026,40A,Prostitution
+W3026,40B,Assisting or Promoting Prostitution
+W3026,40C,Purchasing Prostitution
+W3026,120,Robbery
+W3026,11A,Rape
+W3026,11B,Sodomy
+W3026,11C,Sexual Assault With An Object
+W3026,11D,Fondling (Indecent Liberties/Child Molesting)
+W3026,36A,Incest
+W3026,36B,Statutory Rape
+W3026,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3026,520,Weapon Law Violations
+W3027,200,Arson
+W3027,13A,Aggravated Assault
+W3027,13B,Simple Assault
+W3027,13C,Intimidation
+W3027,510,Bribery
+W3027,220,Burglary/Breaking and Entering
+W3027,250,Counterfeiting/Forgery
+W3027,290,Destruction/Damage/Vandalism of Property
+W3027,35A,Drug/Narcotic Violations
+W3027,35B,Drug Equipment Violations
+W3027,270,Embezzlement
+W3027,210,Extortion/Blackmail
+W3027,26A,False Pretenses/Swindle/Confidence Game
+W3027,26B,Credit Card/Automatic Teller Machine Fraud
+W3027,26C,Impersonation
+W3027,26D,Welfare Fraud
+W3027,26E,Wire Fraud
+W3027,39A,Betting/Wagering
+W3027,39B,Operating/Promoting/Assisting Gambling
+W3027,39C,Gambling Equipment Violations
+W3027,39D,Sports Tampering
+W3027,09A,Murder/Nonnegligent Manslaughter
+W3027,09B,Negligent Manslaughter
+W3027,09C,Justifiable Homicide
+W3027,64A,Human Trafficking - Commercial Sex Acts
+W3027,64B,Human Trafficking - Involuntary Servitude
+W3027,100,Kidnaping/Abduction
+W3027,23A,Pocket-picking
+W3027,23B,Purse-snatching
+W3027,23C,Shoplifting
+W3027,23D,Theft From Building
+W3027,23E,Theft From Coin-Operated Machine or Device
+W3027,23F,Theft From Motor Vehicle
+W3027,23G,Theft of Motor Vehicle Parts/Accessories
+W3027,23H,All Other Larceny
+W3027,240,Motor Vehicle Theft
+W3027,370,Pornography/Obscene Material
+W3027,40A,Prostitution
+W3027,40B,Assisting or Promoting Prostitution
+W3027,40C,Purchasing Prostitution
+W3027,120,Robbery
+W3027,11A,Rape
+W3027,11B,Sodomy
+W3027,11C,Sexual Assault With An Object
+W3027,11D,Fondling (Indecent Liberties/Child Molesting)
+W3027,36A,Incest
+W3027,36B,Statutory Rape
+W3027,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3027,520,Weapon Law Violations
+W3028,200,Arson
+W3028,13A,Aggravated Assault
+W3028,13B,Simple Assault
+W3028,13C,Intimidation
+W3028,510,Bribery
+W3028,220,Burglary/Breaking and Entering
+W3028,250,Counterfeiting/Forgery
+W3028,290,Destruction/Damage/Vandalism of Property
+W3028,35A,Drug/Narcotic Violations
+W3028,35B,Drug Equipment Violations
+W3028,270,Embezzlement
+W3028,210,Extortion/Blackmail
+W3028,26A,False Pretenses/Swindle/Confidence Game
+W3028,26B,Credit Card/Automatic Teller Machine Fraud
+W3028,26C,Impersonation
+W3028,26D,Welfare Fraud
+W3028,26E,Wire Fraud
+W3028,39A,Betting/Wagering
+W3028,39B,Operating/Promoting/Assisting Gambling
+W3028,39C,Gambling Equipment Violations
+W3028,39D,Sports Tampering
+W3028,09A,Murder/Nonnegligent Manslaughter
+W3028,09B,Negligent Manslaughter
+W3028,09C,Justifiable Homicide
+W3028,64A,Human Trafficking - Commercial Sex Acts
+W3028,64B,Human Trafficking - Involuntary Servitude
+W3028,100,Kidnaping/Abduction
+W3028,23A,Pocket-picking
+W3028,23B,Purse-snatching
+W3028,23C,Shoplifting
+W3028,23D,Theft From Building
+W3028,23E,Theft From Coin-Operated Machine or Device
+W3028,23F,Theft From Motor Vehicle
+W3028,23G,Theft of Motor Vehicle Parts/Accessories
+W3028,23H,All Other Larceny
+W3028,240,Motor Vehicle Theft
+W3028,370,Pornography/Obscene Material
+W3028,40A,Prostitution
+W3028,40B,Assisting or Promoting Prostitution
+W3028,40C,Purchasing Prostitution
+W3028,120,Robbery
+W3028,11A,Rape
+W3028,11B,Sodomy
+W3028,11C,Sexual Assault With An Object
+W3028,11D,Fondling (Indecent Liberties/Child Molesting)
+W3028,36A,Incest
+W3028,36B,Statutory Rape
+W3028,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3028,520,Weapon Law Violations
+W3029,200,Arson
+W3029,13A,Aggravated Assault
+W3029,13B,Simple Assault
+W3029,13C,Intimidation
+W3029,510,Bribery
+W3029,220,Burglary/Breaking and Entering
+W3029,250,Counterfeiting/Forgery
+W3029,290,Destruction/Damage/Vandalism of Property
+W3029,35A,Drug/Narcotic Violations
+W3029,35B,Drug Equipment Violations
+W3029,270,Embezzlement
+W3029,210,Extortion/Blackmail
+W3029,26A,False Pretenses/Swindle/Confidence Game
+W3029,26B,Credit Card/Automatic Teller Machine Fraud
+W3029,26C,Impersonation
+W3029,26D,Welfare Fraud
+W3029,26E,Wire Fraud
+W3029,39A,Betting/Wagering
+W3029,39B,Operating/Promoting/Assisting Gambling
+W3029,39C,Gambling Equipment Violations
+W3029,39D,Sports Tampering
+W3029,09A,Murder/Nonnegligent Manslaughter
+W3029,09B,Negligent Manslaughter
+W3029,09C,Justifiable Homicide
+W3029,64A,Human Trafficking - Commercial Sex Acts
+W3029,64B,Human Trafficking - Involuntary Servitude
+W3029,100,Kidnaping/Abduction
+W3029,23A,Pocket-picking
+W3029,23B,Purse-snatching
+W3029,23C,Shoplifting
+W3029,23D,Theft From Building
+W3029,23E,Theft From Coin-Operated Machine or Device
+W3029,23F,Theft From Motor Vehicle
+W3029,23G,Theft of Motor Vehicle Parts/Accessories
+W3029,23H,All Other Larceny
+W3029,240,Motor Vehicle Theft
+W3029,370,Pornography/Obscene Material
+W3029,40A,Prostitution
+W3029,40B,Assisting or Promoting Prostitution
+W3029,40C,Purchasing Prostitution
+W3029,120,Robbery
+W3029,11A,Rape
+W3029,11B,Sodomy
+W3029,11C,Sexual Assault With An Object
+W3029,11D,Fondling (Indecent Liberties/Child Molesting)
+W3029,36A,Incest
+W3029,36B,Statutory Rape
+W3029,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3029,520,Weapon Law Violations
+W3030,200,Arson
+W3030,13A,Aggravated Assault
+W3030,13B,Simple Assault
+W3030,13C,Intimidation
+W3030,510,Bribery
+W3030,220,Burglary/Breaking and Entering
+W3030,250,Counterfeiting/Forgery
+W3030,290,Destruction/Damage/Vandalism of Property
+W3030,35A,Drug/Narcotic Violations
+W3030,35B,Drug Equipment Violations
+W3030,270,Embezzlement
+W3030,210,Extortion/Blackmail
+W3030,26A,False Pretenses/Swindle/Confidence Game
+W3030,26B,Credit Card/Automatic Teller Machine Fraud
+W3030,26C,Impersonation
+W3030,26D,Welfare Fraud
+W3030,26E,Wire Fraud
+W3030,39A,Betting/Wagering
+W3030,39B,Operating/Promoting/Assisting Gambling
+W3030,39C,Gambling Equipment Violations
+W3030,39D,Sports Tampering
+W3030,09A,Murder/Nonnegligent Manslaughter
+W3030,09B,Negligent Manslaughter
+W3030,09C,Justifiable Homicide
+W3030,64A,Human Trafficking - Commercial Sex Acts
+W3030,64B,Human Trafficking - Involuntary Servitude
+W3030,100,Kidnaping/Abduction
+W3030,23A,Pocket-picking
+W3030,23B,Purse-snatching
+W3030,23C,Shoplifting
+W3030,23D,Theft From Building
+W3030,23E,Theft From Coin-Operated Machine or Device
+W3030,23F,Theft From Motor Vehicle
+W3030,23G,Theft of Motor Vehicle Parts/Accessories
+W3030,23H,All Other Larceny
+W3030,240,Motor Vehicle Theft
+W3030,370,Pornography/Obscene Material
+W3030,40A,Prostitution
+W3030,40B,Assisting or Promoting Prostitution
+W3030,40C,Purchasing Prostitution
+W3030,120,Robbery
+W3030,11A,Rape
+W3030,11B,Sodomy
+W3030,11C,Sexual Assault With An Object
+W3030,11D,Fondling (Indecent Liberties/Child Molesting)
+W3030,36A,Incest
+W3030,36B,Statutory Rape
+W3030,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3030,520,Weapon Law Violations
+W3031,200,Arson
+W3031,13A,Aggravated Assault
+W3031,13B,Simple Assault
+W3031,13C,Intimidation
+W3031,510,Bribery
+W3031,220,Burglary/Breaking and Entering
+W3031,250,Counterfeiting/Forgery
+W3031,290,Destruction/Damage/Vandalism of Property
+W3031,35A,Drug/Narcotic Violations
+W3031,35B,Drug Equipment Violations
+W3031,270,Embezzlement
+W3031,210,Extortion/Blackmail
+W3031,26A,False Pretenses/Swindle/Confidence Game
+W3031,26B,Credit Card/Automatic Teller Machine Fraud
+W3031,26C,Impersonation
+W3031,26D,Welfare Fraud
+W3031,26E,Wire Fraud
+W3031,39A,Betting/Wagering
+W3031,39B,Operating/Promoting/Assisting Gambling
+W3031,39C,Gambling Equipment Violations
+W3031,39D,Sports Tampering
+W3031,09A,Murder/Nonnegligent Manslaughter
+W3031,09B,Negligent Manslaughter
+W3031,09C,Justifiable Homicide
+W3031,64A,Human Trafficking - Commercial Sex Acts
+W3031,64B,Human Trafficking - Involuntary Servitude
+W3031,100,Kidnaping/Abduction
+W3031,23A,Pocket-picking
+W3031,23B,Purse-snatching
+W3031,23C,Shoplifting
+W3031,23D,Theft From Building
+W3031,23E,Theft From Coin-Operated Machine or Device
+W3031,23F,Theft From Motor Vehicle
+W3031,23G,Theft of Motor Vehicle Parts/Accessories
+W3031,23H,All Other Larceny
+W3031,240,Motor Vehicle Theft
+W3031,370,Pornography/Obscene Material
+W3031,40A,Prostitution
+W3031,40B,Assisting or Promoting Prostitution
+W3031,40C,Purchasing Prostitution
+W3031,120,Robbery
+W3031,11A,Rape
+W3031,11B,Sodomy
+W3031,11C,Sexual Assault With An Object
+W3031,11D,Fondling (Indecent Liberties/Child Molesting)
+W3031,36A,Incest
+W3031,36B,Statutory Rape
+W3031,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3031,520,Weapon Law Violations
+W3032,200,Arson
+W3032,13A,Aggravated Assault
+W3032,13B,Simple Assault
+W3032,13C,Intimidation
+W3032,510,Bribery
+W3032,220,Burglary/Breaking and Entering
+W3032,250,Counterfeiting/Forgery
+W3032,290,Destruction/Damage/Vandalism of Property
+W3032,35A,Drug/Narcotic Violations
+W3032,35B,Drug Equipment Violations
+W3032,270,Embezzlement
+W3032,210,Extortion/Blackmail
+W3032,26A,False Pretenses/Swindle/Confidence Game
+W3032,26B,Credit Card/Automatic Teller Machine Fraud
+W3032,26C,Impersonation
+W3032,26D,Welfare Fraud
+W3032,26E,Wire Fraud
+W3032,39A,Betting/Wagering
+W3032,39B,Operating/Promoting/Assisting Gambling
+W3032,39C,Gambling Equipment Violations
+W3032,39D,Sports Tampering
+W3032,09A,Murder/Nonnegligent Manslaughter
+W3032,09B,Negligent Manslaughter
+W3032,09C,Justifiable Homicide
+W3032,64A,Human Trafficking - Commercial Sex Acts
+W3032,64B,Human Trafficking - Involuntary Servitude
+W3032,100,Kidnaping/Abduction
+W3032,23A,Pocket-picking
+W3032,23B,Purse-snatching
+W3032,23C,Shoplifting
+W3032,23D,Theft From Building
+W3032,23E,Theft From Coin-Operated Machine or Device
+W3032,23F,Theft From Motor Vehicle
+W3032,23G,Theft of Motor Vehicle Parts/Accessories
+W3032,23H,All Other Larceny
+W3032,240,Motor Vehicle Theft
+W3032,370,Pornography/Obscene Material
+W3032,40A,Prostitution
+W3032,40B,Assisting or Promoting Prostitution
+W3032,40C,Purchasing Prostitution
+W3032,120,Robbery
+W3032,11A,Rape
+W3032,11B,Sodomy
+W3032,11C,Sexual Assault With An Object
+W3032,11D,Fondling (Indecent Liberties/Child Molesting)
+W3032,36A,Incest
+W3032,36B,Statutory Rape
+W3032,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3032,520,Weapon Law Violations
+W3033,200,Arson
+W3033,13A,Aggravated Assault
+W3033,13B,Simple Assault
+W3033,13C,Intimidation
+W3033,510,Bribery
+W3033,220,Burglary/Breaking and Entering
+W3033,250,Counterfeiting/Forgery
+W3033,290,Destruction/Damage/Vandalism of Property
+W3033,35A,Drug/Narcotic Violations
+W3033,35B,Drug Equipment Violations
+W3033,270,Embezzlement
+W3033,210,Extortion/Blackmail
+W3033,26A,False Pretenses/Swindle/Confidence Game
+W3033,26B,Credit Card/Automatic Teller Machine Fraud
+W3033,26C,Impersonation
+W3033,26D,Welfare Fraud
+W3033,26E,Wire Fraud
+W3033,39A,Betting/Wagering
+W3033,39B,Operating/Promoting/Assisting Gambling
+W3033,39C,Gambling Equipment Violations
+W3033,39D,Sports Tampering
+W3033,09A,Murder/Nonnegligent Manslaughter
+W3033,09B,Negligent Manslaughter
+W3033,09C,Justifiable Homicide
+W3033,64A,Human Trafficking - Commercial Sex Acts
+W3033,64B,Human Trafficking - Involuntary Servitude
+W3033,100,Kidnaping/Abduction
+W3033,23A,Pocket-picking
+W3033,23B,Purse-snatching
+W3033,23C,Shoplifting
+W3033,23D,Theft From Building
+W3033,23E,Theft From Coin-Operated Machine or Device
+W3033,23F,Theft From Motor Vehicle
+W3033,23G,Theft of Motor Vehicle Parts/Accessories
+W3033,23H,All Other Larceny
+W3033,240,Motor Vehicle Theft
+W3033,370,Pornography/Obscene Material
+W3033,40A,Prostitution
+W3033,40B,Assisting or Promoting Prostitution
+W3033,40C,Purchasing Prostitution
+W3033,120,Robbery
+W3033,11A,Rape
+W3033,11B,Sodomy
+W3033,11C,Sexual Assault With An Object
+W3033,11D,Fondling (Indecent Liberties/Child Molesting)
+W3033,36A,Incest
+W3033,36B,Statutory Rape
+W3033,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W3033,520,Weapon Law Violations
+W6001,W6,Window Arrestee Segment
+W6002,01,AL-Alabama
+W6002,02,AZ-Arizona
+W6002,03,AR-Arkansas
+W6002,04,CA-California
+W6002,05,CO-Colorado
+W6002,06,CT-Connecticut
+W6002,07,DE-Delaware
+W6002,08,DC-District of Columbia
+W6002,09,FL-Florida
+W6002,10,GA-Georgia
+W6002,11,ID-Idaho
+W6002,12,IL-Illinois
+W6002,13,IN-Indiana
+W6002,14,IA-Iowa
+W6002,15,KS-Kansas
+W6002,16,KY-Kentucky
+W6002,17,LA-Louisiana
+W6002,18,ME-Maine
+W6002,19,MD-Maryland
+W6002,20,MA-Massachusetts
+W6002,21,MI-Michigan
+W6002,22,MN-Minnesota
+W6002,23,MS-Mississippi
+W6002,24,MO-Missouri
+W6002,25,MT-Montana
+W6002,26,NB-Nebraska
+W6002,27,NV-Nevada
+W6002,28,NH-New Hampshire
+W6002,29,NJ-New Jersey
+W6002,30,NM-New Mexico
+W6002,31,NY-New York
+W6002,32,NC-North Carolina
+W6002,33,ND-North Dakota
+W6002,34,OH-Ohio
+W6002,35,OK-Oklahoma
+W6002,36,OR-Oregon
+W6002,37,PA-Pennsylvania
+W6002,38,RI-Rhode Island
+W6002,39,SC-South Carolina
+W6002,40,SD-South Dakota
+W6002,41,TN-Tennessee
+W6002,42,TX-Texas
+W6002,43,UT-Utah
+W6002,44,VT-Vermont
+W6002,45,VA-Virginia
+W6002,46,WA-Washington
+W6002,47,WV-West Virginia
+W6002,48,WI-Wisconsin
+W6002,49,WY-Wyoming
+W6002,50,AK-Alaska
+W6002,51,HI-Hawaii
+W6002,52,CZ-Canal Zone
+W6002,53,PR-Puerto Rico
+W6002,54,AS-American Samoa
+W6002,55,GM-Guam
+W6002,62,VI-Virgin Islands
+W6009,O,On-View Arrest (taken into custody without a warrant or previous incident report)
+W6009,S,Summoned/Cited (not taken into custody)
+W6009,T,Taken Into Custody (based on warrant and/or previous incident report)
+W6010,M,Multiple
+W6010,C,Count Arrestee
+W6010,N,Not Applicable
+W6011,200,Arson
+W6011,13A,Aggravated Assault
+W6011,13B,Simple Assault
+W6011,13C,Intimidation
+W6011,510,Bribery
+W6011,220,Burglary/Breaking and Entering
+W6011,250,Counterfeiting/Forgery
+W6011,290,Destruction/Damage/Vandalism of Property
+W6011,35A,Drug/Narcotic Violations
+W6011,35B,Drug Equipment Violations
+W6011,270,Embezzlement
+W6011,210,Extortion/Blackmail
+W6011,26A,False Pretenses/Swindle/Confidence Game
+W6011,26B,Credit Card/Automatic Teller Machine Fraud
+W6011,26C,Impersonation
+W6011,26D,Welfare Fraud
+W6011,26E,Wire Fraud
+W6011,39A,Betting/Wagering
+W6011,39B,Operating/Promoting/Assisting Gambling
+W6011,39C,Gambling Equipment Violations
+W6011,39D,Sports Tampering
+W6011,09A,Murder/Nonnegligent Manslaughter
+W6011,09B,Negligent Manslaughter
+W6011,09C,Justifiable Homicide
+W6011,64A,Human Trafficking - Commercial Sex Acts
+W6011,64B,Human Trafficking - Involuntary Servitude
+W6011,100,Kidnaping/Abduction
+W6011,23A,Pocket-picking
+W6011,23B,Purse-snatching
+W6011,23C,Shoplifting
+W6011,23D,Theft From Building
+W6011,23E,Theft From Coin-Operated Machine or Device
+W6011,23F,Theft From Motor Vehicle
+W6011,23G,Theft of Motor Vehicle Parts/Accessories
+W6011,23H,All Other Larceny
+W6011,240,Motor Vehicle Theft
+W6011,370,Pornography/Obscene Material
+W6011,40A,Prostitution
+W6011,40B,Assisting or Promoting Prostitution
+W6011,40C,Purchasing Prostitution
+W6011,120,Robbery
+W6011,11A,Rape
+W6011,11B,Sodomy
+W6011,11C,Sexual Assault With An Object
+W6011,11D,Fondling (Indecent Liberties/Child Molesting)
+W6011,36A,Incest
+W6011,36B,Statutory Rape
+W6011,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6011,520,Weapon Law Violations
+W6012,01,Unarmed
+W6012,11,Firearm (type not stated)
+W6012,11A,"Firearm (type not stated), automatic"
+W6012,12,Handgun
+W6012,12A,"Handgun, automatic"
+W6012,13,Rifle
+W6012,13A,"Rifle, automatic"
+W6012,14,Shotgun
+W6012,14A,"Shotgun, automatic"
+W6012,15,Other Firearm
+W6012,15A,"Other Firearm, automatic"
+W6012,16,"Lethal Cutting Instrument (e.g., switchblade knife, etc.)"
+W6012,17,Club/Blackjack/Brass Knuckles
+W6013,01,Unarmed
+W6013,11,Firearm (type not stated)
+W6013,11A,"Firearm (type not stated), automatic"
+W6013,12,Handgun
+W6013,12A,"Handgun, automatic"
+W6013,13,Rifle
+W6013,13A,"Rifle, automatic"
+W6013,14,Shotgun
+W6013,14A,"Shotgun, automatic"
+W6013,15,Other Firearm
+W6013,15A,"Other Firearm, automatic"
+W6013,16,"Lethal Cutting Instrument (e.g., switchblade knife, etc.)"
+W6013,17,Club/Blackjack/Brass Knuckles
+W6014,00,Unknown
+W6014,99,Over 98 Years Old
+W6015,M,Male
+W6015,F,Female
+W6016,W,White
+W6016,B,Black or African American
+W6016,I,American Indian or Alaska Native
+W6016,A,Asian
+W6016,P,Native Hawaiian or Other Pacific Islander
+W6016,U,Unknown
+W6017,H,Hispanic or Latino Origin
+W6017,N,Not of Hispanic or Latino Origin
+W6017,U,Unknown
+W6018,R,Resident
+W6018,N,Nonresident
+W6018,U,Unknown
+W6019,H,"Handled Within Department (e.g., released to parents, released with warning, etc.)"
+W6019,R,"Referred to Other Authorities (e.g., turned over to juvenile court, probation department, welfare agency, other police agency,
+criminal or adult court, etc.)"
+W6020,Y,Yes (clears case)
+W6020,N,No (already cleared)
+W6021,200,Arson
+W6021,13A,Aggravated Assault
+W6021,13B,Simple Assault
+W6021,13C,Intimidation
+W6021,510,Bribery
+W6021,220,Burglary/Breaking and Entering
+W6021,250,Counterfeiting/Forgery
+W6021,290,Destruction/Damage/Vandalism of Property
+W6021,35A,Drug/Narcotic Violations
+W6021,35B,Drug Equipment Violations
+W6021,270,Embezzlement
+W6021,210,Extortion/Blackmail
+W6021,26A,False Pretenses/Swindle/Confidence Game
+W6021,26B,Credit Card/Automatic Teller Machine Fraud
+W6021,26C,Impersonation
+W6021,26D,Welfare Fraud
+W6021,26E,Wire Fraud
+W6021,39A,Betting/Wagering
+W6021,39B,Operating/Promoting/Assisting Gambling
+W6021,39C,Gambling Equipment Violations
+W6021,39D,Sports Tampering
+W6021,09A,Murder/Nonnegligent Manslaughter
+W6021,09B,Negligent Manslaughter
+W6021,09C,Justifiable Homicide
+W6021,64A,Human Trafficking - Commercial Sex Acts
+W6021,64B,Human Trafficking - Involuntary Servitude
+W6021,100,Kidnaping/Abduction
+W6021,23A,Pocket-picking
+W6021,23B,Purse-snatching
+W6021,23C,Shoplifting
+W6021,23D,Theft From Building
+W6021,23E,Theft From Coin-Operated Machine or Device
+W6021,23F,Theft From Motor Vehicle
+W6021,23G,Theft of Motor Vehicle Parts/Accessories
+W6021,23H,All Other Larceny
+W6021,240,Motor Vehicle Theft
+W6021,370,Pornography/Obscene Material
+W6021,40A,Prostitution
+W6021,40B,Assisting or Promoting Prostitution
+W6021,40C,Purchasing Prostitution
+W6021,120,Robbery
+W6021,11A,Rape
+W6021,11B,Sodomy
+W6021,11C,Sexual Assault With An Object
+W6021,11D,Fondling (Indecent Liberties/Child Molesting)
+W6021,36A,Incest
+W6021,36B,Statutory Rape
+W6021,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6021,520,Weapon Law Violations
+W6022,200,Arson
+W6022,13A,Aggravated Assault
+W6022,13B,Simple Assault
+W6022,13C,Intimidation
+W6022,510,Bribery
+W6022,220,Burglary/Breaking and Entering
+W6022,250,Counterfeiting/Forgery
+W6022,290,Destruction/Damage/Vandalism of Property
+W6022,35A,Drug/Narcotic Violations
+W6022,35B,Drug Equipment Violations
+W6022,270,Embezzlement
+W6022,210,Extortion/Blackmail
+W6022,26A,False Pretenses/Swindle/Confidence Game
+W6022,26B,Credit Card/Automatic Teller Machine Fraud
+W6022,26C,Impersonation
+W6022,26D,Welfare Fraud
+W6022,26E,Wire Fraud
+W6022,39A,Betting/Wagering
+W6022,39B,Operating/Promoting/Assisting Gambling
+W6022,39C,Gambling Equipment Violations
+W6022,39D,Sports Tampering
+W6022,09A,Murder/Nonnegligent Manslaughter
+W6022,09B,Negligent Manslaughter
+W6022,09C,Justifiable Homicide
+W6022,64A,Human Trafficking - Commercial Sex Acts
+W6022,64B,Human Trafficking - Involuntary Servitude
+W6022,100,Kidnaping/Abduction
+W6022,23A,Pocket-picking
+W6022,23B,Purse-snatching
+W6022,23C,Shoplifting
+W6022,23D,Theft From Building
+W6022,23E,Theft From Coin-Operated Machine or Device
+W6022,23F,Theft From Motor Vehicle
+W6022,23G,Theft of Motor Vehicle Parts/Accessories
+W6022,23H,All Other Larceny
+W6022,240,Motor Vehicle Theft
+W6022,370,Pornography/Obscene Material
+W6022,40A,Prostitution
+W6022,40B,Assisting or Promoting Prostitution
+W6022,40C,Purchasing Prostitution
+W6022,120,Robbery
+W6022,11A,Rape
+W6022,11B,Sodomy
+W6022,11C,Sexual Assault With An Object
+W6022,11D,Fondling (Indecent Liberties/Child Molesting)
+W6022,36A,Incest
+W6022,36B,Statutory Rape
+W6022,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6022,520,Weapon Law Violations
+W6023,200,Arson
+W6023,13A,Aggravated Assault
+W6023,13B,Simple Assault
+W6023,13C,Intimidation
+W6023,510,Bribery
+W6023,220,Burglary/Breaking and Entering
+W6023,250,Counterfeiting/Forgery
+W6023,290,Destruction/Damage/Vandalism of Property
+W6023,35A,Drug/Narcotic Violations
+W6023,35B,Drug Equipment Violations
+W6023,270,Embezzlement
+W6023,210,Extortion/Blackmail
+W6023,26A,False Pretenses/Swindle/Confidence Game
+W6023,26B,Credit Card/Automatic Teller Machine Fraud
+W6023,26C,Impersonation
+W6023,26D,Welfare Fraud
+W6023,26E,Wire Fraud
+W6023,39A,Betting/Wagering
+W6023,39B,Operating/Promoting/Assisting Gambling
+W6023,39C,Gambling Equipment Violations
+W6023,39D,Sports Tampering
+W6023,09A,Murder/Nonnegligent Manslaughter
+W6023,09B,Negligent Manslaughter
+W6023,09C,Justifiable Homicide
+W6023,64A,Human Trafficking - Commercial Sex Acts
+W6023,64B,Human Trafficking - Involuntary Servitude
+W6023,100,Kidnaping/Abduction
+W6023,23A,Pocket-picking
+W6023,23B,Purse-snatching
+W6023,23C,Shoplifting
+W6023,23D,Theft From Building
+W6023,23E,Theft From Coin-Operated Machine or Device
+W6023,23F,Theft From Motor Vehicle
+W6023,23G,Theft of Motor Vehicle Parts/Accessories
+W6023,23H,All Other Larceny
+W6023,240,Motor Vehicle Theft
+W6023,370,Pornography/Obscene Material
+W6023,40A,Prostitution
+W6023,40B,Assisting or Promoting Prostitution
+W6023,40C,Purchasing Prostitution
+W6023,120,Robbery
+W6023,11A,Rape
+W6023,11B,Sodomy
+W6023,11C,Sexual Assault With An Object
+W6023,11D,Fondling (Indecent Liberties/Child Molesting)
+W6023,36A,Incest
+W6023,36B,Statutory Rape
+W6023,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6023,520,Weapon Law Violations
+W6024,200,Arson
+W6024,13A,Aggravated Assault
+W6024,13B,Simple Assault
+W6024,13C,Intimidation
+W6024,510,Bribery
+W6024,220,Burglary/Breaking and Entering
+W6024,250,Counterfeiting/Forgery
+W6024,290,Destruction/Damage/Vandalism of Property
+W6024,35A,Drug/Narcotic Violations
+W6024,35B,Drug Equipment Violations
+W6024,270,Embezzlement
+W6024,210,Extortion/Blackmail
+W6024,26A,False Pretenses/Swindle/Confidence Game
+W6024,26B,Credit Card/Automatic Teller Machine Fraud
+W6024,26C,Impersonation
+W6024,26D,Welfare Fraud
+W6024,26E,Wire Fraud
+W6024,39A,Betting/Wagering
+W6024,39B,Operating/Promoting/Assisting Gambling
+W6024,39C,Gambling Equipment Violations
+W6024,39D,Sports Tampering
+W6024,09A,Murder/Nonnegligent Manslaughter
+W6024,09B,Negligent Manslaughter
+W6024,09C,Justifiable Homicide
+W6024,64A,Human Trafficking - Commercial Sex Acts
+W6024,64B,Human Trafficking - Involuntary Servitude
+W6024,100,Kidnaping/Abduction
+W6024,23A,Pocket-picking
+W6024,23B,Purse-snatching
+W6024,23C,Shoplifting
+W6024,23D,Theft From Building
+W6024,23E,Theft From Coin-Operated Machine or Device
+W6024,23F,Theft From Motor Vehicle
+W6024,23G,Theft of Motor Vehicle Parts/Accessories
+W6024,23H,All Other Larceny
+W6024,240,Motor Vehicle Theft
+W6024,370,Pornography/Obscene Material
+W6024,40A,Prostitution
+W6024,40B,Assisting or Promoting Prostitution
+W6024,40C,Purchasing Prostitution
+W6024,120,Robbery
+W6024,11A,Rape
+W6024,11B,Sodomy
+W6024,11C,Sexual Assault With An Object
+W6024,11D,Fondling (Indecent Liberties/Child Molesting)
+W6024,36A,Incest
+W6024,36B,Statutory Rape
+W6024,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6024,520,Weapon Law Violations
+W6025,200,Arson
+W6025,13A,Aggravated Assault
+W6025,13B,Simple Assault
+W6025,13C,Intimidation
+W6025,510,Bribery
+W6025,220,Burglary/Breaking and Entering
+W6025,250,Counterfeiting/Forgery
+W6025,290,Destruction/Damage/Vandalism of Property
+W6025,35A,Drug/Narcotic Violations
+W6025,35B,Drug Equipment Violations
+W6025,270,Embezzlement
+W6025,210,Extortion/Blackmail
+W6025,26A,False Pretenses/Swindle/Confidence Game
+W6025,26B,Credit Card/Automatic Teller Machine Fraud
+W6025,26C,Impersonation
+W6025,26D,Welfare Fraud
+W6025,26E,Wire Fraud
+W6025,39A,Betting/Wagering
+W6025,39B,Operating/Promoting/Assisting Gambling
+W6025,39C,Gambling Equipment Violations
+W6025,39D,Sports Tampering
+W6025,09A,Murder/Nonnegligent Manslaughter
+W6025,09B,Negligent Manslaughter
+W6025,09C,Justifiable Homicide
+W6025,64A,Human Trafficking - Commercial Sex Acts
+W6025,64B,Human Trafficking - Involuntary Servitude
+W6025,100,Kidnaping/Abduction
+W6025,23A,Pocket-picking
+W6025,23B,Purse-snatching
+W6025,23C,Shoplifting
+W6025,23D,Theft From Building
+W6025,23E,Theft From Coin-Operated Machine or Device
+W6025,23F,Theft From Motor Vehicle
+W6025,23G,Theft of Motor Vehicle Parts/Accessories
+W6025,23H,All Other Larceny
+W6025,240,Motor Vehicle Theft
+W6025,370,Pornography/Obscene Material
+W6025,40A,Prostitution
+W6025,40B,Assisting or Promoting Prostitution
+W6025,40C,Purchasing Prostitution
+W6025,120,Robbery
+W6025,11A,Rape
+W6025,11B,Sodomy
+W6025,11C,Sexual Assault With An Object
+W6025,11D,Fondling (Indecent Liberties/Child Molesting)
+W6025,36A,Incest
+W6025,36B,Statutory Rape
+W6025,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6025,520,Weapon Law Violations
+W6026,200,Arson
+W6026,13A,Aggravated Assault
+W6026,13B,Simple Assault
+W6026,13C,Intimidation
+W6026,510,Bribery
+W6026,220,Burglary/Breaking and Entering
+W6026,250,Counterfeiting/Forgery
+W6026,290,Destruction/Damage/Vandalism of Property
+W6026,35A,Drug/Narcotic Violations
+W6026,35B,Drug Equipment Violations
+W6026,270,Embezzlement
+W6026,210,Extortion/Blackmail
+W6026,26A,False Pretenses/Swindle/Confidence Game
+W6026,26B,Credit Card/Automatic Teller Machine Fraud
+W6026,26C,Impersonation
+W6026,26D,Welfare Fraud
+W6026,26E,Wire Fraud
+W6026,39A,Betting/Wagering
+W6026,39B,Operating/Promoting/Assisting Gambling
+W6026,39C,Gambling Equipment Violations
+W6026,39D,Sports Tampering
+W6026,09A,Murder/Nonnegligent Manslaughter
+W6026,09B,Negligent Manslaughter
+W6026,09C,Justifiable Homicide
+W6026,64A,Human Trafficking - Commercial Sex Acts
+W6026,64B,Human Trafficking - Involuntary Servitude
+W6026,100,Kidnaping/Abduction
+W6026,23A,Pocket-picking
+W6026,23B,Purse-snatching
+W6026,23C,Shoplifting
+W6026,23D,Theft From Building
+W6026,23E,Theft From Coin-Operated Machine or Device
+W6026,23F,Theft From Motor Vehicle
+W6026,23G,Theft of Motor Vehicle Parts/Accessories
+W6026,23H,All Other Larceny
+W6026,240,Motor Vehicle Theft
+W6026,370,Pornography/Obscene Material
+W6026,40A,Prostitution
+W6026,40B,Assisting or Promoting Prostitution
+W6026,40C,Purchasing Prostitution
+W6026,120,Robbery
+W6026,11A,Rape
+W6026,11B,Sodomy
+W6026,11C,Sexual Assault With An Object
+W6026,11D,Fondling (Indecent Liberties/Child Molesting)
+W6026,36A,Incest
+W6026,36B,Statutory Rape
+W6026,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6026,520,Weapon Law Violations
+W6027,200,Arson
+W6027,13A,Aggravated Assault
+W6027,13B,Simple Assault
+W6027,13C,Intimidation
+W6027,510,Bribery
+W6027,220,Burglary/Breaking and Entering
+W6027,250,Counterfeiting/Forgery
+W6027,290,Destruction/Damage/Vandalism of Property
+W6027,35A,Drug/Narcotic Violations
+W6027,35B,Drug Equipment Violations
+W6027,270,Embezzlement
+W6027,210,Extortion/Blackmail
+W6027,26A,False Pretenses/Swindle/Confidence Game
+W6027,26B,Credit Card/Automatic Teller Machine Fraud
+W6027,26C,Impersonation
+W6027,26D,Welfare Fraud
+W6027,26E,Wire Fraud
+W6027,39A,Betting/Wagering
+W6027,39B,Operating/Promoting/Assisting Gambling
+W6027,39C,Gambling Equipment Violations
+W6027,39D,Sports Tampering
+W6027,09A,Murder/Nonnegligent Manslaughter
+W6027,09B,Negligent Manslaughter
+W6027,09C,Justifiable Homicide
+W6027,64A,Human Trafficking - Commercial Sex Acts
+W6027,64B,Human Trafficking - Involuntary Servitude
+W6027,100,Kidnaping/Abduction
+W6027,23A,Pocket-picking
+W6027,23B,Purse-snatching
+W6027,23C,Shoplifting
+W6027,23D,Theft From Building
+W6027,23E,Theft From Coin-Operated Machine or Device
+W6027,23F,Theft From Motor Vehicle
+W6027,23G,Theft of Motor Vehicle Parts/Accessories
+W6027,23H,All Other Larceny
+W6027,240,Motor Vehicle Theft
+W6027,370,Pornography/Obscene Material
+W6027,40A,Prostitution
+W6027,40B,Assisting or Promoting Prostitution
+W6027,40C,Purchasing Prostitution
+W6027,120,Robbery
+W6027,11A,Rape
+W6027,11B,Sodomy
+W6027,11C,Sexual Assault With An Object
+W6027,11D,Fondling (Indecent Liberties/Child Molesting)
+W6027,36A,Incest
+W6027,36B,Statutory Rape
+W6027,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6027,520,Weapon Law Violations
+W6028,200,Arson
+W6028,13A,Aggravated Assault
+W6028,13B,Simple Assault
+W6028,13C,Intimidation
+W6028,510,Bribery
+W6028,220,Burglary/Breaking and Entering
+W6028,250,Counterfeiting/Forgery
+W6028,290,Destruction/Damage/Vandalism of Property
+W6028,35A,Drug/Narcotic Violations
+W6028,35B,Drug Equipment Violations
+W6028,270,Embezzlement
+W6028,210,Extortion/Blackmail
+W6028,26A,False Pretenses/Swindle/Confidence Game
+W6028,26B,Credit Card/Automatic Teller Machine Fraud
+W6028,26C,Impersonation
+W6028,26D,Welfare Fraud
+W6028,26E,Wire Fraud
+W6028,39A,Betting/Wagering
+W6028,39B,Operating/Promoting/Assisting Gambling
+W6028,39C,Gambling Equipment Violations
+W6028,39D,Sports Tampering
+W6028,09A,Murder/Nonnegligent Manslaughter
+W6028,09B,Negligent Manslaughter
+W6028,09C,Justifiable Homicide
+W6028,64A,Human Trafficking - Commercial Sex Acts
+W6028,64B,Human Trafficking - Involuntary Servitude
+W6028,100,Kidnaping/Abduction
+W6028,23A,Pocket-picking
+W6028,23B,Purse-snatching
+W6028,23C,Shoplifting
+W6028,23D,Theft From Building
+W6028,23E,Theft From Coin-Operated Machine or Device
+W6028,23F,Theft From Motor Vehicle
+W6028,23G,Theft of Motor Vehicle Parts/Accessories
+W6028,23H,All Other Larceny
+W6028,240,Motor Vehicle Theft
+W6028,370,Pornography/Obscene Material
+W6028,40A,Prostitution
+W6028,40B,Assisting or Promoting Prostitution
+W6028,40C,Purchasing Prostitution
+W6028,120,Robbery
+W6028,11A,Rape
+W6028,11B,Sodomy
+W6028,11C,Sexual Assault With An Object
+W6028,11D,Fondling (Indecent Liberties/Child Molesting)
+W6028,36A,Incest
+W6028,36B,Statutory Rape
+W6028,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6028,520,Weapon Law Violations
+W6029,200,Arson
+W6029,13A,Aggravated Assault
+W6029,13B,Simple Assault
+W6029,13C,Intimidation
+W6029,510,Bribery
+W6029,220,Burglary/Breaking and Entering
+W6029,250,Counterfeiting/Forgery
+W6029,290,Destruction/Damage/Vandalism of Property
+W6029,35A,Drug/Narcotic Violations
+W6029,35B,Drug Equipment Violations
+W6029,270,Embezzlement
+W6029,210,Extortion/Blackmail
+W6029,26A,False Pretenses/Swindle/Confidence Game
+W6029,26B,Credit Card/Automatic Teller Machine Fraud
+W6029,26C,Impersonation
+W6029,26D,Welfare Fraud
+W6029,26E,Wire Fraud
+W6029,39A,Betting/Wagering
+W6029,39B,Operating/Promoting/Assisting Gambling
+W6029,39C,Gambling Equipment Violations
+W6029,39D,Sports Tampering
+W6029,09A,Murder/Nonnegligent Manslaughter
+W6029,09B,Negligent Manslaughter
+W6029,09C,Justifiable Homicide
+W6029,64A,Human Trafficking - Commercial Sex Acts
+W6029,64B,Human Trafficking - Involuntary Servitude
+W6029,100,Kidnaping/Abduction
+W6029,23A,Pocket-picking
+W6029,23B,Purse-snatching
+W6029,23C,Shoplifting
+W6029,23D,Theft From Building
+W6029,23E,Theft From Coin-Operated Machine or Device
+W6029,23F,Theft From Motor Vehicle
+W6029,23G,Theft of Motor Vehicle Parts/Accessories
+W6029,23H,All Other Larceny
+W6029,240,Motor Vehicle Theft
+W6029,370,Pornography/Obscene Material
+W6029,40A,Prostitution
+W6029,40B,Assisting or Promoting Prostitution
+W6029,40C,Purchasing Prostitution
+W6029,120,Robbery
+W6029,11A,Rape
+W6029,11B,Sodomy
+W6029,11C,Sexual Assault With An Object
+W6029,11D,Fondling (Indecent Liberties/Child Molesting)
+W6029,36A,Incest
+W6029,36B,Statutory Rape
+W6029,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6029,520,Weapon Law Violations
+W6030,200,Arson
+W6030,13A,Aggravated Assault
+W6030,13B,Simple Assault
+W6030,13C,Intimidation
+W6030,510,Bribery
+W6030,220,Burglary/Breaking and Entering
+W6030,250,Counterfeiting/Forgery
+W6030,290,Destruction/Damage/Vandalism of Property
+W6030,35A,Drug/Narcotic Violations
+W6030,35B,Drug Equipment Violations
+W6030,270,Embezzlement
+W6030,210,Extortion/Blackmail
+W6030,26A,False Pretenses/Swindle/Confidence Game
+W6030,26B,Credit Card/Automatic Teller Machine Fraud
+W6030,26C,Impersonation
+W6030,26D,Welfare Fraud
+W6030,26E,Wire Fraud
+W6030,39A,Betting/Wagering
+W6030,39B,Operating/Promoting/Assisting Gambling
+W6030,39C,Gambling Equipment Violations
+W6030,39D,Sports Tampering
+W6030,09A,Murder/Nonnegligent Manslaughter
+W6030,09B,Negligent Manslaughter
+W6030,09C,Justifiable Homicide
+W6030,64A,Human Trafficking - Commercial Sex Acts
+W6030,64B,Human Trafficking - Involuntary Servitude
+W6030,100,Kidnaping/Abduction
+W6030,23A,Pocket-picking
+W6030,23B,Purse-snatching
+W6030,23C,Shoplifting
+W6030,23D,Theft From Building
+W6030,23E,Theft From Coin-Operated Machine or Device
+W6030,23F,Theft From Motor Vehicle
+W6030,23G,Theft of Motor Vehicle Parts/Accessories
+W6030,23H,All Other Larceny
+W6030,240,Motor Vehicle Theft
+W6030,370,Pornography/Obscene Material
+W6030,40A,Prostitution
+W6030,40B,Assisting or Promoting Prostitution
+W6030,40C,Purchasing Prostitution
+W6030,120,Robbery
+W6030,11A,Rape
+W6030,11B,Sodomy
+W6030,11C,Sexual Assault With An Object
+W6030,11D,Fondling (Indecent Liberties/Child Molesting)
+W6030,36A,Incest
+W6030,36B,Statutory Rape
+W6030,280,"Stolen Property Offenses (Receiving, Selling, Etc.)"
+W6030,520,Weapon Law Violations
