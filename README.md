@@ -26,6 +26,10 @@ The code to standardize the raw data can be found in the three Jupyter notebooks
 
 The code to analyze the standardized data can be found in the four Jupyter notebooks, written in the Python programming language, in the `notebooks/analyze` directory. Each of the first three notebooks analyzes one of the three federal datasets; the fourth compares findings from the three datasets to one another. The findings are also summarized in the methodology linked in the first section of this document.
 
+# Data Disclaimer
+
+The data in this repository is a standardization of raw FBI data, from the three data collection programs described above. We have carefully checked the accuracy of our analysis, and shared our findings numerous experts in the law enforcement field prior to publication. We are sharing our data, methodology, and code in order to support further research and reporting on gun violence. However, users of this data may wish to independently verify the accuracy of their findings prior to making them public, as The Trace and Buzzfeed make no representations or warranties as to any third party use of this data.
+
 # Reproducibility
 
 Executing the notebooks above, in order, will reproduce the findings. You will need Python 3 installed, as well as the Python libraries specified in this repository's `Pipfile`.
@@ -41,7 +45,6 @@ data/
 ```
 
 You do not need to run the standardization code (which can take several hours to finish) in order to run the analysis code. But if you choose not to run the standardization code, you will first need to unzip the `data/standardized/nibrs-victims.csv.zip` and `data/standardized/nibrs-victims.csv.zip` files in order for the analysis to work.
-
 
 # Licensing
 
